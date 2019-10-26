@@ -14,10 +14,13 @@ headers_merchant = 'MERCHANT.MCC, MERCHANT.LocZipCode '
 
 main_query = 'SELECT TOP 10 ' + headers_tpd + headers_merchant + \
     ' from TPD INNER JOIN MERCHANT ON TPD.anon_MID = anon_Eid' + \
-    ' where TxnData > 20180731' # don't select when there are few transactions
-test_query = 'SELECT TxnData, COUNT(*) from TPD where TxnData > 20180731 group by TxnData '
+    ' where TxnData > 20180731'
 
-cursor.execute(main_query)
+# where TxnData > 20180731 group by TxnData 
+
+test_query = 'select TOP 25 MCC, LocCity, LocZipCode, COUNT(ROWID), SUM(TPD.anon_Kwota), TxnData FROM TPD join MERCHANT on Merchant.anon_EID = TPD.anon_MID group by TxnData, anon_Eid, MCC, LocCity, LocZipCode ORDER BY COUNT(ROWID) DESC'
+
+cursor.execute(test_query)
 
 
 columns = [column[0] for column in cursor.description]

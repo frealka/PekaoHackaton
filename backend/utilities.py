@@ -80,4 +80,6 @@ if __name__ == '__main__':
     # print(convert_date_to_weekday('20191026'))
     # print(is_shopping_sunday('20181008'))
     # print(is_shopping_sunday('20181007'))
+    # print(get_location_from_postal_code('55-050'))
+    print(get_id_by_name('Wrocław')) #ID for API call
     print(get_number_of_zabytki('wrocławski', 'Żórawina', 'Żórawina'))
