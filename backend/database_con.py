@@ -9,9 +9,15 @@ conn = pyodbc.connect('Driver={/opt/microsoft/msodbcsql17/lib64/libmsodbcsql-17.
 
 cursor = conn.cursor()
 
-headers_tpd = 'TPD.TxnData, TPD.TxnCzas, TPD.anon_kwota, TPD.DCC, TPD.TypePayment,'
+headers_tpd = 'TPD.TxnData, TPD.TxnCzas, TPD.anon_kwota, TPD.DCC, TPD.TypePayment, '
 headers_merchant = 'MERCHANT.MCC, MERCHANT.LocCity, MERCHANT.LocZipCode '
-cursor.execute('SELECT TOP 10' + headers_tpd + headers_merchant + 'from TPD INNER JOIN MERCHANT ON TPD.anon_MID = anon_Eid')
+
+main_query = 'SELECT TOP 10 ' + headers_tpd + headers_merchant + \
+    ' from TPD INNER JOIN MERCHANT ON TPD.anon_MID = anon_Eid' + \
+    ' where TxnData > 20180731' # don't select when there are few transactions
+test_query = 'SELECT TxnData, COUNT(*) from TPD where TxnData > 20180731 group by TxnData '
+
+cursor.execute(test_query)
 
 
 columns = [column[0] for column in cursor.description]
