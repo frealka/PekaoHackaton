@@ -1,7 +1,27 @@
 import datetime
 import requests
 import pandas as pd
+import json
+import unidecode
 
+# WEATHER DATA
+json_file = open('history.city.list.json')
+data = json.load(json_file)
+
+def get_object_by_name(name):
+    for dict in data:
+        city_name = dict['city']['name'].lower()
+        name = name.lower()
+        name = unidecode.unidecode(name)
+        if city_name == name:
+            return dict
+
+# https://openweathermap.org/history
+def get_id_by_name(name):
+    element = get_object_by_name(name)
+    return element['id']
+
+# UTILS FUNCTIONS
 def convert_date_to_list(date):
     y = date[:4]
     m = date[4:6]
@@ -33,8 +53,8 @@ def is_shopping_sunday(date):
     return 0
 
 
+# POSTAL FUNCTIONS
 BASE_POSTAL_URL = 'http://kodpocztowy.intami.pl/api/'
-
 
 def get_location_from_postal_code(postal_code):
     response = requests.get(BASE_POSTAL_URL + str(postal_code))
