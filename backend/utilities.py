@@ -16,6 +16,7 @@ def get_object_by_name(name):
         name = unidecode.unidecode(name)
         if city_name == name:
             return dict
+    return {'city': {'coord':{'lon': "51.9", 'lat': "19.1"}}}
 
 
 # https://openweathermap.org/history
