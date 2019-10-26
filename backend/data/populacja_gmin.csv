@@ -1,0 +1,931 @@
+ID,NAZWA,POWIAT,POWIERZCHNIA (ha),POWIERZCHNIA (km2),POPULACJA
+022401 4,Bardo,Ząbkowicki,471,5,2603
+020201 1,Bielawa,Dzierżoniowski,3621,36,30207
+021402 4,Bierutów,Oleśnicki,836,9,4935
+022503 4,Bogatynia,Zgorzelecki,5988,60,17762
+022101 1,Boguszów-Gorce,Wałbrzyski,2702,27,15566
+020101 1,Bolesławiec,Bolesławiecki,2357,24,39084
+020502 4,Bolków,Jaworski,768,7,5047
+022201 4,Brzeg Dolny,Wołowski,1720,17,12486
+020806 4,Bystrzyca Kłodzka,Kłodzki,1074,12,10239
+021601 4,Chocianów,Polkowicki,900,9,7996
+020901 1,Chojnów,Legnicki,532,5,13573
+020801 1,Duszniki-Zdrój,Kłodzki,2228,22,4728
+020202 1,Dzierżoniów,Dzierżoniowski,2007,20,33653
+020301 1,Głogów,Głogowski,3511,35,68179
+022105 4,Głuszyca,Wałbrzyski,1621,16,6431
+020401 4,Góra,Górowski,1365,14,11994
+021201 4,Gryfów Śląski,Lwówecki,663,7,6684
+020501 1,Jawor,Jaworski,1880,19,23266
+021904 4,Jaworzyna Śląska,Świdnicki,434,5,5164
+022102 1,Jedlina-Zdrój,Wałbrzyski,1745,17,4887
+021503 4,Jelcz-Laskowice,Oławski,1706,17,15867
+026101 1,Jelenia Góra,Jelenia Góra,10922,109,80072
+020701 1,Kamienna Góra,Kamiennogórski,1804,18,19348
+020601 1,Karpacz,Jeleniogórski,3799,39,4711
+022304 4,Kąty Wrocławskie,Wrocławski,861,8,6846
+020802 1,Kłodzko,Kłodzki,2484,25,27193
+020602 1,Kowary,Jeleniogórski,3739,37,11090
+020803 1,Kudowa-Zdrój,Kłodzki,3390,34,10018
+020808 4,Lądek-Zdrój,Kłodzki,2032,20,5685
+026201 1,Legnica,Legnica,5629,56,100324
+021003 4,Leśna,Lubański,856,8,4532
+021001 1,Lubań,Lubański,1612,16,21318
+020703 4,Lubawka,Kamiennogórski,2244,22,6106
+021101 1,Lubin,Lubiński,4077,41,72892
+021202 4,Lubomierz,Lwówecki,805,8,2002
+021203 4,Lwówek Śląski,Lwówecki,1665,17,8895
+022106 4,Mieroszów,Wałbrzyski,1031,10,4147
+021405 4,Międzybórz,Oleśnicki,641,6,2362
+020810 4,Międzylesie,Kłodzki,1437,14,2623
+021303 4,Milicz,Milicki,1350,14,11482
+021204 4,Mirsk,Lwówecki,1466,15,3938
+020207 4,Niemcza,Dzierżoniowski,1981,20,2981
+020804 1,Nowa Ruda,Kłodzki,3705,37,22455
+020104 4,Nowogrodziec,Bolesławiecki,1610,16,4244
+022001 4,Oborniki Śląskie,Trzebnicki,1446,15,9118
+021401 1,Oleśnica,Oleśnicki,2096,21,37300
+021005 4,Olszyna,Lubański,2026,20,4347
+021501 1,Oława,Oławski,2736,27,32883
+020603 1,Piechowice,Jeleniogórski,4322,43,6314
+022504 4,Pieńsk,Zgorzelecki,992,10,5866
+020203 4,Pieszyce,Dzierżoniowski,1772,18,7170
+020204 1,Piława Górna,Dzierżoniowski,2093,21,6479
+020805 1,Polanica-Zdrój,Kłodzki,1722,17,6381
+021604 4,Polkowice,Polkowicki,2374,24,22504
+020907 4,Prochowice,Legnicki,985,10,3646
+022002 4,Prusice,Trzebnicki,1094,11,2235
+021605 4,Przemków,Polkowicki,617,6,6217
+020812 4,Radków,Kłodzki,1503,15,2427
+022308 4,Siechnice,Wrocławski,1563,16,7410
+022307 4,Sobótka,Wrocławski,3220,32,6951
+020813 4,Stronie Śląskie,Kłodzki,238,2,5755
+021906 4,Strzegom,Świdnicki,2049,20,16272
+021704 4,Strzelin,Strzeliński,1034,10,12423
+021407 4,Syców,Oleśnicki,1705,17,10413
+022103 1,Szczawno-Zdrój,Wałbrzyski,1474,15,5650
+020814 4,Szczytna,Kłodzki,8038,80,5242
+020604 1,Szklarska Poręba,Jeleniogórski,7544,75,6681
+021104 4,Ścinawa,Lubiński,1354,14,5677
+021804 4,Środa Śląska,Średzki,1494,15,9428
+021901 1,Świdnica,Świdnicki,2176,22,57671
+021902 1,Świebodzice,Świdnicki,3043,30,22840
+021002 1,Świeradów-Zdrój,Lubański,2072,21,4209
+022604 4,Świerzawa,Złotoryjski,176,2,2315
+022003 4,Trzebnica,Trzebnicki,1061,11,13261
+021408 4,Twardogóra,Oleśnicki,829,8,6784
+026501 1,Wałbrzych,Wałbrzych,8470,85,113621
+020404 4,Wąsosz,Górowski,324,3,2688
+022506 4,Węgliniec,Zgorzelecki,873,9,2868
+021705 4,Wiązów,Strzeliński,916,9,2296
+021205 4,Wleń,Lwówecki,722,7,1806
+022601 1,Wojcieszów,Złotoryjski,3217,32,3696
+022203 4,Wołów,Wołowski,1854,19,12439
+026401 1,Wrocław,Wrocław,29282,293,638586
+022501 1,Zawidów,Zgorzelecki,607,6,4232
+022405 4,Ząbkowice Śląskie,Ząbkowicki,1367,14,15219
+022502 1,Zgorzelec,Zgorzelecki,1588,16,30738
+022406 4,Ziębice,Ząbkowicki,1507,15,8796
+022602 1,Złotoryja,Złotoryjski,1151,12,15783
+022407 4,Złoty Stok,Ząbkowicki,773,8,2821
+021908 4,Żarów,Świdnicki,757,8,6811
+022006 4,Żmigród,Trzebnicki,949,9,6472
+040101 1,Aleksandrów Kujawski,Aleksandrowski,723,7,12270
+041901 4,Barcin,Żniński,370,4,7516
+040201 1,Brodnica,Brodnicki,2315,23,28717
+041804 4,Brześć Kujawski,Włocławski,704,8,4660
+046101 1,Bydgoszcz,Bydgoszcz,17598,176,352313
+040401 1,Chełmno,Chełmiński,1356,14,19911
+041501 1,Chełmża,Toruński,784,7,14645
+041806 4,Chodecz,Włocławski,139,1,1885
+040102 1,Ciechocinek,Aleksandrowski,1526,15,10586
+040804 4,Dobrzyń nad Wisłą,Lipnowski,541,6,2161
+040703 4,Gniewkowo,Inowrocławski,918,9,7202
+040501 1,Golub-Dobrzyń,Golubsko-dobrzyński,750,8,12828
+040205 4,Górzno,Brodnicki,343,4,1403
+046201 1,Grudziądz,Grudziądz,5776,58,95629
+040701 1,Inowrocław,Inowrocławski,3042,30,73577
+041808 4,Izbica Kujawska,Włocławski,224,2,2677
+040207 4,Jabłonowo Pomorskie,Brodnicki,335,3,3782
+040705 4,Janikowo,Inowrocławski,951,10,8844
+041903 4,Janowiec Wielkopolski,Żniński,304,3,4016
+041301 4,Kamień Krajeński,Sępoleński,365,4,2394
+041001 4,Kcynia,Nakielski,684,6,4678
+040304 4,Koronowo,Bydgoski,2815,28,11230
+041801 1,Kowal,Włocławski,468,5,3544
+040504 4,Kowalewo Pomorskie,Golubsko-dobrzyński,445,4,4192
+040706 4,Kruszwica,Inowrocławski,664,7,8926
+040801 1,Lipno,Lipnowski,1099,11,14592
+041811 4,Lubień Kujawski,Włocławski,231,2,1391
+041812 4,Lubraniec,Włocławski,197,2,3052
+041904 4,Łabiszyn,Żniński,289,3,4501
+040603 4,Łasin,Grudziądzki,479,5,3320
+040903 4,Mogilno,Mogileński,832,9,11995
+041002 4,Mrocza,Nakielski,501,5,4395
+041003 4,Nakło nad Notecią,Nakielski,1082,11,18531
+040103 1,Nieszawa,Aleksandrowski,979,10,1914
+041406 4,Nowe,Świecki,357,3,5913
+040707 4,Pakość,Inowrocławski,346,3,5744
+041105 4,Piotrków Kujawski,Radziejowski,976,9,4490
+041101 1,Radziejów,Radziejowski,569,6,5638
+040604 4,Radzyń Chełmiński,Grudziądzki,178,2,1851
+041201 1,Rypin,Rypiński,1096,10,16482
+041302 4,Sępólno Krajeńskie,Sępoleński,655,7,9243
+040807 4,Skępe,Lipnowski,748,7,3607
+040308 4,Solec Kujawski,Bydgoski,1868,19,15661
+040904 4,Strzelno,Mogileński,446,4,5701
+041005 4,Szubin,Nakielski,765,8,9602
+041409 4,Świecie,Świecki,1187,12,25924
+046301 1,Toruń,Toruń,11572,116,202562
+041606 4,Tuchola,Tucholski,1769,18,13793
+041701 1,Wąbrzeźno,Wąbrzeski,853,9,13749
+041304 4,Więcbork,Sępoleński,431,4,5969
+046401 1,Włocławek,Włocławek,8432,84,111752
+041906 4,Żnin,Żniński,835,8,14041
+060702 4,Annopol,Kraśnicki,773,8,2572
+060901 4,Bełżyce,Lubelski,2346,23,6608
+066101 1,Biała Podlaska,Biała Podlaska,4940,49,57545
+060201 1,Biłgoraj,Biłgorajski,2110,21,26550
+060903 4,Bychawa,Lubelski,669,7,4976
+066201 1,Chełm,Chełm,3528,35,63333
+061601 1,Dęblin,Rycki,3833,38,16398
+060205 4,Frampol,Biłgorajski,467,4,1433
+060401 1,Hrubieszów,Hrubieszowski,3303,33,17903
+060505 4,Janów Lubelski,Janowski,1480,15,11986
+061202 4,Józefów nad Wisłą,Opolski,365,3,929
+060207 4,Józefów,Biłgorajski,500,5,2498
+061404 4,Kazimierz Dolny,Puławski,3044,31,2607
+060806 4,Kock,Lubartowski,1678,17,3342
+062004 4,Krasnobród,Zamojski,699,7,3138
+060601 1,Krasnystaw,Krasnostawski,4213,42,18912
+060701 1,Kraśnik,Kraśnicki,2610,26,34821
+060801 1,Lubartów,Lubartowski,1391,14,22138
+066301 1,Lublin,Lublin,14747,147,339850
+061805 4,Lubycza Królewska,Tomaszowski,392,4,2469
+061806 4,Łaszczów,Tomaszowski,501,5,2190
+061003 4,Łęczna,Łęczyński,1900,19,19167
+061101 1,Łuków,Łukowski,3575,36,30310
+060101 1,Międzyrzec Podlaski,Bialski,2003,21,16925
+060506 4,Modliborzyce,Janowski,789,8,1469
+061408 4,Nałęczów,Puławski,1382,14,3750
+061205 4,Opole Lubelskie,Opolski,1512,15,8605
+060810 4,Ostrów Lubelski,Lubartowski,2977,30,2095
+061304 4,Parczew,Parczewski,805,8,10748
+061703 4,Piaski,Świdnicki,844,8,2598
+061206 4,Poniatowa,Opolski,1526,15,9320
+061401 1,Puławy,Puławski,5049,50,48114
+061501 1,Radzyń Podlaski,Radzyński,1931,19,15808
+060301 1,Rejowiec Fabryczny,Chełmski,1428,15,4396
+060315 4,Rejowiec,Chełmski,650,6,2084
+061604 4,Ryki,Rycki,2722,28,9768
+060311 4,Siedliszcze,Chełmski,1316,13,1418
+061102 1,Stoczek Łukowski,Łukowski,915,9,2556
+062013 4,Szczebrzeszyn,Zamojski,2912,29,5117
+061701 1,Świdnik,Świdnicki,2035,20,39732
+060212 4,Tarnogród,Biłgorajski,1069,11,3395
+060102 1,Terespol,Bialski,1011,10,5594
+061801 1,Tomaszów Lubelski,Tomaszowski,1329,13,19365
+061812 4,Tyszowce,Tomaszowski,1852,19,2120
+060708 4,Urzędów,Kraśnicki,1291,13,1703
+061901 1,Włodawa,Włodawski,1797,18,13350
+066401 1,Zamość,Zamość,3034,30,64354
+062015 4,Zwierzyniec,Zamojski,619,6,3235
+080901 4,Babimost,Zielonogórski,365,3,3923
+080402 4,BytomOdrzański,Nowosolski,230,2,4365
+080501 4,Cybinka,Słubicki,529,6,2755
+080903 4,Czerwieńsk,Zielonogórski,936,9,4094
+080601 4,Dobiegniew,Strzelecko-drezdenecki,569,6,3087
+080602 4,Drezdenko,Strzelecko-drezdenecki,1072,11,10282
+086101 1,Gorzów Wielkopolski,Gorzów Wielkopolski,8572,86,124295
+081001 1,Gozdnica,Żagański,2392,24,3100
+080201 1,Gubin,Krośnieński,2068,21,16740
+081004 4,Iłowa,Żagański,918,10,3947
+081104 4,Jasień,Żarski,479,5,4348
+080904 4,Kargowa,Zielonogórski,455,5,3766
+080101 1,Kostrzyn nad Odrą,Gorzowski,4614,46,17918
+080404 4,Kożuchów,Nowosolski,594,6,9520
+080206 4,Krosno Odrzańskie,Krośnieński,815,8,11524
+080702 4,Lubniewice,Sulęciński,1211,12,2019
+081106 4,Lubsko,Żarski,1251,13,14182
+081101 1,Łęknica,Żarski,1643,16,2500
+081005 4,Małomice,Żagański,537,5,3512
+080302 4,Międzyrzecz,Międzyrzecki,1026,10,18255
+080401 1,Nowa Sól,Nowosolski,2180,22,39098
+080406 4,Nowe Miasteczko,Nowosolski,329,3,2816
+080905 4,Nowogród Bobrzański,Zielonogórski,1463,15,5172
+080503 4,Ośno Lubuskie,Słubicki,801,8,3911
+080407 4,Otyń,Nowosolski,786,8,1589
+080504 4,Rzepin,Słubicki,1142,11,6590
+080305 4,Skwierzyna,Międzyrzecki,3589,36,9669
+081201 4,Sława,Wschowski,1490,14,4311
+080505 4,Słubice,Słubicki,1921,19,16816
+080604 4,Strzelce Krajeńskie,Strzelecko-drezdenecki,554,6,10012
+080906 4,Sulechów,Zielonogórski,688,7,17012
+080704 4,Sulęcin,Sulęciński,856,9,10168
+081202 4,Szlichtyngowa,Wschowski,155,2,1289
+081007 4,Szprotawa,Żagański,1095,11,11944
+080805 4,Świebodzin,Świebodziński,1693,17,21954
+080705 4,Torzym,Sulęciński,911,9,2529
+080306 4,Trzciel,Międzyrzecki,304,3,2445
+080107 4,Witnica,Gorzowski,824,8,6821
+081203 4,Wschowa,Wschowski,925,9,14084
+080806 4,Zbąszynek,Świebodziński,358,4,5042
+086201 1,Zielona Góra,Zielona Góra,27832,277,139819
+081002 1,Żagań,Żagański,4038,40,26148
+081102 1,Żary,Żarski,3349,33,37907
+102004 4,Aleksandrów Łódzki,Zgierski,1382,14,21535
+100101 1,Bełchatów,Bełchatowski,3464,35,57964
+101302 4,Biała Rawska,Rawski,953,9,3206
+101402 4,Błaszki,Sieradzki,162,2,2158
+102101 1,Brzeziny,Brzeziński,2158,22,12534
+100702 4,Drzewica,Opoczyński,481,5,3865
+100901 4,Działoszyn,Pajęczański,494,5,5950
+102001 1,Głowno,Zgierski,1984,20,14422
+101205 4,Kamieńsk,Radomszczański,1199,12,2812
+100607 4,Koluszki,Łódzki Wschodni,990,11,13148
+100801 1,Konstantynów Łódzki,Pabianicki,2725,27,18013
+100204 4,Krośniewice,Kutnowski,418,4,4426
+100201 1,Kutno,Kutnowski,3359,34,44513
+100302 4,Łask,Łaski,1567,15,17484
+100401 1,Łęczyca,Łęczycki,895,9,14252
+100501 1,Łowicz,Łowicki,2342,23,28704
+106101 1,Łódź,Łódź,29325,293,690422
+100704 4,Opoczno,Opoczyński,2475,25,21534
+102002 1,Ozorków,Zgierski,1546,15,19685
+100802 1,Pabianice,Pabianicki,3299,33,65823
+100904 4,Pajęczno,Pajęczański,2023,20,6792
+106201 1,Piotrków Trybunalski,Piotrków Trybunalski,6724,67,74312
+101103 4,Poddębice,Poddębicki,587,6,7530
+101211 4,Przedbórz,Radomszczański,608,6,3615
+101201 1,Radomsko,Radomszczański,5143,51,46409
+101301 1,Rawa Mazowiecka,Rawski,1428,14,17480
+100610 4,Rzgów,Łódzki Wschodni,1677,17,3385
+101401 1,Sieradz,Sieradzki,5122,51,42570
+106301 1,Skierniewice,Skierniewice,3460,35,48308
+102008 4,Stryków,Zgierski,815,8,3493
+101009 4,Sulejów,Piotrkowski,2626,26,6226
+101902 4,Szadek,Zduńskowolski,1793,17,1957
+101601 1,Tomaszów Mazowiecki,Tomaszowski,4130,42,63238
+100611 4,Tuszyn,Łódzki Wschodni,2325,23,7293
+101104 4,Uniejów,Poddębicki,1223,12,3011
+101409 4,Warta,Sieradzki,1085,11,3258
+101709 4,Wieluń,Wieluński,1687,17,22794
+101807 4,Wieruszów,Wieruszowski,597,6,8600
+101011 4,Wolbórz,Piotrkowski,1518,15,2336
+101901 1,Zduńska Wola,Zduńskowolski,2457,25,42374
+100108 4,Zelów,Bełchatowski,1075,11,7665
+102003 1,Zgierz,Zgierski,4233,42,56690
+101411 4,Złoczew,Sieradzki,1379,14,3351
+100211 4,Żychlin,Kutnowski,868,9,8288
+120301 4,Alwernia,Chrzanowski,888,9,3380
+121801 4,Andrychów,Wadowicki,1033,10,20567
+120502 4,Biecz,Gorlicki,1771,17,4629
+120503 4,Bobowa,Gorlicki,718,7,3123
+120101 1,Bochnia,Bocheński,2987,30,29992
+120202 4,Brzesko,Brzeski,1192,12,16884
+121302 4,Brzeszcze,Oświęcimski,1904,19,11345
+,Bukowno,Olkuski,6459,65,10297
+121303 4,Chełmek,Oświęcimski,827,8,9090
+120303 4,Chrzanów,Chrzanowski,3832,38,37123
+121601 4,Ciężkowice,Tarnowski,999,11,2470
+120203 4,Czchów,Brzeski,1409,14,2380
+120402 4,Dąbrowa Tarnowska,Dąbrowski,2307,23,11924
+120901 4,Dobczyce,Myślenicki,1297,14,6425
+120501 1,Gorlice,Gorlicki,2353,24,27781
+121001 1,Grybów,Nowosądecki,1695,17,6089
+121501 1,Jordanów,Suski,2103,21,5362
+121803 4,Kalwaria Zebrzydowska,Wadowicki,550,6,4551
+121304 4,Kęty,Oświęcimski,2305,23,18886
+126101 1,Kraków,Kraków,32685,327,767348
+121007 4,Krynica-Zdrój,Nowosądecki,3968,40,10757
+120606 4,Krzeszowice,Krakowski,1697,18,10090
+120304 4,Libiąż,Chrzanowski,3585,36,17135
+120701 1,Limanowa,Limanowski,1870,19,15103
+121506 4,Maków Podhalański,Suski,2012,20,5919
+120805 4,Miechów,Miechowski,1549,15,11696
+120702 1,Mszana Dolna,Limanowski,2710,27,7982
+121011 4,Muszyna,Nowosądecki,2443,24,4909
+120903 4,Myślenice,Myślenicki,3022,30,18415
+121904 4,Niepołomice,Wielicki,2740,28,12507
+121403 4,Nowe Brzesko,Proszowicki,726,8,1674
+126201 1,Nowy Sącz,Nowy Sącz,5758,58,84041
+121101 1,Nowy Targ,Nowotarski,5107,51,33361
+120106 4,Nowy Wiśnicz,Bocheński,497,5,2728
+121205 4,Olkusz,Olkuski,2565,25,35921
+121301 1,Oświęcim,Oświęcimski,3000,30,38678
+121013 4,Piwniczna-Zdrój,Nowosądecki,3830,38,5925
+121405 4,Proszowice,Proszowicki,733,7,6088
+121112 4,Rabka-Zdrój,Nowotarski,3631,36,12883
+121605 4,Radłów,Tarnowski,1683,17,2780
+121606 4,Ryglice,Tarnowski,2515,25,2831
+120610 4,Skała,Krakowski,297,3,3770
+120611 4,Skawina,Krakowski,2050,20,24325
+120612 4,Słomniki,Krakowski,343,3,4359
+121016 4,Stary Sącz,Nowosądecki,1500,15,9020
+121502 1,Sucha Beskidzka,Suski,2765,28,9295
+120907 4,Sułkowice,Myślenicki,1646,16,6614
+121102 4,Szczawnica,Nowotarski,3290,33,5807
+120407 4,Szczucin,Dąbrowski,685,7,4163
+120614 4,Świątniki Górne,Krakowski,444,4,2422
+126301 1,Tarnów,Tarnów,7238,72,109650
+120305 4,Trzebinia,Chrzanowski,3194,32,19954
+121610 4,Tuchów,Tarnowski,1810,18,6693
+121809 4,Wadowice,Wadowicki,1054,11,18851
+121905 4,Wieliczka,Wielicki,1341,13,22946
+121613 4,Wojnicz,Tarnowski,850,8,3365
+121207 4,Wolbrom,Olkuski,1012,10,8686
+121614 4,Zakliczyn,Tarnowski,402,4,1656
+121701 1,Zakopane,Tatrzański,8426,84,27266
+121309 4,Zator,Oświęcimski,1152,12,3691
+121615 4,Żabno,Tarnowski,1113,11,4248
+140101 4,Białobrzegi,Białobrzeski,751,7,7015
+143701 4,Bieżuń,Żuromiński,1207,12,1875
+143201 4,Błonie,Warszawski Zachodni,909,9,12354
+141604 4,Brok,Ostrowski,2806,28,1955
+,Brwinów,Pruszkowski,1010,10,13533
+142202 4,Chorzele,Przasnyski,1751,18,3069
+140201 1,Ciechanów,Ciechanowski,3278,33,44303
+141905 4,Drobin,Płocki,965,10,2925
+140301 1,Garwolin,Garwoliński,2208,22,17381
+141906 4,Gąbin,Płocki,2795,28,4127
+140203 4,Glinojeck,Ciechanowski,737,7,3027
+140401 1,Gostynin,Gostyniński,3240,32,18720
+141801 4,GóraKalwaria,Piaseczyński,1367,14,11942
+140504 4,Grodzisk Mazowiecki,Grodziski,1319,14,30955
+140605 4,Grójec,Grójecki,857,8,16674
+141207 4,Halinów,Miński,284,4,3718
+142503 4,Iłża,Radomski,1583,17,4832
+141701 1,Józefów,Otwocki,2391,24,20488
+141209 4,Kałuszyn,Miński,1230,12,2927
+141704 4,Karczew,Otwocki,2812,28,9960
+143401 1,Kobyłka,Wołomiński,1964,20,23120
+141802 4,Konstancin-Jeziorna,Piaseczyński,1774,18,17191
+142905 4,KosówLacki,Sokołowski,1157,11,2120
+140705 4,Kozienice,Kozienicki,1045,10,17518
+140801 1,Legionowo,Legionowski,1354,14,54041
+140903 4,Lipsko,Lipski,1570,16,5592
+140302 1,Łaskarzew,Garwoliński,1535,15,4879
+143305 4,Łochów,Węgrowski,1339,13,6848
+143205 4,Łomianki,Warszawski Zachodni,840,8,16875
+141002 4,Łosice,Łosicki,2374,24,7096
+141101 1,Maków Mazowiecki,Makowski,1028,10,9860
+143402 1,Marki,Wołomiński,2615,26,32686
+140501 1,Milanówek,Grodziski,1344,13,16398
+141201 1,Mińsk Mazowiecki,Miński,1318,13,40399
+141301 1,Mława,Mławski,3480,35,31243
+140607 4,Mogielnica,Grójecki,1298,13,2294
+142605 4,Mordy,Siedlecki,454,5,1780
+141212 4,Mrozy,Miński,773,8,3576
+143802 4,Mszczonów,Żyrardowski,856,9,6433
+141508 4,Myszyniec,Ostrołęcki,1122,11,3397
+141404 4,Nasielsk,Nowodworski,1257,13,7701
+140608 4,Nowe Miasto nad Pilicą,Grójecki,1125,11,3830
+141401 1,Nowy Dwór Mazowiecki,Nowodworski,2821,28,28637
+146101 1,Ostrołęka,Ostrołęka,3346,34,52451
+141601 1,Ostrów Mazowiecka,Ostrowski,2227,22,22656
+141702 1,Otwock,Otwocki,4731,47,44873
+143206 4,Ożarów Mazowiecki,Warszawski Zachodni,813,8,11311
+141804 4,Piaseczno,Piaseczyński,1622,16,47660
+142101 1,Piastów,Pruszkowski,576,6,22732
+140310 4,Pilawa,Garwoliński,666,7,4557
+142501 1,Pionki,Radomski,1840,18,18618
+146201 1,Płock,Płock,8804,88,120787
+142001 1,Płońsk,Płoński,1160,12,22214
+140502 1,Podkowa Leśna,Grodziski,1013,10,3875
+142102 1,Pruszków,Pruszkowski,1919,19,61237
+142201 1,Przasnysz,Przasnyski,2516,25,17223
+142306 4,Przysucha,Przysuski,702,7,5934
+142404 4,Pułtusk,Pułtuski,2307,23,19448
+142002 1,Raciąż,Płoński,840,8,4437
+146301 1,Radom,Radom,11180,112,214566
+143409 4,Radzymin,Wołomiński,2339,23,12644
+141107 4,Różan,Makowski,666,7,2755
+140404 4,Sanniki,Gostyniński,1176,12,1994
+140804 4,Serock,Legionowski,1343,13,4353
+146401 1,Siedlce,Siedlce,3186,32,77653
+142701 1,Sierpc,Sierpecki,1859,19,18148
+142510 4,Skaryszew,Radomski,2749,27,4375
+142801 1,Sochaczew,Sochaczewski,2619,26,36790
+142901 1,Sokołów Podlaski,Sokołowski,1751,18,18924
+141215 1,Sulejówek,Miński,1931,19,19663
+143005 4,Szydłowiec,Szydłowiecki,2189,22,11854
+141806 4,Tarczyn,Piaseczyński,523,5,4105
+143411 4,Tłuszcz,Wołomiński,791,8,8127
+140611 4,Warka,Grójecki,2677,27,11894
+146501 1,Warszawa,M. st. Warszawa,51724,517,1764615
+143301 1,Węgrów,Węgrowski,3551,36,12765
+143412 4,Wołomin,Wołomiński,1724,17,37164
+143505 4,Wyszków,Wyszkowski,2078,21,26965
+141915 4,Wyszogród,Płocki,1297,13,2634
+140106 4,Wyśmierzyce,Białobrzeski,1684,17,896
+141406 4,Zakroczym,Nowodworski,1997,20,3211
+143403 1,Ząbki,Wołomiński,1098,11,35770
+143404 1,Zielonka,Wołomiński,7948,79,17539
+143605 4,Zwoleń,Zwoleński,1591,16,7855
+140314 4,Żelechów,Garwoliński,1213,12,3994
+143706 4,Żuromin,Żuromiński,1118,11,8941
+143801 1,Żyrardów,Żyrardowski,1435,14,40243
+160201 4,Baborów,Głubczycki,1186,12,2933
+161001 4,Biała,Prudnicki,1472,15,2454
+160101 1,Brzeg,Brzeski,1461,15,36110
+160401 4,Byczyna,Kluczborski,579,6,3651
+160801 4,Dobrodzień,Oleski,1953,19,3749
+161002 4,Głogówek,Prudnicki,2206,22,5607
+160203 4,Głubczyce,Głubczycki,1254,13,12624
+160701 4,Głuchołazy,Nyski,683,6,13735
+160501 4,Gogolin,Krapkowicki,2035,21,6640
+160802 4,GorzówŚląski,Oleski,1854,19,2451
+160103 4,Grodków,Brzeski,988,10,8700
+160301 1,Kędzierzyn-Koźle,Kędzierzyńsko-kozielski,12371,124,61661
+160204 4,Kietrz,Głubczycki,1874,19,6061
+160402 4,Kluczbork,Kluczborski,1235,12,23797
+161103 4,Kolonowskie,Strzelecki,5570,56,3324
+160703 4,Korfantów,Nyski,1023,10,1842
+160502 4,Krapkowice,Krapkowicki,2101,21,16500
+161104 4,Leśnica,Strzelecki,1450,15,2668
+160104 4,LewinBrzeski,Brzeski,1164,12,5774
+160602 4,Namysłów,Namysłowski,2261,23,16360
+160907 4,Niemodlin,Opolski,1311,13,6431
+160705 4,Nysa,Nyski,2751,28,44397
+160803 4,Olesno,Oleski,1508,15,9400
+166101 1,Opole,Opole,14888,149,128140
+160706 4,Otmuchów,Nyski,4954,50,6647
+160908 4,Ozimek,Opolski,325,3,8807
+160707 4,Paczków,Nyski,660,7,7600
+160804 4,Praszka,Oleski,935,9,7724
+160910 4,Prószków,Opolski,1622,16,2603
+161004 4,Prudnik,Prudnicki,2050,20,21237
+161105 4,StrzelceOpolskie,Strzelecki,2997,30,18057
+160912 4,Tułowice,Opolski,923,9,4000
+161106 4,Ujazd,Strzelecki,1476,15,1770
+160404 4,Wołczyn,Kluczborski,747,7,5958
+161107 4,Zawadzkie,Strzelecki,1646,16,7250
+160505 4,Zdzieszowice,Krapkowicki,1235,12,11633
+182001 4,Baranów Sandomierski,Tarnobrzeski,915,9,1477
+181602 4,Błażowa,Rzeszowski,423,4,2148
+181603 4,Boguchwała,Rzeszowski,911,8,6096
+180302 4,Brzostek,Dębicki,876,9,2714
+180201 4,Brzozów,Brzozowski,1146,11,7471
+180902 4,Cieszanów,Lubaczowski,1506,15,1940
+180301 1,Dębica,Dębicki,3383,34,46063
+180702 4,Dukla,Krośnieński,548,5,2098
+181601 1,Dynów,Rzeszowski,2455,25,6146
+181606 4,Głogów Małopolski,Rzeszowski,1371,14,6431
+180703 4,Iwonicz-Zdrój,Krośnieński,589,6,1798
+180401 1,Jarosław,Jarosławski,3461,35,37892
+180501 1,Jasło,Jasielski,3652,37,35445
+180704 4,Jedlicze,Krośnieński,1060,11,5761
+181405 4,Kańczuga,Przeworski,760,7,3182
+180602 4,Kolbuszowa,Kolbuszowski,794,8,9158
+180505 4,Kołaczyce,Jasielski,715,7,1434
+186101 1,Krosno,Krosno,4350,44,46600
+182103 4,Lesko,Leski,1533,15,5532
+180801 1,Leżajsk,Leżajski,2058,21,13990
+180901 1,Lubaczów,Lubaczowski,2573,26,12101
+181001 1,Łańcut,Łańcucki,1942,19,17777
+181101 1,Mielec,Mielecki,4689,47,60628
+180905 4,Narol,Lubaczowski,1242,12,2102
+181205 4,Nisko,Niżański,6096,61,15355
+182004 4,Nowa Dęba,Tarnobrzeski,1670,17,11215
+180805 4,Nowa Sarzyna,Leżajski,915,9,5970
+180906 4,Oleszyce,Lubaczowski,508,5,3041
+180306 4,Pilzno,Dębicki,1604,16,4892
+180407 4,Pruchnik,Jarosławski,1991,20,3772
+181107 4,Przecław,Mielecki,1604,16,1748
+186201 1,Przemyśl,Przemyśl,4617,46,61808
+181401 1,Przeworsk,Przeworski,2213,22,15452
+181108 4,Radomyśl Wielki,Mielecki,879,9,3167
+180402 1,Radymno,Jarosławski,1362,14,5335
+181503 4,Ropczyce,Ropczycko-sędziszowski,4710,47,15848
+181206 4,Rudnik nad Sanem,Niżański,3660,37,6728
+180708 4,Rymanów,Krośnieński,1239,12,3792
+186301 1,Rzeszów,Rzeszów,12041,120,189662
+181701 1,Sanok,Sanocki,3808,38,37980
+181504 4,Sędziszów Małopolski,Ropczycko-sędziszowski,996,10,7524
+181407 4,Sieniawa,Przeworski,674,7,2146
+181611 4,Sokołów Małopolski,Rzeszowski,1554,16,4133
+181801 1,Stalowa Wola,Stalowowolski,8252,83,61903
+181904 4,Strzyżów,Strzyżowski,1389,14,8893
+186401 1,Tarnobrzeg,Tarnobrzeg,8540,85,47387
+181614 4,Tyczyn,Rzeszowski,967,9,3805
+181207 4,Ulanów,Niżański,820,8,1405
+180108 4,Ustrzyki Dolne,Bieszczadzki,1679,17,9176
+181707 4,Zagórz,Sanocki,2229,22,5105
+181805 4,Zaklików,Stalowowolski,1142,11,3017
+200101 1,Augustów,Augustowski,8090,81,30270
+206101 1,Białystok,Białystok,10213,102,297288
+200301 1,Bielsk Podlaski,Bielski,2701,27,25611
+200302 1,Brańsk,Bielski,3243,32,3785
+200201 4,Choroszcz,Białostocki,1679,17,5834
+201302 4,Ciechanowiec,Wysokomazowiecki,1953,20,4655
+200202 4,Czarna Białostocka,Białostocki,1428,14,9402
+201303 4,Czyżew,Wysokomazowiecki,523,5,2640
+201101 4,Dąbrowa Białostocka,Sokólski,2264,23,5632
+201002 4,Drohiczyn,Siemiatycki,1569,16,2011
+200801 4,Goniądz,Moniecki,428,4,1827
+200401 1,Grajewo,Grajewski,1894,19,22049
+200501 1,Hajnówka,Hajnowski,2129,21,20919
+200701 4,Jedwabne,Łomżyński,454,4,1624
+200507 4,Kleszczele,Hajnowski,4671,47,1297
+200804 4,Knyszyn,Moniecki,2368,24,2782
+200601 1,Kolno,Kolneński,2507,25,10372
+201104 4,Krynki,Sokólski,383,4,2424
+200104 4,Lipsk,Augustowski,498,5,2376
+200206 4,Łapy,Białostocki,1214,12,15689
+206201 1,Łomża,Łomża,3267,33,63092
+200207 4,Michałowo,Białostocki,215,2,3073
+200806 4,Mońki,Moniecki,766,8,10042
+200704 4,Nowogród,Łomżyński,2055,21,2173
+200404 4,Rajgród,Grajewski,3528,35,1571
+200901 1,Sejny,Sejneński,449,4,5472
+201001 1,Siemiatycze,Siemiatycki,3625,36,14590
+201108 4,Sokółka,Sokólski,1859,19,18331
+200605 4,Stawiski,Kolneński,1324,13,2229
+201109 4,Suchowola,Sokólski,2595,26,2196
+200209 4,Supraśl,Białostocki,569,6,4621
+200210 4,Suraż,Białostocki,3386,34,992
+206301 1,Suwałki,Suwałki,6551,66,69554
+200405 4,Szczuczyn,Grajewski,1323,13,3426
+201309 4,Szepietowo,Wysokomazowiecki,196,2,2209
+200212 4,Tykocin,Białostocki,2897,29,1980
+200213 4,Wasilków,Białostocki,2826,28,11074
+201301 1,Wysokie Mazowieckie,Wysokomazowiecki,1524,15,9390
+200214 4,Zabłudów,Białostocki,1430,14,2476
+201401 1,Zambrów,Zambrowski,1902,19,22173
+220202 4,Brusy,Chojnicki,520,5,5209
+220102 4,Bytów,Bytowski,872,8,16983
+220201 1,Chojnice,Chojnicki,2104,21,39937
+221301 4,Czarna Woda,Starogardzki,994,10,2841
+220302 4,Czarne,Człuchowski,4643,46,5983
+220204 4,Czersk,Chojnicki,973,10,9909
+220301 1,Człuchów,Człuchowski,1278,13,13869
+220304 4,Debrzno,Człuchowski,751,7,5152
+221601 4,Dzierzgoń,Sztumski,390,4,5413
+226101 1,Gdańsk,Gdańsk,26196,262,464254
+226201 1,Gdynia,Gdynia,13514,135,246306
+221402 4,Gniew,Tczewski,604,7,6791
+221101 1,Hel,Pucki,2295,23,3373
+221102 4,Jastarnia,Pucki,506,5,2736
+220502 4,Kartuzy,Kartuski,680,7,14611
+221205 4,Kępice,Słupski,611,6,3646
+220601 1,Kościerzyna,Kościerski,1586,16,23809
+221001 1,Krynica Morska,Nowodworski,11856,118,1302
+220701 1,Kwidzyn,Kwidzyński,2154,22,38553
+220801 1,Lębork,Lęborski,1786,18,35413
+220802 1,Łeba,Lęborski,1481,15,3694
+220901 1,Malbork,Malborski,1716,17,38723
+220106 4,Miastko,Bytowski,568,6,10605
+221002 4,Nowy Dwór Gdański,Nowodworski,507,5,9964
+220907 4,Nowy Staw,Malborski,467,5,4196
+221404 4,Pelplin,Tczewski,442,4,7912
+220704 4,Prabuty,Kwidzyński,729,7,8710
+220401 1,Pruszcz Gdański,Gdański,1647,16,30468
+221103 1,Puck,Pucki,479,5,11265
+221501 1,Reda,Wejherowski,3346,34,25102
+221502 1,Rumia,Wejherowski,3010,30,48632
+221309 4,Skarszewy,Starogardzki,1079,10,7103
+221302 1,Skórcz,Starogardzki,363,4,3609
+226301 1,Słupsk,Słupsk,4315,43,91465
+226401 1,Sopot,Sopot,1728,17,36533
+221303 1,Starogard Gdański,Starogardzki,2528,25,48060
+221605 4,Sztum,Sztumski,459,5,10127
+221401 1,Tczew,Tczewski,2238,22,60257
+221201 1,Ustka,Słupski,1019,10,15709
+221503 1,Wejherowo,Wejherowski,2699,27,49927
+221104 4,Władysławowo,Pucki,1367,13,10009
+220508 4,Żukowo,Kartuski,473,5,6677
+240101 1,Będzin,Będziński,3737,37,57343
+246101 1,Bielsko-Biała,Bielsko-Biała,12451,125,171505
+241401 1,Bieruń,Bieruńsko-lędziński,4049,40,19639
+240401 4,Blachownia,Częstochowski,3666,36,9676
+246201 1,Bytom,Bytom,6944,69,168394
+246301 1,Chorzów,Chorzów,3324,33,109021
+240301 1,Cieszyn,Cieszyński,2861,29,34876
+240204 4,Czechowice-Dziedzice,Bielski,3291,33,35795
+240102 1,Czeladź,Będziński,1638,16,31901
+241201 4,Czerwionka-Leszczyny,Rybnicki,3763,38,28329
+246401 1,Częstochowa,Częstochowa,15971,160,224376
+246501 1,Dąbrowa Górnicza,Dąbrowa Górnicza,18873,189,121121
+246601 1,Gliwice,Gliwice,13388,134,181309
+241402 1,Imielin,Bieruńsko-lędziński,2799,28,9052
+246701 1,Jastrzębie-Zdrój,Jastrzębie-Zdrój,8533,85,89590
+246801 1,Jaworzno,Jaworzno,15259,153,92090
+241301 1,Kalety,Tarnogórski,7629,76,8627
+246901 1,Katowice,Katowice,16464,165,296262
+240601 4,Kłobuck,Kłobucki,4746,47,13014
+240501 1,Knurów,Gliwicki,3395,34,38594
+240406 4,Koniecpol,Częstochowski,3692,37,6002
+240902 4,Koziegłowy,Myszkowski,2671,27,2424
+241103 4,Krzanowice,Raciborski,308,4,2168
+240602 4,Krzepice,Kłobucki,2766,28,4488
+241105 4,Kuźnia Raciborska,Raciborski,3149,31,5402
+241403 1,Lędziny,Bieruńsko-lędziński,3165,32,16819
+240701 1,Lubliniec,Lubliniecki,8936,89,23899
+240801 1,Łaziska Górne,Mikołowski,2007,20,22390
+241605 4,Łazy,Zawierciański,860,9,6882
+241302 1,Miasteczko Śląskie,Tarnogórski,6783,68,7419
+240802 1,Mikołów,Mikołowski,7921,79,40423
+247001 1,Mysłowice,Mysłowice,6562,66,74647
+240901 1,Myszków,Myszkowski,7359,74,31974
+241606 4,Ogrodzieniec,Zawierciański,2856,29,4313
+240803 1,Orzesze,Mikołowski,8375,84,20773
+247101 1,Piekary Śląskie,Piekary Śląskie,3998,40,55652
+241607 4,Pilica,Zawierciański,822,8,1967
+241601 1,Poręba,Zawierciański,3999,40,8581
+241005 4,Pszczyna,Pszczyński,2249,22,25906
+241501 1,Pszów,Wodzisławski,2044,20,14114
+240502 1,Pyskowice,Gliwicki,3089,31,18417
+241101 1,Racibórz,Raciborski,7501,75,55189
+241502 1,Radlin,Wodzisławski,1253,13,17861
+241303 1,Radzionków,Tarnogórski,1320,13,16798
+247201 1,Ruda Śląska,Ruda Śląska,7773,78,138578
+247301 1,Rybnik,Rybnik,14836,148,139129
+241503 1,Rydułtowy,Wodzisławski,1495,15,21700
+247401 1,Siemianowice Śląskie,Siemianowice Śląskie,2550,25,67523
+240107 4,Siewierz,Będziński,3866,39,5520
+240310 4,Skoczów,Cieszyński,985,10,14504
+240108 1,Sławków,Będziński,3667,37,7040
+247501 1,Sosnowiec,Sosnowiec,9106,91,204013
+240506 4,Sośnicowice,Gliwicki,1167,11,1881
+240311 4,Strumień,Cieszyński,629,6,3696
+241608 4,Szczekociny,Zawierciański,1803,18,3679
+240201 1,Szczyrk,Bielski,3907,39,5699
+247601 1,Świętochłowice,Świętochłowice,1331,13,50385
+241304 1,Tarnowskie Góry,Tarnogórski,8372,84,61262
+240507 4,Toszek,Gliwicki,971,10,3596
+247701 1,Tychy,Tychy,8181,82,128211
+240302 1,Ustroń,Cieszyński,5903,59,16108
+240209 4,Wilamowice,Bielski,1036,10,3065
+240303 1,Wisła,Cieszyński,11017,109,11106
+241504 1,Wodzisław Śląski,Wodzisławski,4951,50,48345
+240103 1,Wojkowice,Będziński,1279,13,8984
+240708 4,Woźniki,Lubliniecki,7101,71,4393
+247801 1,Zabrze,Zabrze,8040,80,174349
+241602 1,Zawiercie,Zawierciański,8525,85,49908
+240905 4,Żarki,Myszkowski,2544,25,4539
+247901 1,Żory,Żory,6464,65,62243
+241701 1,Żywiec,Żywiecki,5054,51,31560
+260402 4,Bodzentyn,Kielecki,865,8,2238
+260101 4,Busko-Zdrój,Buski,1228,12,16092
+260403 4,Chęciny,Kielecki,1413,14,4421
+260404 4,Chmielnik,Kielecki,780,8,3752
+260704 4,Ćmielów,Ostrowiecki,1334,14,3014
+260405 4,Daleszyce,Kielecki,1550,16,2914
+260801 4,Działoszyce,Pińczowski,192,2,913
+260202 4,Jędrzejów,Jędrzejowski,1137,11,15369
+260303 4,Kazimierza Wielka,Kazimierski,533,5,5619
+266101 1,Kielce,Kielce,10965,110,196804
+260503 4,Końskie,Konecki,1770,18,19534
+260904 4,Koprzywnica,Sandomierski,1790,18,2497
+260705 4,Kunów,Ostrowiecki,726,7,2970
+260407 4,Łagów,Kielecki,822,8,1573
+260203 4,Małogoszcz,Jędrzejowski,968,10,3809
+260412 4,Morawica,Kielecki,438,4,1730
+260604 4,Opatów,Opatowski,936,9,6516
+261204 4,Osiek,Staszowski,1743,18,2004
+260701 1,Ostrowiec Świętokrzyski,Ostrowiecki,4643,46,69852
+260605 4,Ożarów,Opatowski,779,8,4594
+260804 4,Pińczów,Pińczowski,1433,14,10946
+261205 4,Połaniec,Staszowski,1741,17,8181
+260504 4,Radoszyce,Konecki,1717,17,3217
+260901 1,Sandomierz,Sandomierski,2869,29,23863
+260206 4,Sędziszów,Jędrzejowski,792,8,6494
+260305 4,Skalbmierz,Kazimierski,713,7,1292
+261001 1,Skarżysko-Kamienna,Skarżyski,6439,64,45953
+261101 1,Starachowice,Starachowicki,3182,32,49513
+261207 4,Staszów,Staszowski,2688,27,14942
+260508 4,Stąporków,Konecki,1094,11,5754
+260106 4,Stopnica,Buski,455,4,1434
+261005 4,Suchedniów,Skarżyski,5940,60,8478
+261105 4,Wąchock,Starachowicki,1602,16,2795
+260108 4,Wiślica,Buski,471,5,500
+261306 4,Włoszczowa,Włoszczowski,3030,30,10096
+260909 4,Zawichost,Sandomierski,2029,20,1793
+281401 4,Barczewo,Olsztyński,458,5,7472
+280101 1,Bartoszyce,Bartoszycki,1179,11,23810
+281601 4,Biała Piska,Piski,324,4,4041
+281402 4,Biskupiec,Olsztyński,500,5,10539
+280104 4,Bisztynek,Bartoszycki,216,2,2417
+280201 1,Braniewo,Braniewski,1241,12,17074
+281403 4,Dobre Miasto,Olsztyński,486,5,10293
+280301 1,Działdowo,Działdowski,1147,11,21370
+286101 1,Elbląg,Elbląg,7982,80,120895
+280501 1,Ełk,Ełcki,2105,21,61523
+280203 4,Frombork,Braniewski,759,8,2389
+280601 1,Giżycko,Giżycki,1372,14,29480
+281803 4,Gołdap,Gołdapski,1720,17,13740
+280102 1,Górowo Iławeckie,Bartoszycki,332,3,4021
+280701 1,Iława,Iławski,2188,22,33132
+281406 4,Jeziorany,Olsztyński,341,3,3258
+280801 1,Kętrzyn,Kętrzyński,1035,10,27478
+280704 4,Kisielice,Iławski,337,3,2135
+280804 4,Korsze,Kętrzyński,403,4,4346
+280901 1,Lidzbark Warmiński,Lidzbarski,1435,14,15877
+280304 4,Lidzbark,Działdowski,568,6,7900
+280702 1,Lubawa,Iławski,1684,17,10269
+281002 4,Mikołajki,Mrągowski,932,9,3852
+281506 4,Miłakowo,Ostródzki,876,9,2609
+281507 4,Miłomłyn,Ostródzki,1238,12,2449
+280406 4,Młynary,Elbląski,276,3,1792
+281508 4,Morąg,Ostródzki,611,6,13994
+281001 1,Mrągowo,Mrągowski,1481,15,21889
+281104 4,Nidzica,Nidzicki,686,7,13872
+281201 1,Nowe Miasto Lubawskie,Nowomiejski,1137,11,10997
+281304 4,Olecko,Olecki,1154,12,16508
+286201 1,Olsztyn,Olsztyn,8833,88,173070
+281409 4,Olsztynek,Olsztyński,769,8,7677
+280905 4,Orneta,Lidzbarski,963,10,8924
+281602 4,Orzysz,Piski,817,8,5615
+281501 1,Ostróda,Ostródzki,1415,14,33243
+280407 4,Pasłęk,Elbląski,1063,11,12298
+281704 4,Pasym,Szczycieński,1518,15,2549
+280205 4,Pieniężno,Braniewski,381,4,2802
+281603 4,Pisz,Piski,1008,10,19386
+280805 4,Reszel,Kętrzyński,382,4,4615
+281604 4,Ruciane-Nida,Piski,1707,17,4579
+280608 4,Ryn,Giżycki,414,4,2865
+280106 4,Sępopol,Bartoszycki,463,5,1970
+280706 4,Susz,Iławski,667,7,5586
+281701 1,Szczytno,Szczycieński,1062,11,23500
+280409 4,Tolkmicko,Elbląski,229,2,2719
+281903 4,Węgorzewo,Węgorzewski,1088,11,11438
+280707 4,Zalewo,Iławski,822,8,2165
+302201 4,Bojanowo,Rawicki,234,2,2940
+300401 4,Borek Wielkopolski,Gostyński,629,7,2523
+302103 4,Buk,Poznański,296,3,6096
+302001 4,Chocz,Pleszewski,688,7,1811
+300101 1,Chodzież,Chodzieski,1277,13,18877
+300201 1,Czarnków,Czarnkowsko-trzcianecki,1017,10,10784
+301102 4,Czempiń,Kościański,332,3,5296
+300302 4,Czerniejewo,Gnieźnieński,1019,10,2620
+300904 4,Dąbie,Kolski,880,9,2017
+302703 4,Dobra,Turecki,184,2,1396
+302003 4,Dobrzyca,Pleszewski,1970,20,3153
+302602 4,Dolsk,Śremski,620,6,1569
+300301 1,Gniezno,Gnieźnieński,4060,41,68943
+301001 4,Golina,Koniński,352,3,4493
+302803 4,Gołańcz,Wągrowiecki,1264,13,3294
+300402 4,Gostyń,Gostyński,1109,11,20182
+301803 4,Grabów nad Prosną,Ostrzeszowski,258,3,1941
+300502 4,Grodzisk Wielkopolski,Grodziski,1821,18,14595
+300601 4,Jaraczewo,Jarociński,1007,10,1467
+300602 4,Jarocin,Jarociński,1638,16,26245
+303102 4,Jastrowie,Złotowski,7230,72,8662
+302202 4,Jutrosin,Rawicki,162,2,1966
+306101 1,Kalisz,Kalisz,6942,69,101625
+300803 4,Kępno,Kępiński,779,8,14190
+301004 4,Kleczew,Koniński,780,8,4212
+300305 4,Kłecko,Gnieźnieński,962,10,2631
+300906 4,Kłodawa,Kolski,431,4,6530
+301202 4,Kobylin,Krotoszyński,487,5,3256
+300901 1,Koło,Kolski,1385,14,22227
+306201 1,Konin,Konin,8216,82,74834
+302108 4,Kostrzyn,Poznański,798,8,9711
+301101 1,Kościan,Kościański,879,9,23907
+301203 4,Koźmin Wielkopolski,Krotoszyński,589,6,6590
+302109 4,Kórnik,Poznański,599,6,7793
+303103 4,Krajenka,Złotowski,376,4,3678
+300403 4,Krobia,Gostyński,705,7,4304
+301204 4,Krotoszyn,Krotoszyński,2254,23,29109
+301104 4,Krzywiń,Kościański,227,2,1714
+300204 4,Krzyż Wielkopolski,Czarnkowsko-trzcianecki,581,6,6222
+302603 4,Książ Wielkopolski,Śremski,196,2,2749
+306301 1,Leszno,Leszno,3186,32,64197
+302101 1,Luboń,Poznański,1351,14,31653
+301502 4,Lwówek,Nowotomyski,316,3,2999
+301904 4,Łobżenica,Pilski,325,3,2971
+300104 4,Margonin,Chodzieski,515,5,3011
+302203 4,Miejska Górka,Rawicki,314,3,3261
+301403 4,Międzychód,Międzychodzki,698,7,10660
+301806 4,Mikstat,Ostrzeszowski,252,3,1866
+303002 4,Miłosław,Wrzesiński,407,4,3589
+302110 4,Mosina,Poznański,1350,14,13762
+302111 4,Murowana Goślina,Poznański,862,9,10391
+303003 4,Nekla,Wrzesiński,1979,20,3719
+301702 4,Nowe Skalmierzyce,Ostrowski,158,1,4798
+301504 4,Nowy Tomyśl,Nowotomyski,520,5,14702
+301601 4,Oborniki,Obornicki,1408,14,18341
+302401 1,Obrzycko,Szamotulski,374,4,2378
+301703 4,Odolanów,Ostrowski,476,5,5155
+303105 4,Okonek,Złotowski,601,6,3929
+301505 4,Opalenica,Nowotomyski,642,6,9664
+300708 4,Opatówek,Kaliski,868,9,3723
+301303 4,Osieczna,Leszczyński,476,5,2322
+302405 4,Ostroróg,Szamotulski,125,1,1941
+301701 1,Ostrów Wielkopolski,Ostrowski,4190,42,72364
+301807 4,Ostrzeszów,Ostrzeszowski,1213,12,14325
+301901 1,Piła,Pilski,10268,103,73791
+302006 4,Pleszew,Pleszewski,1338,13,17437
+302406 4,Pniewy,Szamotulski,932,9,8037
+302112 4,Pobiedziska,Poznański,1024,10,9139
+300406 4,Pogorzela,Gostyński,436,4,2098
+300407 4,Poniec,Gostyński,348,3,2841
+306401 1,Poznań,Poznań,26191,262,538633
+300911 4,Przedecz,Kolski,298,3,1690
+302102 1,Puszczykowo,Poznański,1639,16,9693
+303004 4,Pyzdry,Wrzesiński,1216,12,3164
+300504 4,Rakoniewice,Grodziski,337,3,3571
+301706 4,Raszków,Ostrowski,205,2,2101
+302205 4,Rawicz,Rawicki,774,8,20406
+301602 4,Rogoźno,Obornicki,1124,11,11115
+301007 4,Rychwał,Koniński,970,10,2379
+301304 4,Rydzyna,Leszczyński,220,2,2811
+301404 4,Sieraków,Międzychodzki,1408,14,6046
+302805 4,Skoki,Wągrowiecki,1120,11,4314
+302301 1,Słupca,Słupecki,1030,10,13851
+301010 4,Sompolno,Koniński,621,6,3587
+300709 4,Stawiszyn,Kaliski,99,1,1530
+302114 4,Stęszew,Poznański,569,6,5952
+301201 1,Sulmierzyce,Krotoszyński,2929,29,2899
+302116 4,Swarzędz,Poznański,823,9,30739
+300105 4,Szamocin,Chodzieski,467,5,4302
+302407 4,Szamotuły,Szamotulski,1108,11,18835
+301012 4,Ślesin,Koniński,718,7,3135
+301105 4,Śmigiel,Kościański,530,5,5719
+302604 4,Śrem,Śremski,1237,12,29845
+302504 4,Środa Wielkopolska,Średzki,2192,22,23162
+300207 4,Trzcianka,Czarnkowsko-trzcianecki,1830,18,17228
+300309 4,Trzemeszno,Gnieźnieński,546,5,7752
+302707 4,Tuliszków,Turecki,700,7,3322
+302701 1,Turek,Turecki,1617,16,27311
+301907 4,Ujście,Pilski,578,6,3738
+302801 1,Wągrowiec,Wągrowiecki,1783,18,25607
+300208 4,Wieleń,Czarnkowsko-trzcianecki,446,4,5988
+300505 4,Wielichowo,Grodziski,124,1,1767
+300310 4,Witkowo,Gnieźnieński,831,8,7873
+302903 4,Wolsztyn,Wolsztyński,478,5,13328
+302408 4,Wronki,Szamotulski,581,6,11293
+303005 4,Września,Wrzesiński,1273,13,30279
+301908 4,Wyrzysk,Pilski,412,4,5163
+301909 4,Wysoka,Pilski,482,5,2688
+302308 4,Zagórów,Słupecki,344,4,3024
+301506 4,Zbąszyń,Nowotomyski,542,5,7265
+301206 4,Zduny,Krotoszyński,620,6,4543
+303101 1,Złotów,Złotowski,1158,12,18441
+300604 4,Żerków,Jarociński,216,2,2120
+321001 4,Barlinek,Myśliborski,1755,17,13853
+321502 4,Barwice,Szczecinecki,752,8,3742
+320101 1,Białogard,Białogardzki,2573,26,24368
+321503 4,Biały Bór,Szczecinecki,1282,13,2171
+320903 4,Bobolice,Koszaliński,477,5,4061
+321504 4,Borne Sulinowo,Szczecinecki,1815,18,4984
+320602 4,Cedynia,Gryfiński,167,2,1625
+321402 4,Chociwel,Stargardzki,367,4,3183
+320603 4,Chojna,Gryfiński,1258,12,7440
+320202 4,Choszczno,Choszczeński,958,10,15352
+320301 4,Czaplinek,Drawski,1362,14,7155
+321702 4,Człopa,Wałecki,627,7,2326
+321301 1,Darłowo,Sławieński,2021,20,13924
+321003 4,Dębno,Myśliborski,1951,20,13931
+321801 4,Dobra,Łobeski,237,2,2353
+321403 4,Dobrzany,Stargardzki,534,5,2288
+320203 4,Drawno,Choszczeński,503,5,2307
+320302 4,Drawsko Pomorskie,Drawski,2233,22,11672
+320701 4,Dziwnów,Kamieński,614,6,2707
+320702 4,Golczewo,Kamieński,742,7,2686
+320402 4,Goleniów,Goleniowski,1178,12,22553
+320803 4,Gościno,Kołobrzeski,570,6,2436
+320502 4,Gryfice,Gryficki,1240,12,16600
+320604 4,Gryfino,Gryfiński,958,10,21393
+321405 4,Ińsko,Stargardzki,748,7,1965
+320303 4,Kalisz Pomorski,Drawski,1196,12,4399
+320703 4,Kamień Pomorski,Kamieński,1074,11,8868
+320103 4,Karlino,Białogardzki,940,9,5950
+320801 1,Kołobrzeg,Kołobrzeski,2567,26,46568
+326101 1,Koszalin,Koszalin,9834,98,107670
+321203 4,Lipiany,Pyrzycki,554,5,3982
+321802 4,Łobez,Łobeski,1284,13,10299
+320403 4,Maszewo,Goleniowski,554,6,3342
+320905 4,Mielno,Koszaliński,3345,33,3000
+320605 4,Mieszkowice,Gryfiński,525,5,3681
+320704 4,Międzyzdroje,Kamieński,450,4,5422
+321703 4,Mirosławiec,Wałecki,241,2,3065
+320606 4,Moryń,Gryfiński,554,6,1620
+321004 4,Myślibórz,Myśliborski,1504,15,11328
+321103 4,Nowe Warpno,Policki,2451,25,1196
+320404 4,Nowogard,Goleniowski,1257,13,16756
+320205 4,Pełczyce,Choszczeński,1307,13,2597
+320504 4,Płoty,Gryficki,412,4,3995
+320906 4,Polanów,Koszaliński,737,7,2949
+321104 4,Police,Policki,3731,37,32970
+321603 4,Połczyn-Zdrój,Świdwiński,721,8,8181
+321205 4,Pyrzyce,Pyrzycki,3879,39,12709
+320206 4,Recz,Choszczeński,1240,12,2930
+321804 4,Resko,Łobeski,449,4,4255
+320907 4,Sianów,Koszaliński,1588,16,6666
+321302 1,Sławno,Sławieński,1583,16,12590
+321401 1,Stargard,Stargardzki,4808,48,68195
+320407 4,Stepnica,Goleniowski,340,3,2478
+321411 4,Suchań,Stargardzki,357,4,1490
+326201 1,Szczecin,Szczecin,30060,301,403883
+321501 1,Szczecinek,Szczecinecki,4848,48,40292
+321601 1,Świdwin,Świdwiński,2238,22,15725
+326301 1,Świnoujście,Świnoujście,20207,202,41032
+320608 4,Trzcińsko-Zdrój,Gryfiński,233,2,2297
+320508 4,Trzebiatów,Gryficki,1025,10,10025
+321704 4,Tuczno,Wałecki,921,9,1931
+320104 4,Tychowo,Białogardzki,396,4,2495
+321701 1,Wałcz,Wałecki,3817,38,25533
+321805 4,Węgorzyno,Łobeski,685,7,2865
+320706 4,Wolin,Kamieński,1447,14,4842
+320306 4,Złocieniec,Drawski,3228,32,13068

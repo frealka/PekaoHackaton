@@ -1,6 +1,6 @@
 import datetime
 import requests
-import json
+import pandas as pd
 
 def convert_date_to_list(date):
     y = date[:4]
@@ -42,10 +42,22 @@ def get_location_from_postal_code(postal_code):
     return data[0]['gmina'], data[0]['powiat']
 
 
+ZABYTKI_FRAME = pd.read_csv('./data/zabytki.csv', delimiter=";", encoding="iso-8859-2")
+
+
+def get_number_of_zabytki(powiat, gmina, miejscowosc):
+    powiat = ZABYTKI_FRAME.loc[ZABYTKI_FRAME['POWIAT'] == powiat]
+    gmina = powiat.loc[powiat['GMINA'] == gmina]
+    miejscowosc = gmina.loc[gmina['MIEJSCOWOSC'] == miejscowosc]
+
+    return powiat.count()['INSPIRE_ID'], gmina.count()['INSPIRE_ID'], miejscowosc.count()['INSPIRE_ID']
+
+
+
 if __name__ == '__main__':
     # print(convert_date_to_list('20180801'))
     # print(convert_time_to_list('102906'))
     # print(convert_date_to_weekday('20191026'))
     # print(is_shopping_sunday('20181008'))
     # print(is_shopping_sunday('20181007'))
-    print(get_location_from_postal_code('55-050'))
+    print(get_number_of_zabytki('wrocławski', 'Żórawina', 'Żórawina'))
