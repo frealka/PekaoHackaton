@@ -19,7 +19,7 @@ main_query = 'SELECT TOP 10 ' + headers_tpd + headers_merchant + \
 
 # where TxnData > 20180731 group by TxnData 
 
-test_query = 'select TOP 100000 MCC, LocCity, LocZipCode, COUNT(ROWID), SUM(TPD.anon_Kwota), TxnData FROM TPD join MERCHANT on Merchant.anon_EID = TPD.anon_MID group by TxnData, anon_Eid, MCC, LocCity, LocZipCode ORDER BY COUNT(ROWID) DESC'
+test_query = 'select TOP 100000 anon_EID, MCC, LocCity, LocZipCode, COUNT(ROWID), SUM(TPD.anon_Kwota), TxnData FROM TPD join MERCHANT on Merchant.anon_EID = TPD.anon_MID group by TxnData, anon_Eid, MCC, LocCity, LocZipCode ORDER BY COUNT(ROWID) DESC'
 
 cursor.execute(test_query)
 
