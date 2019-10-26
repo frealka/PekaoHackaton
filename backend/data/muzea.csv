@@ -1,0 +1,742 @@
+Lp.;Nazwa Muzeum;Kod pocztowy;MiejscowoúÊ;Gmina;Powiat;WojewÛdztwo;ul./Aleja/Plac/;Ulica;Numer domu;Numer lokalu;Kod pocztowy (adres pocztowy jeúli nie wystÍpuje w komÛrkach C1-G1);MiejscoúÊ (adres dodatkowy );ul./Aleja/Plac (adres dodatkowy);Ulica i numer domu (adres dodatkowy);Numer domu (adres dodatkowy;Numer lokalu (adres dodatkowy);Nazwa Organizatora /Za≥oøyciela;Nazwa Organizatora I/Za≥oøyciela;Nazwa Organizatora II/Za≥oøyciela;Nazwa Organizatora III/Za≥oøyciela;Data wpisu do PaÒstwowego Rejestru MuzeÛw                                   (dotyczy Muzeum wpisanego do PaÒstwowego Rejestru MuzeÛw);Status muzeum
+1;Centralne Muzeum JeÒcÛw Wojennych w £ambinowicach - Opolu ;45-017;Opole;Opole;m. Opole;OPOLSKIE;ul.;MinorytÛw;3;;48-316;£ambinowice;;ul. Muzealna 4;;;WojewÛdztwo Opolskie;;;;06.07.1998;Samorzπdowe
+2;Centralne Muzeum Poøarnictwa w Mys≥owicach;41-400;Mys≥owice;Mys≥owice;m. Mys≥owice;åL•SKIE;ul.;Stadionowa;7a;;;;;;;;Komenda G≥Ûwna PaÒstwowej Straøy Poøarnej ;;;;;Samorzπdowe
+3;Centralne Muzeum W≥Ûkiennictwa w†£odzi;93-034;£Ûdü;£Ûdü (£Ûdü-GÛrna);m. £Ûdü;£”DZKIE;ul.;Piotrkowska;282;;;;;;;;Miasto £Ûdü ;;;;28.06.2013;Samorzπdowe
+4;Interaktywne Muzeum PaÒstwa Krzyøackiego w Dzia≥dowie  ;13-200;Dzia≥dowo;Dzia≥dowo;dzia≥dowski;WARMI—SKO-MAZURSKIE;ul.;Mickiewicza;43;;;;;;;;Gmina ñ Miasto Dzia≥dowo ;;;;;Samorzπdowe
+5;Lubuskie Muzeum Wojskowe w†Zielonej GÛrze z siedzibπ w Drzonowie ;66-008;åwidnica;åwidnica;zielonogÛrski;LUBUSKIE;ul.;DrzonÛw;54;;;;;;;;Miasto Zielona GÛra;;;;06.07.1998;Samorzπdowe
+6;Miejskie Muzeum Zabawek ze zbiorÛw Henryka Tomaszewskiego;58-540;Karpacz;Karpacz;jeleniogÛrski;DOLNOåL•SKIE;ul.;Kolejowa;3;;;;;;;;Gmina Karpacz ;;;;;Samorzπdowe
+7;MiÍdzyrzecki Rejon Umocniony - Muzeum Fortyfikacji i Nietoperzy w Pniewie ;66-300;MiÍdzyrzecz;MiÍdzyrzecz;miÍdzyrzecki;LUBUSKIE;ul.;Pniewo;1;;;;;;;;Gmina MiÍdzyrzecz;;;;;Samorzπdowe
+8;Muzeum Czartoryskich w Pu≥awach (w organizacji);24-100;Pu≥awy;GÛra Pu≥awska;pu≥awski;LUBELSKIE;ul. ;Czartoryskich ;8;;;;;;;;Miasto Pu≥awy ;;;;;Samorzπdowe
+9;Muzeum ÑGÛrnoúlπski Park Etnograficzny w Chorzowieî;41-500;ChorzÛw;ChorzÛw;m. ChorzÛw;åL•SKIE;ul.;Parkowa;25;;;;;;;;WojewÛdztwo ålπskie;;;;;Samorzπdowe
+10;Muzeum Archeologiczne w Biskupinie;88-410;Gπsawa;Gπsawa;øniÒski;KUJAWSKO-POMORSKIE;ul.;Biskupin;17;;;;;;;;WojewÛdztwo Kujawsko ñ Pomorskie ;;;;;Samorzπdowe
+11;Muzeum Archeologiczne w GdaÒsku;80-958;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;Mariacka;25;26;;;;;;;WojewÛdztwo Pomorskie ;;;;;Samorzπdowe
+12;Muzeum Archeologiczne w Krakowie;31-002;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;Senacka;3;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;07.07.2006;Samorzπdowe
+13;Muzeum Archeologiczne w Poznaniu;61-781;PoznaÒ;PoznaÒ (PoznaÒ-Stare Miasto);m. PoznaÒ;WIELKOPOLSKIE;ul.;Wodna;27;;;;;;;;Miasto PoznaÒ ;;;;28.12.1998;Samorzπdowe
+14;Muzeum Archeologiczne i†Etnograficzne w £odzi;91-415;£Ûdü;£Ûdü;m. £Ûdü;£”DZKIE;pl.;Wolnoúci;14;;;;;;;;WojewÛdztwo £Ûdzkie ;;;;28.12.1998;Samorzπdowe
+15;Muzeum Archeologiczne årodkowego Nadodrza w Zielonej GÛrze z siedzibπ w†åwidnicy;66-008;åwidnica;åwidnica;zielonogÛrski;LUBUSKIE;ul.;D≥uga;27;;;;;;;;Miasto Zielona GÛra;;;;06.07.1998;Samorzπdowe
+16;Muzeum Archeologiczno-Historyczne w†Elblπgu;82-300;Elblπg;Nowakowo;elblπski;WARMI—SKO-MAZURSKIE;ul.;Bulwar Zygmunta Augusta;11;;;;;;;;Gmina Miasto Elblπg;;;;;Samorzπdowe
+17;Muzeum Archeologiczno-Historyczne w†G≥ogowie;67-200;G≥ogÛw;G≥ogÛw;g≥ogowski;DOLNOåL•SKIE;ul.;Brama Brzostowska;1;;;;;;;;Gmina Miejska G≥ogÛw;;;;30.12.2008;Samorzπdowe
+18;Muzeum Archeologiczno ñ Historyczne w Stargardzie ;73-110;Stargard;Stargard;stargardzki;ZACHODNIO-POMORSKIE;ul.;Rynek Staromiejski;2-;4;;;;;;;Gmina Miasto Stargard ;;;;;Samorzπdowe
+19;Muzeum Architektury we Wroc≥awiu;50-156;Wroc≥aw;Wroc≥aw (Wroc≥aw-Stare Miasto);m. Wroc≥aw;DOLNOåL•SKIE;ul.;BernardyÒska;5;;;;;;;;Gmina Wroc≥aw;;;;28.06.2013;Samorzπdowe
+20;Muzeum Armii Krajowej im. gen. Emila Fieldorfa ,,Nilaî w Krakowie;31-511;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;Wita Stwosza;12;;;;;;;;Gmina Miejska KrakÛw i WojewÛdztwo Ma≥opolskie;;;;;Samorzπdowe
+21;Muzeum Augusta Zamoyskiego w†Jab≥oniu ;21-205;Jab≥oÒ;Jab≥oÒ;parczewski;LUBELSKIE;ul.;Augusta Zamoyskiego;9A;;;;;;;;Gmina Jab≥oÒ;;;;;Samorzπdowe
+22;Muzeum Azji i Pacyfiku w Warszawie;00-403;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Solec;24;;;;;;;;WojewÛdztwo Mazowieckie;;;;28.12.1998;Samorzπdowe
+23;Muzeum Bitwy pod Grunwaldem w†StÍbarku;14-107;Gietrzwa≥d;Gierzwa≥d;ostrÛdzki;WARMI—SKO-MAZURSKIE;ul.;StÍbark;1;;;;;;;;WojewÛdztwo WarmiÒsko- Mazurskie ;;;;;Samorzπdowe
+24;Muzeum Budownictwa Ludowego ñ Park Etnograficzny w Olsztynku;11-015;Olsztynek;Olsztynek;olsztyÒski;WARMI—SKO-MAZURSKIE;ul.;Leúna;23;;;;;;;;WojewÛdztwo WarmiÒsko ñ Mazurskie ;;;;30.12.2008;Samorzπdowe
+25;Muzeum Budownictwa Ludowego w†Sanoku;38-500;Sanok;Sanok;sanocki;PODKARPACKIE;ul.;Traugutta;3;;;;;;;;WojewÛdztwo Podkarpackie ;;;;21.09.2005;Samorzπdowe
+26;Muzeum Ceramiki w Boles≥awcu;59-700;Boles≥awiec;Boles≥awiec;boles≥awiecki;DOLNOåL•SKIE;ul.;Mickiewicza;13;;;;;;;;Gmina Miejska Boles≥awiec;;;;;Samorzπdowe
+27;Muzeum CzÍstochowskie;42-217;CzÍstochowa;CzÍstochowa;m. CzÍstochowa;åL•SKIE;Aleja;NajúwiÍtszej Marii Panny;47;;;;;;;;Gmina CzÍstochowa;;;;;Samorzπdowe
+28;Muzeum Dawnego Kupiectwa w åwidnicy;58-100;åwidnica;åwidnica;úwidnicki;DOLNOåL•SKIE;ul.;Rynek;37;;;;;;;;Gmina Miasto åwidnica;;;;;Samorzπdowe
+29;Muzeum Dobranocek ze ZbiorÛw Wojciecha Jamy w Rzeszowie;35-064;RzeszÛw;RzeszÛw;m. RzeszÛw;PODKARPACKIE;ul.;Mickiewicza;13;;;;;;;;Gmina Miasto RzeszÛw;;;;;Samorzπdowe
+30;Muzeum Dulag 121;05-800;PruszkÛw;PruszkÛw;pruszkowski;MAZOWIECKIE;ul.;3 Maja ;8a;;;;;;;;Powiat Pruszkowski;;;;;Samorzπdowe
+31;Muzeum - Dwory KarwacjanÛw i†G≥adyszÛw;38-300;Gorlice;Gorlice;gorlicki;MA£OPOLSKIE;ul.;WrÛblewskiego;10a;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;;Samorzπdowe
+32;Muzeum Emigracji w Gdyni                                              ;81-372;Gdynia;Gdynia;m. Gdynia;POMORSKIE;ul.;Armii Krajowej;24;;;;;;;;Gmina Miasta Gdyni ;;;;;Samorzπdowe
+33;Muzeum Etnograficzne w Zielonej GÛrze z siedzibπ w Ochli;66-006;Ochla;Kie≥pin;zielonogÛrski;LUBUSKIE;ul.;Muzealna;5;;;;;;;;WojewÛdztwo Lubuskie;;;;06.07.1998;Samorzπdowe
+34;Muzeum Etnograficzne im. Marii Znamierowskiej - Pr¸fferowej w†Toruniu;87-100;ToruÒ;ToruÒ;m. ToruÒ;KUJAWSKO-POMORSKIE;ul.;Wa≥y gen. Sikorskiego;19;;;;;;;;WojewÛdztwo Kujawsko-Pomorskie;;;;21.09.2005;Samorzπdowe
+35;Muzeum Etnograficzne im. Seweryna Udzieli w Krakowie;31-066;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;Krakowska;46;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;07.11.2006;Samorzπdowe
+36;Muzeum Fauny i Flory Morskiej i årÛdlπdowej w Jaworzu;43-384;Jaworze;Jaworze;bielski;åL•SKIE;ul.;Wapienicka;10;;;;;;;;Gmina Jaworze;;;;;Samorzπdowe
+37;Muzeum Filumenistyczne w Bystrzycy K≥odzkiej;57-500;Bystrzyca K≥odzka;Bystrzyca K≥odzka;k≥odzki;DOLNOåL•SKIE;ul.;Ma≥y Rynek;1;;;;;;;;Gmina Bystrzyca K≥odzka;;;;;Samorzπdowe
+38;Muzeum Gminne w Biszczy;23-425;Biszcza;Biszcza;bi≥gorajski;LUBELSKIE;ul.;Biszcza;50;;;;;;;;Gmina Biszcza;;;;;Samorzπdowe
+39;Muzeum GÛrnictwa WÍglowego w†Zabrzu;41-800;Zabrze;Zabrze;m. Zabrze;åL•SKIE;ul.;3 Maja ;19;;;;;;;;Miasto Zabrze i WojewÛdztwo ålπskie;;;;;Samorzπdowe
+40;Muzeum GÛrnoúlπskie w Bytomiu;40-902;Bytom;Bytom;m. Bytom;åL•SKIE;Plac;Jana III Sobieskiego;2;;;;;;;;WojewÛdztwo ålπskie;;;;;Samorzπdowe
+41;Muzeum Gross-Rosen w Rogoünicy;58-152;Gocza≥kÛw Rogoünica ;Rogoünica;úwidnicki;DOLNOåL•SKIE;ul.; Ofiar Gross Rosen ;26;;;;;;;;WojewÛdztwo Dolnoúlπskie;;;;06.07.1998 r.;Samorzπdowe
+42;Muzeum Henryka Sienkiewicza w Woli Okrzejskiej;21-480;Okrzeja;Okrzeja;≥ukowski;LUBELSKIE;;Wola Okrzejska;109;;;;;;;;Powiat £ukowski;;;;;Samorzπdowe
+43;Muzeum Historii Fotografii im. Walerego Rzewuskiego w Krakowie;30-045;KrakÛw;KrakÛw (KrakÛw-Krowodrza);m. KrakÛw;MA£OPOLSKIE;ul.;JÛzefitÛw;16;;;;;;;;Gmina Miejska KrakÛw ;;;;12.02.2014;Samorzπdowe
+44;Muzeum Historii Katowic w†Katowicach;40-025;Katowice;Katowice;m. Katowice;åL•SKIE;ul.;Ks. J. Szafranka ;9;;;;;;;;Miasto Katowice;;;;;Samorzπdowe
+45;Muzeum Historii Kielc;25-303;Kielce;Kielce;m. Kielce;åWI TOKRZYSKIE;ul.;åwiÍtego Leonarda;4;;;;;;;;Miasto Kielce;;;;;Samorzπdowe
+46;Muzeum Historii Miasta ZduÒska Wola;98-220;ZduÒska Wola;ZduÒska Wola (Kolonia Karsznice);zduÒskowolski;£”DZKIE;ul.;Z≥otnickiego;7;;;;;;;;Miasto ZduÒska Wola;;;;;Samorzπdowe
+47;Muzeum Historii Polskiego Ruchu Ludowego w Warszawie;02-730;Warszawa;Warszawa (MokotÛw);m. st. Warszawa;MAZOWIECKIE;Aleja;Wilanowska;204;;;;;;;;Samorzπd WojewÛdztwa Mazowieckiego;;;;18.05.1998;Samorzπdowe
+48;Muzeum Historii Przemys≥u w†OpatÛwku;62-860;OpatÛwek;OpatÛwek;kaliski;WIELKOPOLSKIE;ul.;Koúcielna;1;;;;;;;;Powiat Kaliski;;;;28.12.1998;Samorzπdowe
+49;Muzeum Historii Ziemi KamieÒskiej;72-400;KamieÒ Pomorski;KamieÒ Pomorski;kamieÒski;ZACHODNIO-POMORSKIE;Plac;Katedralny;7;7;;;;;;;Gmina KamieÒ Pomorski;;;;;Samorzπdowe
+50;Muzeum Historyczne Miasta GdaÒska;80-831;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;D≥uga;46;47;;;;;;;Gmina Miasta GdaÒska  ;;;;30.12.2014;Samorzπdowe
+51;Muzeum Historyczne Miasta Krakowa;31-011;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;Rynek G≥Ûwny;35;;;;;;;;Gmina Miejska KrakÛw ;;;;21.09.2005;Samorzπdowe
+52;Muzeum Historyczne Miasta Tarnobrzega;39-400;Tarnobrzeg;Tarnobrzeg;m. Tarnobrzeg;PODKARPACKIE;ul.;Sandomierska;27;;;;;;;;Gmina Tarnobrzeg;;;;;Samorzπdowe
+53;Muzeum Historyczne - Pa≥ac w Dukli;38-450;Dukla;Dukla;kroúnieÒski;PODKARPACKIE;ul.;Trakt WÍgierski;5;;;;;;;;Powiat KroúnieÒski;;;;;Samorzπdowe
+54;Muzeum Historyczne w Bielsku-Bia≥ej;43-300;Bielsko-Bia≥a;Bielsko-Bia≥a;bielski;åL•SKIE;ul.;WzgÛrze;16;;;;;;;;WojewÛdztwo ålπskie;;;;;Samorzπdowe
+55;Muzeum Historyczne w E≥ku  (w†organizacji);19-300;E≥k;E≥k;e≥cki;WARMI—SKO-MAZURSKIE;ul.;Ma≥eckich;3;;;;;;;;Miasto E≥k;;;;;Samorzπdowe
+56;Muzeum Historyczne w Legionowie;05-120;Legionowo;Legionowo;legionowski;MAZOWIECKIE;ul.;Adama Mickiewicza;23;;;;;;;;Gmina Legionowo;;;;;Samorzπdowe
+57;Muzeum Historyczne w Lubinie (w organizacji);59-300 ;Lubin ;Lubin;lubiÒski;DOLNOåL•SKIE;ul. ;Miko≥aja Pruzi ;7;i9 ;;;;;;;Gmina Miejska Lubin;;;;;Samorzπdowe
+58;Muzeum Historyczne w Przasnyszu (w†organizacji);06-300;Przasnysz;Przasnysz;przasnyski;MAZOWIECKIE;ul.;Jana KiliÒskiego;2;;;;;;;;Miasto Przasnysz ;;;;;Samorzπdowe
+59;Muzeum Historyczne w Sanoku;38-500;Sanok;Sanok;sanocki;PODKARPACKIE;ul.;Zamkowa;2;;;;;;;;Powiat Sanocki;;;;;Samorzπdowe
+60;Muzeum Historyczno-Archeologiczne w Ostrowcu åwiÍtokrzyskim;27-400;Ostrowiec åwiÍtokrzyski;Szewna;ostrowiecki;åWI TOKRZYSKIE;ul.;SudÛ≥;135A;;;;;;;;Powiat Ostrowiecki;;;;14.12.2001;Samorzπdowe
+61;Muzeum Historyczno-Etnograficzne im. Juliana Rydzkowskiego w Chojnicach;89-600;Chojnice;Chojnice;chojnicki;POMORSKIE;ul.;Podmurna;15;;;;;;;;Powiat Chojnicki;;;;15.07.2011;Samorzπdowe
+62;Muzeum im. Aleksandra K≥osiÒskiego w KÍtach;32-650;KÍty;KÍty;oúwiÍcimski;MA£OPOLSKIE;ul.;Rynek;16;;;;;;;;Gmina KÍty;;;;;Samorzπdowe
+63;Muzeum im. Anny i Jaros≥awa IwaszkiewiczÛw w Stawisku;05-807;Podkowa Leúna;Podkowa Leúna;grodziski;MAZOWIECKIE;ul.;Go≥Íbia;1;;;;;;;;Powiat Grodziski;;;;;Samorzπdowe
+64;Muzeum im. Jacka Malczewskiego w Radomiu;26-600;Radom;Radom;m. Radom;MAZOWIECKIE;ul.;Rynek;11;;;;;;;;WojewÛdztwo Mazowieckie;;;;;Samorzπdowe
+65;Muzeum im. Jana Dzierøona w†Kluczborku;46-200;Kluczbork;BπkÛw;kluczborski;OPOLSKIE;ul.;Zamkowa;10;;;;;;;;Gmina Kluczbork;;;;;Samorzπdowe
+66;"Muzeum im. Jana Kasprowicza w Inowroc≥awiu
+";88-100;Inowroc≥aw;Inowroc≥aw;inowroc≥awski;KUJAWSKO-POMORSKIE;ul.;Solankowa;33;;;;;;;;Powiat Inowroc≥awski;;;;;Samorzπdowe
+67;Muzeum im. Jerzego Dunin-Borkowskiego  w Kroúniewicach;99-340;Kroúniewice;Kroúniewice;kutnowski;£”DZKIE;ul. ;Plac Wolnoúci;1;;;;;;;;Powiat Kutnowski;;;;;Samorzπdowe
+68;Muzeum im. Kazimierza Pu≥askiego w Warce ;05-660;Warka;Warka;grÛjecki;MAZOWIECKIE;ul.;K. Pu≥askiego;24;;;;;;;;Powiat GrÛjecki ;;;;;Samorzπdowe
+69;Muzeum im. ks. dr. W≥adys≥awa £Ígi w Grudziπdzu;86-300;Grudziπdz;Grudziπdz;m. Grudziπdz;KUJAWSKO-POMORSKIE;ul.;Wodna;3;5;;;;;;;Gmina - Miasto Grudziπdz;;;;28.12.1999;Samorzπdowe
+70;Muzeum im. ks. Stanis≥awa Staszica w†Hrubieszowie;22-500;HrubieszÛw;HrubieszÛw;hrubieszowski;LUBELSKIE;ul.;3 Maja ;11;;;;;;;;Powiat Hrubieszowski;;;;;Samorzπdowe
+71;Muzeum im. ,,Or≥a Bia≥egoî w Skarøysku - Kamiennej;26-110;Skarøysko - Kamienna;Skarøysko-Kamienna;skarøyski;åWI TOKRZYSKIE;ul.;S≥oneczna;90;;;;;;;;Gmina Skarøysko - Kamienna;;;;;Samorzπdowe
+72;Muzeum im. prof. Stanis≥awa Fischera w Bochni;32-700;Bochnia;Bochnia;bocheÒski;MA£OPOLSKIE;ul.;Rynek;20;;;;;;;;Gmina Miasta Bochnia;;;;;Samorzπdowe
+73;Muzeum im. Przypkowskich w JÍdrzejowie;28-300;JÍdrzejÛw;JÍdrzejÛw;jÍdrzejowski;åWI TOKRZYSKIE;pl. ;Tadeusza Koúciuszki;7-;8;;;;;;;Powiat JÍdrzejowski;;;;;Samorzπdowe
+74;Muzeum im. W≥adys≥awa Orkana w†Rabce - Zdroju;34-700;Rabka-ZdrÛj;Rabka-ZdrÛj;nowotarski;MA£OPOLSKIE;ul.;Sπdecka;6;;;;;;;;Powiat Nowotarski;;;;;Samorzπdowe
+75;Muzeum im. Wojciecha KÍtrzyÒskiego w KÍtrzynie;11-400;KÍtrzyn;KÍtrzyn;kÍtrzyÒski;WARMI—SKO-MAZURSKIE;pl.;Zamkowy;1;;;;;;;;Gmina Miejska KÍtrzyn;;;;;Samorzπdowe
+76;Muzeum im. Zofii i Wac≥awa Na≥kowskich w Wo≥ominie;05-200;Wo≥omin;Wo≥omin;wo≥omiÒski;MAZOWIECKIE;ul.;Wac≥awa Na≥kowskiego;17;;;;;;;;Gmina Wo≥omin;;;;30.08.2004;Samorzπdowe
+77;Muzeum Inøynierii Miejskiej w†Krakowie;31-060;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;åw. WawrzyÒca;13;15;;;;;;;Gmina Miejska KrakÛw;;;;;Samorzπdowe
+78;Muzeum JÛzefa Ignacego Kraszewskiego  w Romanowie;21-518;SosnÛwka;SosnÛwka;bialski;LUBELSKIE;ul.;RomanÛw;25;;;;;;;;Powiat Bialski;;;;;Samorzπdowe
+79;Muzeum Karkonoskie w Jeleniej GÛrze;58-500;Jelenia GÛra;Jelenia GÛra;m. Jelenia GÛra;DOLNOåL•SKIE;ul.;Jana Matejki;28;;;;;;;;WojewÛdztwo Dolnoúlπskie;;;;28.12.1998;Samorzπdowe
+80;Muzeum Karykatury im. Eryka LipiÒskiego w Warszawie;00-070;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Kozia;11;;;;;;;;Miasto Sto≥eczne Warszawa;;;;;Samorzπdowe
+81;Muzeum - Kaszubski Park Etnograficzny im. Teodory i Izydora Gulgowskich  we Wdzydzach Kiszewskich;83-406;Wπglikowice;Koúcierzyna;koúcierski;POMORSKIE;;Wdzydze Kiszewskie;;;;;;;;;WojewÛdztwo Pomorskie ;;;;28.11.2002;Samorzπdowe
+82;Muzeum Kaszubskie im. Franciszka Tredera w Kartuzach;83-300;Kartuzy;Dzierøπøno;kartuski;POMORSKIE;ul.;Koúcierska;1;;;;;;;;Gmina Kartuzy;;;;25.01.2001;Samorzπdowe
+83;Muzeum Kinematografii w £odzi;90-312;£Ûdü;£Ûdü (£Ûdü-Widzew);m. £Ûdü;£”DZKIE;pl.;ZwyciÍstwa;1;;;;;;;;Miasto £Ûdü;;;;;Samorzπdowe
+84;Muzeum Konstantego Ildefonsa Ga≥czyÒskiego w Praniu z Oddzia≥em Muzeum Micha≥a Kajki w OgrÛdku ;12-220;Ruciane Nida;Ruciane-Nida;piski;WARMI—SKO-MAZURSKIE;;Pranie ;1;;;;;;;;Powiat Piski;;;;;Samorzπdowe
+85;Muzeum KresÛw w Lubaczowie;37-600;LubaczÛw;LubaczÛw;lubaczowski;PODKARPACKIE;ul.;Sobieskiego;4;;;;;;;;Powiat Lubaczowski ;;;;;Samorzπdowe
+86;Muzeum Kultury Kurpiowskiej w†Ostro≥Íce;07-410;Ostro≥Íka;Ostro≥Íka;m. Ostro≥Íka;MAZOWIECKIE;ul.;gen. JÛzefa Bema;8;;;;;;;;WojewÛdztwo Mazowieckie;;;;;Samorzπdowe
+87;Muzeum Kultury Ludowej PogÛrza Sudeckiego w Kudowie - Zdroju;57-350;Kudowa-ZdrÛj;Kudowa-ZdrÛj;k≥odzki;DOLNOåL•SKIE;ul.;Pstrπøna;14;;;;;;;;Gmina Kudowa-ZdrÛj;;;;;Samorzπdowe
+88;Muzeum Kultury Ludowej w†Kolbuszowej;36-100;Kolbuszowa;Kolbuszowa;kolbuszowski;PODKARPACKIE;ul.;Tadeusza Koúciuszki;6;;;;;;;;WojewÛdztwo Podkarpackie ;;;;31.01.2011;Samorzπdowe
+89;Muzeum Kultury Ludowej w†WÍgorzewie;11-600;WÍgorzewo;WÍgorzewo;wÍgorzewski;WARMI—SKO-MAZURSKIE;ul.;Portowa;1;;;;;;;;WojewÛdztwo WarmiÒsko ñ Mazurskie ;;;;26.06.2012;Samorzπdowe
+90;Muzeum Lniarstwa im. Filipa De Girarda  w Øyrardowie (w organizacji);96-300;ØyrardÛw;ØyrardÛw;øyrardowski;MAZOWIECKIE;ul.;Karola Ditricha;18;;;;;;;;Miasto ØyrardÛw;;;;;Samorzπdowe
+91;Muzeum Lotnictwa Polskiego w†Krakowie;31-864;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;Al.;Jana Paw≥a II;39;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;07.07.2006;Samorzπdowe
+92;Muzeum Lubuskie im. Jana Dekerta w†Gorzowie Wielkopolskim;66-400;GorzÛw Wielkopolski;GorzÛw Wielkopolski;m. GorzÛw Wielkopolski;LUBUSKIE;ul.;Warszawska;35;;;;;;;;WojewÛdztwo Lubuskie;;;;28.12.1998;Samorzπdowe
+93;Muzeum Ludowych InstrumentÛw Muzycznych w Szyd≥owcu;26-500;Szyd≥owiec;Szyd≥owiec;szyd≥owiecki;MAZOWIECKIE;ul.;gen. J.SowiÒskiego;2;;;;;;;; WojewÛdztwo Mazowieckie;;;;28.12.1999;Samorzπdowe
+94;Muzeum £uøyckie w Zgorzelcu;59-900;Zgorzelec;RadzimÛw (RadzimÛw Dolny);zgorzelecki;DOLNOåL•SKIE;ul.;DaszyÒskiego;15;;;;;;;;Gmina Zgorzelec;;;;;Samorzπdowe
+95;Muzeum Marii Konopnickiej w†Øarnowcu;38-460;Jedlicze;Jedlicze;kroúnieÒski;PODKARPACKIE;;Øarnowiec;133;;;;;;;;Samorzπd WojewÛdztwo Podkarpackie;;;;;Samorzπdowe
+96;Muzeum Martyrologiczne w Øabikowie;62-031;LuboÒ;LuboÒ;poznaÒski;WIELKOPOLSKIE;ul.;Niez≥omnych;2;;;;;;;;WojewÛdztwo Wielkopolskie;;;;;Samorzπdowe
+97;Muzeum Mazowieckie w P≥ocku;09-402;P≥ock;P≥ock;m. P≥ock;MAZOWIECKIE;ul.;Tumska;8;;;;;;;;WojewÛdztwo Mazowieckie;;;;30.08.2004;Samorzπdowe
+98;Muzeum Mazowsza Zachodniego w†Øyrardowie  ;96-300;ØyrardÛw;ØyrardÛw;øyrardowski;MAZOWIECKIE;ul.;Karola Ditricha;1;;;;;;;;Powiat Øyrardowski;;;;25.01.2001;Samorzπdowe
+99;Muzeum Miasta Gdyni;81-374;Gdynia;Gdynia;m. Gdynia;POMORSKIE;ul.;Zawiszy Czarnego;1;;;;;;;;Gmina Miasta Gdyni;;;;;Samorzπdowe
+100;Muzeum Miasta Jaworzna;43-600;Jaworzno;Jaworzno;m. Jaworzno;åL•SKIE;ul.;Pocztowa;5;;;;;;;;Gmina Jaworzno - miasto na prawach powiatu;;;;;Samorzπdowe
+101;Muzeum Miasta £odzi;91-065;£Ûdü;£Ûdü (£Ûdü-Ba≥uty);m. £Ûdü;£”DZKIE;ul.;Ogrodowa;15;;;;;;;;Miasto £Ûdü;;;;;Samorzπdowe
+102;Muzeum Miasta Mys≥owice;41-400;Mys≥owice;Mys≥owice;m. Mys≥owice;åL•SKIE;ul.;Stadionowa;7a;;;;;;;;Miasto Mys≥owice;;;;;Samorzπdowe
+103;Muzeum Miasta Ostrowa Wielkopolskiego;63-400;OstrÛw Wielkopolski;OstrÛw Wielkopolski;ostrowski;WIELKOPOLSKIE;ul.;Rynek;1;;;;;;;;Gmina Miasto OstrÛw Wielkopolski ;;;;;Samorzπdowe
+104;Muzeum Miasta Pabianic;95-200;Pabianice;Pabianice;pabianicki;£”DZKIE;ul.;Stary Rynek;1;2;;;;;;;Miasto Pabianice;;;;;Samorzπdowe
+105;Muzeum Miasta Turku im. JÛzefa Mehoffera;62-700;Turek;Turek;turecki;WIELKOPOLSKIE;Plac;Wojska Polskiego;1;;;;;;;;Gmina Miejska Turek ;;;;;Samorzπdowe
+106;Muzeum Miasta Zgierza;95-100;Zgierz;Zgierz;zgierski;£”DZKIE;ul.;gen. Jana Henryka Dπbrowskiego;21;;;;;;;;Gmina Miasto Zgierz;;;;;Samorzπdowe
+107;Muzeum Miedzi w Legnicy;59-220;Legnica;Tyniec Legnicki;legnicki;DOLNOåL•SKIE;ul.;PartyzantÛw;3;;;;;;;;Gmina Legnica;;;;;Samorzπdowe
+108;Muzeum Miejskie Dzierøoniowa  ;58- 200;DzierøoniÛw;DzierøoniÛw;dzierøoniowki;DOLNOåL•SKIE;ul.;åwidnicka;30;;;;;;;;Gmina Miejska DzierøoniÛw;;;;;Samorzπdowe
+109;Muzeum Miejskie w Nowej Soli;67-100;Nowa SÛl;Nowa SÛl;nowosolski;LUBUSKIE;ul.;Muzealna;20;;;;;;;;Gmina miejska Nowa SÛl  ;;;;;Samorzπdowe
+110;Muzeum Miejskie w Siemianowicach ålπskich;41-100;Siemianowice ålπskie;Siemianowice ålπskie;m. Siemianowice ålπskie;åL•SKIE;ul.;Chopina;6;;;;;;;;Miasto na prawach powiatu Siemianowice ålπskie;;;;;Samorzπdowe
+111;Muzeum Miejskie Suchej Beskidzkiej;34-200;Sucha Beskidzka;KrzeszÛw;suski;MA£OPOLSKIE;ul.;Zamkowa;1;;;;;;;;Gmina Sucha Beskidzka;;;;;Samorzπdowe
+112;Muzeum Miejskie w Tychach;43-100;Tychy;Tychy;m. Tychy;åL•SKIE;ul.;Katowicka;9;;;;;;;;Miasto Tychy;;;;;Samorzπdowe
+113;Muzeum Miejskie w Zabrzu;41-800;Zabrze;Zabrze;m. Zabrze;åL•SKIE;ul.;3 Maja ;91;;;;;;;;Miasto Zabrze;;;;;Samorzπdowe
+114;Muzeum Miejskie w Øorach;44-240;Øory;Øory;m. Øory;åL•SKIE;ul.;Muzealna;1;2;;;;;;;Gmina Miejska Øory;;;;;Samorzπdowe
+115;Muzeum Miejskie w Øywcu;34-300;Øywiec;Øywiec;øywiecki;åL•SKIE;ul.;Zamkowa;2;;;;;;;;Miasto Øywiec ;;;;;Samorzπdowe
+116;"Muzeum Miejskie ""Dom Gerharta Hauptmanna""  w Jeleniej GÛrze";58-570;Jelenia GÛra;Jelenia GÛra;m. Jelenia GÛra;DOLNOåL•SKIE;ul.;Micha≥owicka;32;;;;;;;;Miasto Jelenia GÛra;;;;;Samorzπdowe
+117;"Muzeum Miejskie ""Sztygarka"" w†Dπbrowie GÛrniczej";41-300;Dπbrowa GÛrnicza;Dπbrowa GÛrnicza;m. Dπbrowa GÛrnicza;åL•SKIE;ul.;LegionÛw Polskich;69;;;;;;;;Miasto Dπbrowa GÛrnicza;;;;;Samorzπdowe
+118;Muzeum Miejskie im. Maksymiliana Chroboka w Rudzie ålπskiej;41-700;Ruda ålπska;Ruda ålπska;m. Ruda ålπska;åL•SKIE;ul.;Wolnoúci;26;;;;;;;;Miasto Ruda ålπska;;;;;Samorzπdowe
+119;Muzeum Miejskie Wroc≥awia;50-107;Wroc≥aw;Wroc≥aw (Wroc≥aw-Stare Miasto);m. Wroc≥aw;DOLNOåL•SKIE;ul.;Sukiennice;14;15;;;;;;;Gmina Wroc≥aw;;;;;Samorzπdowe
+120;Muzeum Miko≥aja Kopernika we†Fromborku;14-530;Frombork;Frombork;braniewski;WARMI—SKO-MAZURSKIE;ul.;Katedralna;8;;;;;;;;WojewÛdztwo WarmiÒsko ñ Mazurskie ;;;;30.12.2009;Samorzπdowe
+121;Muzeum - NadwiúlaÒski Park Etnograficzny w Wygie≥zowie i Zamek Lipowiec;32-551;Babice Wygie≥zÛw;Babice;chrzanowski;MA£OPOLSKIE;ul.;Podzamcze;1;;;;;;;;WojewÛdztwo Ma≥opolskie; Gmina ChrzanÛw ;;;31.01.2011;Samorzπdowe
+122;Muzeum NadwiúlaÒskie  w Kazimierzu Dolnym;24-120;Kazimierz Dolny;Kazimierz Dolny;pu≥awski;LUBELSKIE;ul.;Rynek;19;;;;;;;;WojewÛdztwo Lubelskie; Miasto Pu≥awy;;;28.12.1998;Samorzπdowe
+123;Muzeum Narodowe Rolnictwa i†Przemys≥u Rolno-Spoøywczego w Szreniawie;62-052;Komorniki;Walerianowo;poznaÒski;WIELKOPOLSKIE;ul.;Dworcowa;5;;;;;;;;WojewÛdztwo Wielkopolskie; Minister Rolnictwa i†Rozwoju Wsi;;;28.12.1998;Samorzπdowe
+124;Muzeum Narodowe Ziemi Przemyskiej w Przemyúlu;37- 700;Przemyúl;Przemyúl;m. Przemyúl;PODKARPACKIE;pl.;P≥k. Berka Joselewicza;1;;;;;;;;WojewÛdztwo Podkarpackie ;;;;22.02.2007;Samorzπdowe
+125;Muzeum Niepodleg≥oúci w Warszawie;00-240;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;al.;Solidarnoúci;62;;;;;;;;WojewÛdztwo Mazowieckie;;;;18.05.1998;Samorzπdowe
+126;Muzeum Niepo≥omickie w Niepo≥omicach;32-005;Niepo≥omice;Niepo≥omice;wielicki;MA£OPOLSKIE;ul.;Zamkowa;2;;;;;;;;Gmina Niepo≥omice;;;;;Samorzπdowe
+127;Muzeum ObozÛw Jenieckich w Øaganiu ;68-100;ØagaÒ;Brzeünica;øagaÒski;LUBUSKIE;ul.;LotnikÛw Alianckich;6;;;;;;;;Miasto ØagaÒ;;;;;Samorzπdowe
+128;Muzeum OkrÍgowe im. Leona WyczÛ≥kowskiego w Bydgoszczy;85-006;Bydgoszcz;Bydgoszcz;m. Bydgoszcz;KUJAWSKO-POMORSKIE;ul.;GdaÒska;4;;;;;;;;Miasto Bydgoszcz;;;;30.12.2009;Samorzπdowe
+129;Muzeum OkrÍgowe im. Stanis≥awa Staszica w Pile;64-920;Pi≥a;Pi≥a;pilski;WIELKOPOLSKIE;ul.;Browarna;5;;;;;;;;WojewÛdztwo Wielkopolskie;;;;28.12.1998;Samorzπdowe
+130;Muzeum OkrÍgowe w Koninie;62-505;Konin;Konin;m. Konin;WIELKOPOLSKIE;ul.;Muzealna;5;;;;;;;;WojewÛdztwo Wielkopolskie;;;;;Samorzπdowe
+131;Muzeum OkrÍgowe w Lesznie;64-100;Leszno;Leszno;m. Leszno;WIELKOPOLSKIE;pl.;Jana Metziga;17;;;;;;;;WojewÛdztwo Wielkopolskie;;;;30.12.2008;Samorzπdowe
+132;Muzeum OkrÍgowe w Nowym Sπczu;33-300;Nowy Sπcz;Nowy Sπcz;m. Nowy Sπcz;MA£OPOLSKIE;ul.;Lwowska;3;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;07.07.2006;Samorzπdowe
+133;Muzeum OkrÍgowe w Rzeszowie;35-030;RzeszÛw;RzeszÛw;m. RzeszÛw;PODKARPACKIE;ul.;3 Maja ;19;;;;;;;;WojewÛdztwo Podkarpackie ;;;;18.05.1998;Samorzπdowe
+134;Muzeum OkrÍgowe w Sandomierzu;27-600;Sandomierz;Sandomierz;sandomierski;åWI TOKRZYSKIE;ul.;Zamkowa;12;;;;;;;;Miasto Sandomierz;WojewÛdztwo åwiÍtokrzyskie;Powiat Sandomierski ;;28.12.1999;Samorzπdowe
+135;Muzeum OkrÍgowe w Sieradzu;98-200;Sieradz;Sieradz;sieradzki;£”DZKIE;ul.;DominikaÒska;2;;;;;;;;Powiat Sieradzki ;;;;;Samorzπdowe
+136;Muzeum OkrÍgowe w Suwa≥kach;16-400;Suwa≥ki;Suwa≥ki;m. Suwa≥ki;PODLASKIE;ul.;T. Koúciuszki;81;;;;;;;;Miasto Suwa≥ki;;;;"12.02.2014 r.
+";Samorzπdowe
+137;Muzeum OkrÍgowe w Tarnowie;33-100;TarnÛw;TarnÛw;m. TarnÛw;MA£OPOLSKIE;ul.;Rynek;3;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;28.11.2002;Samorzπdowe
+138;Muzeum OkrÍgowe w Toruniu;87-100;ToruÒ;ToruÒ;m. ToruÒ;KUJAWSKO-POMORSKIE;ul.;Rynek Staromiejski;1;;;;;;;;Gmina Miasta ToruÒ;;;;28.12.1998;Samorzπdowe
+139;Muzeum OkrÍgowe Ziemi Kaliskiej w†Kaliszu;62-800;Kalisz;Kalisz;kaliski;WIELKOPOLSKIE;ul.;T. Koúciuszki;12;;;;;;;;WojewÛdztwo Wielkopolskie;;;;28.12.1998;Samorzπdowe
+140;Muzeum - Orawski Park Etnograficzny  w Zubrzycy GÛrnej;34-484;Zubrzyca GÛrna;Zubrzyca GÛrna;nowotarski;MA£OPOLSKIE;;Zubrzyca GÛrna;388;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;31.01.2011;Samorzπdowe
+141;Muzeum OrÍøa Polskiego w Ko≥obrzegu;78-100;Ko≥obrzeg;Ko≥obrzeg;ko≥obrzeski;ZACHODNIO-POMORSKIE;ul.;Armii Krajowej;13;;;;;;;;Powiat Ko≥obrzeski;;;;18.05.1998;Samorzπdowe
+142;Muzeum PamiÍci Narodowej i Sztuki Ludowej w Ochotnicy GÛrnej  (w†organizacji);34-453;Ochotnica Dolna;Ochotnica Dolna;nowotarski;MA£OPOLSKIE;oú. ;Zawady;205 B;;;;;;;;Gmina Ochotnica Dolna ;;;;;Samorzπdowe
+143;Muzeum Pamiπtek 1. Armii Wojska Polskiego oraz DziejÛw Ziemi Mieszkowickiej w Mieszkowicach;74-505;Mieszkowice;Mieszkowice;gryfiÒski;ZACHODNIO-POMORSKIE;ul.;Chopina;1;;;;;;;;Gmina Mieszkowice;;;;;Samorzπdowe
+144;Muzeum PamiÍci Sybiru - Muzeum w organizacji;15-092;Bia≥ystok;Bia≥ystok;m. Bia≥ystok;PODLASKIE;ul. ;H. Sienkiewicza;26;;;;;;;;Miasto Bia≥ystok ;;;;;Samorzπdowe
+145;Muzeum Papiernictwa w Dusznikach Zdroju;57-340;Duszniki ZdrÛj;Duszniki-ZdrÛj;k≥odzki;DOLNOåL•SKIE;ul.;K≥odzka;42;;;;;;;;WojewÛdztwo Dolnoúlπskie;;;;28.06.2013 ;Samorzπdowe
+146;Muzeum Pierwszych PiastÛw na Lednicy;62-261;LednogÛra;Imielenko;gnieünieÒski;WIELKOPOLSKIE;ul.;Dziekanowice;32;;;;;;;; WojewÛdztwo Wielkopolskie;;;;28.12.1999;Samorzπdowe
+147;Muzeum Piúmiennictwa i Muzyki Kaszubsko-Pomorskiej w Wejherowie;84-200;Wejherowo;Boøepole Wielkie;wejherowski;POMORSKIE;ul.;Zamkowa;2a;;;;;;;;Powiat Wejherowski;WojewÛdztwo Pomorskie;;;07.07.2006;Samorzπdowe
+148;Muzeum PoczπtkÛw PaÒstwa Polskiego  w Gnieünie;62-200;Gniezno;Gniezno;gnieünieÒski;WIELKOPOLSKIE;ul.;Kostrzewskiego;1;;;;;;;;WojewÛdztwo Wielkopolskie;;;;06.07.1998;Samorzπdowe
+149;Muzeum Poczty i Telekomunikacji we Wroc≥awiu;50-954;Wroc≥aw;Wroc≥aw;wroc≥awki;DOLNOåL•SKIE;ul.;Z. KrasiÒskiego;1;;;;;;;;WojewÛdztwo Dolnoúlπskie;;;;;Samorzπdowe
+150;Muzeum Podkarpackie w Kroúnie;38-400;Krosno;Krosno;m. Krosno;PODKARPACKIE;ul.;Pi≥sudskiego;16;;;;;;;;WojewÛdztwo Podkarpackie ;;;;18.12.2003;Samorzπdowe
+151;Muzeum Podlaskie w Bia≥ymstoku;15-426;Bia≥ystok;Bia≥ystok;m. Bia≥ystok;PODLASKIE;ul.;Rynek Koúciuszki;10;;;;;;;;WojewÛdztwo Podlaskie;;;;18.12.2003;Samorzπdowe
+152;Muzeum Pogranicza ålπsko ñ £uøyckiego w Øarach ;68-200;Øary;Nowe Czaple;øarski;LUBUSKIE;ul.;Ogrodowa;2;;;;;;;;Gmina Øary ;;;;;Samorzπdowe
+153;Muzeum Pojezierza £ÍczyÒsko-W≥odawskiego we W≥odawie;22-200;W≥odawa;W≥odawa;w≥odawski;LUBELSKIE;ul.;Czerwonego Krzyøa;7;;;;;;;;Powiat W≥odawski;;;;;Samorzπdowe
+154;Muzeum Pojezierza Myúliborskiego w Myúliborzu;74-300;MyúlibÛrz;MyúlibÛrz;myúliborski;ZACHODNIO-POMORSKIE;ul.;BohaterÛw Warszawy;74;;;;;;;;Gmina MyúlibÛrz ;;;;;Samorzπdowe
+155;Muzeum Polskiej Piosenki w Opolu  (w†organizacji);45ñ040;Opole;Opole;m. Opole;OPOLSKIE;pl.;Miko≥aja Kopernika;1;;;;;;;;Miasto Opole;;;;;Samorzπdowe
+156;Muzeum Po≥udniowego Podlasia w†Bia≥ej Podlaskiej;21-500;Bia≥a Podlaska;Hrud;bialski;LUBELSKIE;ul.;Warszawska;12;;;;;;;;Gmina Miejska Bia≥a Podlaska ;;;;28.12.1998;Samorzπdowe
+157;Muzeum Pomorza årodkowego w†S≥upsku;76-200;S≥upsk;S≥upsk;m. S≥upsk;POMORSKIE;ul.;DominikaÒska;5;-9;;;;;;;WojewÛdztwo Pomorskie ;;;;06.07.1998;Samorzπdowe
+158;Muzeum Powstania Warszawskiego;00-844;Warszawa;Warszawa (Wola);m. st. Warszawa;MAZOWIECKIE;ul.;Grzybowska;79;;;;;;;;Miasto Sto≥eczne Warszawa;;;;21.09.2005;Samorzπdowe
+159;Muzeum PowstaÒ ålπskich w†åwiÍtoch≥owicach ;41-600;åwiÍtoch≥owice;åwiÍtoch≥owice;m. åwiÍtoch≥owice;åL•SKIE;ul.;Szpitalna;2;;;;;;;;Gmina åwiÍtoch≥owice ;;;;;Samorzπdowe
+160;Muzeum Poøarnictwa w Oseredku ;22-672 ;Susiec;Susiec;tomaszowski;LUBELSKIE;;Oseredek;123;;;;;;;;Gmina Susiec;;;;;Samorzπdowe
+161;Muzeum PÛ≥nocno ñ Mazowieckie w†£omøy;18-400;£omøa;£omøa;m. £omøa;PODLASKIE;ul.;Dworna;22C;;;;;;;;Miasto £omøa ;;;;15.07.2011;Samorzπdowe
+162;Muzeum Przyrodnicze w Jeleniej GÛrze;58-560;Jelenia GÛra;Wojcieszyce;jeleniogÛrski;DOLNOåL•SKIE;ul.;Cieplicka;11A;;;;;;;;Miasto Jelenia GÛra ;;;;;Samorzπdowe
+163;Muzeum Przyrody w Drozdowie;18-421;Piπtnica;Drozdowo;≥omøyÒski;PODLASKIE;ul.;G≥Ûwna;38;;;;;;;;Powiat £omøyÒski ;;;;;Samorzπdowe
+164;Muzeum Przyrody i Techniki Ekomuzeum im. Jana Pazdura w Starachowicach;27-200;Starachowice;Starachowice;starachowicki;åWI TOKRZYSKIE;ul.;Wielkopiecowa;1;;;;;;;;Powiat Starachowicki ;;;;;Samorzπdowe
+165;Muzeum Puszczy Drawskiej i Noteckiej im. Franciszka Grasia w Drezdenku;66-530;Drezdenko;Drezdenko;strzelecko-drezdenecki;LUBUSKIE;pl.;Wolnoúci;11;;;;;;;;Gmina Drezdenko ;;;;;Samorzπdowe
+166;Muzeum Regionalne im. Adama Fastnachta w Brzozowie;36-200;BrzozÛw;BrzozÛw;brzozowski;PODKARPACKIE;ul.;Rynek;10;;;;;;;;Gmina BrzozÛw;;;;;Samorzπdowe
+167;Muzeum Regionalne im. dr. Henryka Florkowskiego w Koúcianie;64-000;Koúcian;Koúcian;koúciaÒski;WIELKOPOLSKIE;ul.;Rynek;1;;;;;;;;Gmina Miejska Koúcian;;;;;Samorzπdowe
+168;Muzeum Regionalne im. dr. Janusza Petera w Tomaszowie Lubelskim;22-600;TomaszÛw Lubelski;TomaszÛw Lubelski;tomaszowski;LUBELSKIE;ul.;Zamojska;2;;;;;;;;Powiat Tomaszowski (TomaszÛw Lubelski);;;;;Samorzπdowe
+169;Muzeum Regionalne im. Dzieci WrzesiÒskich we Wrzeúni ;62-300;Wrzeúnia;Wrzeúnia;wrzesiÒski;WIELKOPOLSKIE;ul.;Dzieci WrzesiÒskich;13;;;;;;;;Miasto i Gmina Wrzeúnia;;;;;Samorzπdowe
+170;Muzeum Regionalne im. Hieronima £awniczaka w Krotoszynie;63-700;Krotoszyn;Krotoszyn;krotoszyÒski;WIELKOPOLSKIE;ul.;Ma≥y Rynek;1;;;;;;;;Miasto i Gmina Krotoszyn;;;;;Samorzπdowe
+171;Muzeum Regionalne im. prof. Tomasza Mikockiego w Kozienicach;26-900;Kozienice;Kozienice;kozienicki;MAZOWIECKIE;ul.;Parkowa;5B;;;;;;;;Gmina Kozienice;;;;;Samorzπdowe
+172;Muzeum Regionalne im. Stanis≥awa Sankowskiego w Radomsku ;97-500;Radomsko;Radomsko;radomszczaÒski;£”DZKIE;ul.;Narutowicza;1;;;;;;;;Miasto Radomsko ;;;;;Samorzπdowe
+173;Muzeum Regionalne im. Walentyny Dermackiej z SapiehÛw w Pieckach (w organizacji);11-710;Piecki;Piecki;mrπgowski;WARMI—SKO-MAZURSKIE;ul.;ZwyciÍstwa;48;;;;;;;;Gmina Piecki;;;;;Samorzπdowe
+174;Muzeum Regionalne im. W≥. St. Reymonta w Lipcach Reymontowskich;96-127;Lipce Reymontowskie;Lipce Reymontowskie;skierniewicki;£”DZKIE;ul.;Wiatraczna;10;;;;;;;;Powiat Skierniewicki;;;;;Samorzπdowe
+175;Muzeum Regionalne im. Zygmunta KrasiÒskiego w Z≥otym Potoku;42-253;Z≥oty Potok (poczta JanÛw);JanÛw;czÍstochowski;åL•SKIE;ul.;Tadeusza Koúciuszki;11;;;;;;;;Gmina JanÛw;;;;;Samorzπdowe
+176;Muzeum Regionalne w Be≥chatowie;97-400;Be≥chatÛw;Be≥chatÛw;be≥chatowski;£”DZKIE;ul.;Rodziny HellwigÛw;11;;;;;;;;Miasto Be≥chatÛw;;;;;Samorzπdowe
+177;Muzeum Regionalne w Brzezinach;95-060;Brzeziny;Brzeziny;brzeziÒski;£”DZKIE;ul.;Pi≥sudskiego;49;;;;;;;;Gmina Miasto Brzeziny;;;;;Samorzπdowe
+178;Muzeum Regionalne w Chojnowie;59-225;ChojnÛw;ChojnÛw;legnicki;DOLNOåL•SKIE;pl.;Zamkowy;3;;;;;;;;Miasto ChojnÛw;;;;;Samorzπdowe
+179;Muzeum Regionalne w Cz≥uchowie;77-300;Cz≥uchÛw;Cz≥uchÛw;cz≥uchowski;POMORSKIE;al.;Wojska Polskiego;3;;;;;;;;Gmina Miejska Cz≥uchÛw;;;;;Samorzπdowe
+180;Muzeum Regionalne w DÍbicy;39-200;DÍbica;DÍbica;dÍbicki;PODKARPACKIE;ul.;Ratuszowa;4;;;;;;;;Gmina Miasta DÍbica;;;;;Samorzπdowe
+181;Muzeum Regionalne w Gniewkowie;88-140;Gniewkowo;Gniewkowo;inowroc≥awski;KUJAWSKO-POMORSKIE;ul.;PodgÛrna;2;;;;;;;;Gmina Gniewkowo;;;;;Samorzπdowe
+182;Muzeum Regionalne w Janowie Lubelskim;23-300;JanÛw Lubelski;JanÛw Lubelski;janowski;LUBELSKIE;ul.;Ogrodowa;3a;;;;;;;;Gmina JanÛw Lubelski;;;;;Samorzπdowe
+183;Muzeum Regionalne w Jaúle;38-200;Jas≥o;Jas≥o;jasielski;PODKARPACKIE;ul.;Stefana Kadyiego;11;;;;;;;;Miasto Jas≥o;;;;;Samorzπdowe
+184;Muzeum Regionalne w Jaworze ;59-400;Jawor;Jawor;jaworski;DOLNOåL•SKIE;ul.;Klasztorna;6;;;;;;;;Gmina Jawor;;;;;Samorzπdowe
+185;Muzeum Regionalne w Kluczkowicach;24-300;Kluczkowice;Opole Lubelskie;opolski;LUBELSKIE;ul.;Kluczkowice;7;;;;;;;;Powiat Opolski;;;;;Samorzπdowe
+186;Muzeum Regionalne w Krasnymstawie;22-300;Krasnystaw;Krasnystaw;krasnostawski;LUBELSKIE;ul.;Marsza≥ka JÛzefa Pi≥sudskiego;5A;;;;;;;;Powiat Krasnostawski;;;;;Samorzπdowe
+187;Muzeum Regionalne w Kutnie;99-300;Kutno;Kutno;kutnowski;£”DZKIE;pl.;JÛzefa Pi≥sudskiego;20;;;;;;;;Miasto Kutno;;;;;Samorzπdowe
+188;Muzeum Regionalne w Lubaniu;59-800;LubaÒ;LubaÒ;lubaÒski;DOLNOåL•SKIE;;Rynek - Ratusz ;;;;;;;;;Gmina Miejska LubaÒ;;;;;Samorzπdowe
+189;Muzeum Regionalne w £ukowie;21-400;£ukÛw;£ukÛw;≥ukowski;LUBELSKIE;ul.;Pi≥sudskiego;19;;;;;;;;Powiat £ukowski;;;;;Samorzπdowe
+190;Muzeum Regionalne w Opocznie;26-300;Opoczno;Opoczno;opoczyÒski;£”DZKIE;pl.;Zamkowy;1;;;;;;;;Gmina Opoczno;;;;;Samorzπdowe
+191;Muzeum Regionalne w PiÒczowie;28-400;PiÒczÛw;Gacki;piÒczowski;åWI TOKRZYSKIE;ul.;Pi≥sudskiego;2a;;;;;;;;Gmina PiÒczÛw;;;;;Samorzπdowe
+192;Muzeum Regionalne w Pleszewie;63-300;Pleszew;Kowalew;pleszewski;WIELKOPOLSKIE;ul.;PoznaÒska;34;;;;;;;;Miasto i Gmina Pleszew;;;;;Samorzπdowe
+193;Muzeum Regionalne w Pu≥tusku;06-100;Pu≥tusk;Pu≥tusk;pu≥tuski;MAZOWIECKIE;ul.;Rynek;1;;;;;;;;Gmina Pu≥tusk;;;;;Samorzπdowe
+194;Muzeum Regionalne w Siedlcach;08-110;Siedlce;Siedlce;m. Siedlce;MAZOWIECKIE;ul.;Pi≥sudskiego;1;;;;;;;;WojewÛdztwo Mazowieckie;;;;;Samorzπdowe
+195;Muzeum Regionalne w Skawinie;32-050;Skawina;RadziszÛw;krakowski;MA£OPOLSKIE;ul.;Adama Mickiewicza;26;;;;;;;;Miasto i Gmina Skawina;;;;;Samorzπdowe
+196;Muzeum Regionalne w S≥upcy;62-400;S≥upca;S≥upca;s≥upecki;WIELKOPOLSKIE;ul.;Warszawska;53;;;;;;;;Gmina Miejska S≥upca;;;;;Samorzπdowe
+197;Muzeum Regionalne w Stalowej Woli;37-464;Stalowa Wola;Stalowa Wola;stalowowolski;PODKARPACKIE;ul.;Sandomierska;1;;;;;;;;Gmina Stalowa Wola;;;;21.09.2005;Samorzπdowe
+198;Muzeum Regionalne w StÍszewie;62-060;StÍszew;Strykowo;poznaÒski;WIELKOPOLSKIE;ul.;Rynek;8;;;;;;;;Gmina StÍszew;;;;;Samorzπdowe
+199;Muzeum Regionalne w Szczecinku;78-400;Szczecinek;ØÛ≥tnica;szczecinecki;ZACHODNIO-POMORSKIE;ul.;Szkolna;1;;;;;;;;Miasto Szczecinek ;;;;;Samorzπdowe
+200;Muzeum Regionalne w årodzie ålπskiej;55-300;åroda ålπska;Kostom≥oty;úredzki;DOLNOåL•SKIE;pl.;Wolnoúci;3;;;;;;;;Powiat åredzki;;;;;Samorzπdowe
+201;Muzeum Regionalne w åwiebodzinie;66-200;åwiebodzin;åwiebodzin;úwiebodziÒski;LUBUSKIE;Plac;Jana Paw≥a II;1;;;;;;;;Gmina åwiebodzin;;;;;Samorzπdowe
+202;Muzeum Regionalne w Trzebnicy;55-100;Trzebnica;Paw≥Ûw Trzebnicki;trzebnicki;DOLNOåL•SKIE;ul.;Rynek;8;;;;;;;;Gmina Trzebnica;;;;;Samorzπdowe
+203;Muzeum Regionalne w Zwoleniu;26-700;ZwoleÒ;ZwoleÒ;zwoleÒski;MAZOWIECKIE;Aleja;Jana Paw≥a II;2;;;;;;;;Gmina ZwoleÒ;;;;;Samorzπdowe
+204;Muzeum Regionalne Ziemi Limanowskiej ;34-600;Limanowa;Limanowa;limanowski;MA£OPOLSKIE;ul.;JÛzefa Marka;13;;;;;;;;Gmina Miasto Limanowa;;;;;Samorzπdowe
+205;Muzeum Regionalne Ziemi Sulmierzyckiej im. Sebastiana Fabiana Klonowicza;63-750;Sulmierzyce;Chwaliszew;krotoszyÒski;WIELKOPOLSKIE;ul.;Rynek;1;;;;;;;;Miasto Sulmierzyce;;;;;Samorzπdowe
+206;Muzeum Rolnictwa im. ks. Krzysztofa Klukaw Ciechanowcu;18-230;Ciechanowiec;Ciechanowiec;wysokomazowiecki;PODLASKIE;ul.;Pa≥acowa;5;;;;;;;;WojewÛdztwo Podlaskie;;;;28.12.1998;Samorzπdowe
+207;Muzeum Romantyzmu w OpinogÛrze;06-406;OpinogÛra;OpinogÛra GÛrna;ciechanowski;MAZOWIECKIE;ul.;Zygmunta KrasiÒskiego;9;;;;;;;;Samorzπd WojewÛdztwa Mazowieckiego;;;;1.04.2015;Samorzπdowe
+208;Muzeum Rzemios≥a w Kroúnie;38-400;Krosno;Krosno;m. Krosno;PODKARPACKIE;ul.;Pi≥sudskiego;19;;;;;;;;Gmina Krosno;;;;;Samorzπdowe
+209;Muzeum Saturn w Czeladzi;41-250;Czeladü;Czeladü;bÍdziÒski;åL•SKIE;ul.;DehnelÛw;10;;;;;;;;Gmina Miejska Czeladü;;;;;Samorzπdowe
+210;Muzeum Solca im. KsiÍcia Przemys≥a w†Solcu Kujawskim;86-050;Solec Kujawski;Solec Kujawski;bydgoski;KUJAWSKO-POMORSKIE;ul.;ToruÒska;8;;;;;;;;Miasto i Gmina Solec Kujawski;;;;;Samorzπdowe
+211;Muzeum Sopotu;81-724;Sopot;Sopot;m. Sopot;POMORSKIE;ul.;Poniatowskiego;8;;;;;;;;Gmina Miasta Sopotu;;;;;Samorzπdowe
+212;Muzeum Sportu i Turystyki w Karpaczu;58-540;Karpacz;Karpacz;jeleniogÛrski;DOLNOåL•SKIE;ul.;Miko≥aja Kopernika;2;;;;;;;;WojewÛdztwo Dolnoúlπskie;;;;;Samorzπdowe
+213;Muzeum Sportu i Turystyki w†Warszawie;01-531;Warszawa;Warszawa (Øoliborz);m. st. Warszawa;MAZOWIECKIE;ul.;Wybrzeøe GdyÒskie;4;;;;;;;;WojewÛdztwo Mazowieckie;;;;28.12.1998;Samorzπdowe
+214;Muzeum SprzÍtu Gospodarstwa Domowego w ZiÍbicach;57-220;ZiÍbice;ZiÍbice;zπbkowicki;DOLNOåL•SKIE;ul.;Rynek;44;;;;;;;;Gmina ZiÍbice;;;;;Samorzπdowe
+215;Muzeum Staroøytnego Hutnictwa Mazowieckiego im. Stefana Woydy w Pruszkowie;05-800;PruszkÛw;PruszkÛw;pruszkowski;MAZOWIECKIE;pl.;Jana Paw≥a II;2;;;;;;;;Miasto PruszkÛw;;;;;Samorzπdowe
+216;Muzeum Szlachty Mazowieckiej w Ciechanowie;06-400;CiechanÛw;CiechanÛw;ciechanowski;MAZOWIECKIE;ul.;Warszawska;61;;;;;;;;WojewÛdztwo Mazowieckie;;;;28.12.1998;Samorzπdowe
+217;Muzeum Sztuki WspÛ≥czesnej w†Krakowie (w organizacji);30-702;KrakÛw;KrakÛw (KrakÛw-PodgÛrze);m. KrakÛw;MA£OPOLSKIE;ul.;Lipowa;4;;;;;;;;Gmina Miejska KrakÛw;;;;;Samorzπdowe
+218;Muzeum ålπska CieszyÒskiego w†Cieszynie;43-400;Cieszyn;Cieszyn;cieszyÒski;åL•SKIE;ul.;Tadeusza Regera;6;;;;;;;;Powiat CieszyÒski;;;;;Samorzπdowe
+219;Muzeum ålπska Opolskiego w Opolu;45-023;Opole;Opole;m. Opole;OPOLSKIE;ul.;úw. Wojciecha;13;;;;;;;;WojewÛdztwo Opolskie;;;;28.12.1998;Samorzπdowe
+220;Muzeum ålÍøaÒskie im. Stanis≥awa Dunajewskiego w SobÛtce;55-050;SobÛtka;SobÛtka;wroc≥awski;DOLNOåL•SKIE;ul.;úw. Jakuba;18;;;;;;;;Gmina SobÛtka;;;;;Samorzπdowe
+221;Muzeum ålusarstwa im. Marcina Miku≥y w åwiπtnikach GÛrnych;32-040;åwiπtniki GÛrne;åwiπtniki GÛrne;krakowski;MA£OPOLSKIE;ul.;Kazimierza Bruchnalskiego;35;;;;;;;;Miasto i Gmina åwiπtniki GÛrne;;;;;Samorzπdowe
+222;Muzeum åremskie w åremie;63-100;årem;Manieczki;úremski;WIELKOPOLSKIE;ul.;Adama Mickiewicza;89;;;;;;;;Miasto i Gmina  årem;;;;;Samorzπdowe
+223;Muzeum TatrzaÒskie im. dra Tytusa Cha≥ubiÒskiego w Zakopanem;34-500;Zakopane;Zakopane;tatrzaÒski;MA£OPOLSKIE;ul.;KrupÛwki;10;;;;;;;;WojewÛdztwo Ma≥opolskie;;;;07.07.2006;Samorzπdowe
+224;Muzeum Technik Ceramicznych w Kole;62-600;Ko≥o;Ko≥o;kolski;WIELKOPOLSKIE;ul.;M. Kajki;44;;;;;;;;Gmina Miejska Ko≥o;;;;;Samorzπdowe
+225;Muzeum Techniki i Komunikacji - Zajezdnia Sztuki w Szczecinie;71-441;Szczecin;Szczecin;m. Szczecin;ZACHODNIO-POMORSKIE;ul.;NiemierzyÒska;18A;;;;;;;;Gmina Miasto Szczecin;;;;;Samorzπdowe
+226;Muzeum Tkactwa w Kamiennej GÛrze;58-400;Kamienna GÛra;Kamienna GÛra;kamiennogÛrski;DOLNOåL•SKIE;Plac;Wolnoúci;11;;;;;;;;Gmina Miejska Kamienna GÛra;;;;;Samorzπdowe
+227;Muzeum Tradycji Niepodleg≥oúciowych w £odzi;90-706;£Ûdü;£Ûdü (£Ûdü-Polesie);m. £Ûdü;£”DZKIE;ul.;GdaÒska;13;;;;;;;;Miasto £Ûdü;;;;;Samorzπdowe
+228;Muzeum Twierdzy Kostrzyn nad Odrπ;66-470;Kostrzyn nad Odrπ;Kostrzyn nad Odrπ;gorzowski;LUBUSKIE;ul.;ChyøaÒska;48;;;;;;;;Miasto Kostrzyn nad Odrπ;;;;;Samorzπdowe
+229;Muzeum UstroÒskie im. Jana Jarockiego w Ustroniu;43-450;UstroÒ;UstroÒ;cieszyÒski;åL•SKIE;ul.;Hutnicza;3;;;;;;;;Miasto UstroÒ;;;;;Samorzπdowe
+230;Muzeum w Brodnicy;87-300;Brodnica;Brodnica;brodnicki;KUJAWSKO-POMORSKIE;ul.;úw. Jakuba;1;;;;;;;;Miasto Brodnica;;;;;Samorzπdowe
+231;Muzeum w Chorzowie;41-500;ChorzÛw;ChorzÛw;m. ChorzÛw;åL•SKIE;ul.;PowstaÒcÛw;25;;;;;;;;Miasto ChorzÛw ;;;;;Samorzπdowe
+232;Muzeum w Chrzanowie im. Ireny i†Mieczys≥awa Mazarakich;32-500;ChrzanÛw;ZagÛrze;chrzanowski;MA£OPOLSKIE;ul.;Mickiewicza;13;;;;;;;;Gmina ChrzanÛw;;;;;Samorzπdowe
+233;Muzeum w Gliwicach;44-100;Gliwice;Gliwice;m. Gliwice;åL•SKIE;ul.;Dolnych WalÛw;8a;;;;;;;;Miasto Gliwice;;;;;Samorzπdowe
+234;Muzeum w Jaros≥awiu Kamienica Orsettich;37-500;Jaros≥aw;Jaros≥aw;jaros≥awski;PODKARPACKIE;ul.;Rynek;4;;;;;;;;Powiat Jaros≥awski;;;;;Samorzπdowe
+235;Muzeum w Koszalinie;75-420;Koszalin;Koszalin;m. Koszalin;ZACHODNIO-POMORSKIE;ul.;M≥yÒska;37-;39;;;;;;;Miasto Koszalin;;;;30.12.2009;Samorzπdowe
+236;Muzeum w Lewkowie - ZespÛ≥ Pa≥acowo - Parkowy ;63-410;LewkÛw;OstrÛw Wielkopolski;ostrowski ;WIELKOPOLSKIE;ul. ;Kwiatkowska ;6c;;;;;;;;WojewÛdztwo Wielkopolskie;;;;;samorzπdowe 
+237;Muzeum w LÍborku;84-300;LÍbork;Maszewo LÍborskie;lÍborski;POMORSKIE;ul.;M≥ynarska;14-;15;;;;;;;Gmina Miasto LÍbork;;;;;Samorzπdowe
+238;Muzeum w £Íczycy;99-100;£Íczyca;Mazew;≥Íczycki;£”DZKIE;ul.;Zamkowa;1;;;;;;;;Gmina Miasto £Íczyca;;;;;Samorzπdowe
+239;Muzeum w £owiczu;99-400;£owicz;£owicz;≥owicki;£”DZKIE;ul.;Stary Rynek;5;7;;;;;;;Powiat £owicki; Minister Rolnictw a i Rozwoju Wsi ;;;28.12.1999;Samorzπdowe
+240;Muzeum Powiatowe w Nysie;48-300;Nysa;Jasienica Dolna;nyski;OPOLSKIE;ul.; Biskupa Jaros≥awa;11;;;;;;;;Powiat Nyski;;;;;Samorzπdowe
+241; Muzeum Regionalne w OstrÛdzie;14-100;OstrÛda;OstrÛda;ostrÛdzki;WARMI—SKO-MAZURSKIE;ul.;Adama Mickiewicza;22;;;;;;;;Gmina Miejska OstrÛda ;;;;;Samorzπdowe
+242;Muzeum w Piotrkowie Trybunalskim;97-300;PiotrkÛw Trybunalski;PiotrkÛw Trybunalski;m. PiotrkÛw Trybunalski;£”DZKIE;Plac;Zamkowy;4;;;;;;;;Miasto PiotrkÛw Trybunalski;;;;;Samorzπdowe
+243;Muzeum w Praszce;46-320;Praszka;Strojec;oleski;OPOLSKIE;pl.;Grunwaldzki;15;;;;;;;;Gmina Praszka;;;;;Samorzπdowe
+244;Muzeum w Przeworsku - ZespÛ≥ Pa≥acowo-Parkowy;37-200;Przeworsk;Przeworsk;przeworski;PODKARPACKIE;ul.;Park;2;;;;;;;;Powiat Przeworski;;;;;Samorzπdowe
+245;Muzeum w Raciborzu;47-400;RacibÛrz;Wojnowice;raciborski;åL•SKIE;ul.;Rzeünicza;15;;;;;;;;Gmina RacibÛrz;;;;;Samorzπdowe
+246;Muzeum w Rybniku;44-200;Rybnik;Rybnik;m. Rybnik;åL•SKIE;ul.;Rynek;18;;;;;;;;Miasto Rybnik;;;;;Samorzπdowe
+247;Muzeum w Tarnowskich GÛrach;42-600;Tarnowskie GÛry;Tarnowskie GÛry (Repty);tarnogÛrski;åL•SKIE;ul.;Rynek;1;;;;;;;;Gmina Tarnowskie GÛry;;;;;Samorzπdowe
+248;Muzeum w Tomaszowie Mazowieckim imienia Antoniego Hrabiego Ostrowskiego;97-200;TomaszÛw Mazowiecki;TomaszÛw Mazowiecki;tomaszowski;£”DZKIE;ul.;Polskiej Organizacji Wojskowej ;11;15;;;;;;;Gmina - Miasto TomaszÛw Mazowiecki;;;;;Samorzπdowe
+249;Muzeum Porcelany w Wa≥brzychu;58-300;Wa≥brzych;Szczawno-ZdrÛj;wa≥brzyski;DOLNOåL•SKIE;ul.;1 Maja;9;;;;;;;;Gmina Wa≥brzych;;;;28.11.2002;Samorzπdowe
+250;Muzeum w Wodzis≥awiu ålπskim;44-300;Wodzis≥aw ålπski;Wodzis≥aw ålπski;wodzis≥awski;åL•SKIE;ul.;Ks. p≥k. Wilhelma Kubsza;2;;;;;;;;Miasto Wodzis≥aw ålπski;;;;;Samorzπdowe
+251;Muzeum Warmii i Mazur w Olsztynie;10-074;Olsztyn;Olsztyn;m. Olsztyn;WARMI—SKO-MAZURSKIE;ul.;Zamkowa;2;;;;;;;;WojewÛdztwo WarmiÒsko ñ Mazurskie ;;;;07.07.2006;Samorzπdowe
+252;Muzeum Warszawy;00-272;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Rynek Starego Miasta;28-;42;;;;;;;Miasto Sto≥eczne Warszawa;;;;14.12.2001;Samorzπdowe
+253;Muzeum Wojska w Bia≥ymstoku ;15-089;Bia≥ystok;Bia≥ystok;m. Bia≥ystok;PODLASKIE;ul.;Jana KiliÒskiego;7;;;;;;;;Miasto Bia≥ystok ;;;;;Samorzπdowe
+254;Muzeum Wojska, Wojskowowúci i Ziemi Orzyskiej w Orzyszu w organizacji;12-250;Orzysz;Orzysz;piski;WARMI—SKO-MAZURSKIE;ul.;Giøycka;9;;;;;;;;Gmina Orzysz;;;;;Samorzπdowe
+255;Muzeum Wsi Kieleckiej w Kielcach ;25-025;Kielce;Kielce;m. Kielce;åWI TOKRZYSKIE;ul.;Jana Paw≥a II;6;;;;;;;;WojewÛdztwo åwiÍtokrzyskie; Minister Rolnictwa i Rozwoju Wsi ;;;28.12.1999;Samorzπdowe
+256;Muzeum Wsi Lubelskiej w Lublinie;20-824;Lublin;Lublin;m. Lublin;LUBELSKIE;al.;Warszawska;96;;;;;;;;WojewÛdztwo Lubelskie;Minister Rolnictwa i Rozwoju Wsi  ;;;14.12.2001;Samorzπdowe
+257;Muzeum Wsi Mazowieckiej w Sierpcu;09-200;Sierpc;Goleszyn;sierpecki;MAZOWIECKIE;ul.;Gabriela Narutowicza;64;;;;;;;;Samorzπd WojewÛdztwa Mazowieckiego;;;;12.02.2014;Samorzπdowe
+258;Muzeum Wsi Opolskiej w Opolu;45-835;Opole;Opole;m. Opole;OPOLSKIE;ul.;Wroc≥awska;174;;;;;;;;WojewÛdztwo Opolskie;;;;28.12.1998;Samorzπdowe
+259;Muzeum Wsi Radomskiej w Radomiu;26-600;Radom;Radom;m. Radom;MAZOWIECKIE;ul.;Szyd≥owiecka;30;;;;;;;;Samorzπd WojewÛdztwa Mazowieckiego;;;;;Samorzπdowe
+260;Muzeum WspÛ≥czesne Wroc≥aw  (w†organizacji);53-681;Wroc≥aw;Wroc≥aw (Wroc≥aw-Stare Miasto);m. Wroc≥aw;DOLNOåL•SKIE;Plac;Strzegomski;2a;;;;;;;;Gmina Wroc≥aw;;;;;Samorzπdowe
+261;Muzeum Zabawek i Zabawy w Kielcach;25-367;Kielce;Kielce;m. Kielce;åWI TOKRZYSKIE;Plac;Wolnoúci;2;;;;;;;;Miasto Kielce;;;;;Samorzπdowe
+262;Muzeum Zachodniokaszubskie w†Bytowie;77-100;BytÛw;BytÛw;bytowski;POMORSKIE;ul.;Zamkowa;2;;;;;;;;WojewÛdztwo Pomorskie ;;;;26.06.2012 ;Samorzπdowe
+263;Muzeum Zag≥Íbia w BÍdzinie;42-500;BÍdzin;BÍdzin;bÍdziÒski;åL•SKIE;ul.;åwierczewskiego;15;;;;;;;;Gmina BÍdzin;;;;;Samorzπdowe
+264;Muzeum - Zamek GÛrkÛw w†Szamotu≥ach;64-500;Szamotu≥y;OstrorÛg;szamotulski;WIELKOPOLSKIE;ul.;Wroniecka;30;;;;;;;;Powiat Szamotulski;;;;06.07.1998;Samorzπdowe
+265;Zamek Ksiπøπt Pomorskich - Muzeum w†Dar≥owie;76-150;Dar≥owo;Dar≥owo;s≥awieÒski;ZACHODNIO-POMORSKIE;Plac;Zamkowy;4;;;;;;;;Powiat S≥awieÒski;;;;;Samorzπdowe
+266;Muzeum Zamek OpaliÒskich w†Sierakowie;64-410;SierakÛw;Chrzypsko Wielkie;miÍdzychodzki;WIELKOPOLSKIE;ul.;Stadnina;3a;;;;;;;;Powiat MiÍdzychodzki;;;;;Samorzπdowe
+267;Muzeum - Zamek w Oporowie;99-322;OporÛw;OporÛw;kutnowski;£”DZKIE;;OporÛw;34;;;;;;;;Powiat Kutnowski;;;;22.02.2007;Samorzπdowe
+268;Muzeum Zamek w OúwiÍcimiu ;32-600;OúwiÍcim;OúwiÍcim;oúwiÍcimski;MA£OPOLSKIE;ul.;Zamkowa;1;;;;;;;;Gmina Miasto OúwiÍcim;;;;;Samorzπdowe
+269;Muzeum Zamkowe w Pszczynie;43-200;Pszczyna;GÛra;pszczyÒski;åL•SKIE;ul.;Brama WybraÒcÛw;1;;;;;;;;WojewÛdztwo ålπskie;;;;06.07.1998;Samorzπdowe
+270;Muzeum Zamojskie w Zamoúciu;22-400;ZamoúÊ;ZamoúÊ;m. ZamoúÊ;LUBELSKIE;ul.;OrmiaÒska;30;;;;;;;;Miasto ZamoúÊ;;;;26.06.2012;Samorzπdowe
+271;Muzeum Zamoyskich w Koz≥Ûwce;21-132;Kamionka;Kamionka;lubartowski;LUBELSKIE;ul.;Koz≥Ûwka;3;;;;;;;;WojewÛdztwo Lubelskie;;;;18.05.1998;Samorzπdowe
+272;Muzeum Zbrojownia na Zamku w Liwie;07-100;Liw (poczta WÍgrÛw);Starawieú;wÍgrowski;MAZOWIECKIE;ul.;Stefana Batorego;2;;;;;;;;WojewÛdztwo Mazowieckie;;;;;Samorzπdowe
+273;Muzeum Ziemi Bieckiej;38-340;Biecz;Biecz;gorlicki;MA£OPOLSKIE;ul.;WÍgierska;1;;;;;;;;Gmina Biecz;;;;;Samorzπdowe
+274;Muzeum Ziemi Bi≥gorajskiej w†Bi≥goraju;23-400;Bi≥goraj;Bi≥goraj;bi≥gorajski;LUBELSKIE;ul.;Koúciuszki;87;;;;;;;;Powiat Bi≥gorajski;;;;;Samorzπdowe
+275;Muzeum Ziemi Che≥mskiej im. Wiktora Ambroziewicza w Che≥mie;22-100;Che≥m;Che≥m;m. Che≥m;LUBELSKIE;ul.;Lubelska;55;;;;;;;;Miasto Che≥m;;;;28.12.1998;Samorzπdowe
+276;Muzeum Ziemi DobrzyÒskiej w Rypinie ;87-500;Rypin;Brzuze;rypiÒski;KUJAWSKO-POMORSKIE;ul.;Wroc≥awska;20;;;;;;;;Miasto Rypin ;;;;;Samorzπdowe
+277;Muzeum Ziemi KÍpiÒskiej  im. Tadeusza Piotra Potworowskiego w KÍpnie ;63-600;KÍpno;KÍpno;kÍpiÒski;WIELKOPOLSKIE;ul.;Kwiatowa;13;;;;;;;;Gmina KÍpno;;;;;Samorzπdowe
+278;Muzeum Ziemi K≥odzkiej w K≥odzku;57-300;K≥odzko;K≥odzko;k≥odzki;DOLNOåL•SKIE;ul.;£ukasiewicza;4;;;;;;;;Gmina Miasto K≥odzko;;;;14.12.2001;Samorzπdowe
+279;Muzeum Ziemi Koszyckiej im. Stanis≥awa Boducha w Koszycach;32 -130; Koszyce;Koszyce;proszowicki;MA£OPOLSKIE;ul.;WspÛlna;11;;;;;;;;Gmina Koszyce;;;;;Samorzπdowe
+280;Muzeum Ziemi Koúcierskiej im. dra Jerzego Knyby w Koúcierzynie;83-400;Koúcierzyna;Koúcierzyna;koúcierski;POMORSKIE;ul.;Rynek;9;;;;;;;;Gmina Miejska Koúcierzyna;;;;;Samorzπdowe
+281;Muzeum Ziemi Kozielskiej w†KÍdzierzynie Koülu  (w organizacji);47-200;KÍdzierzyn-Koüle;KÍdzierzyn-Koüle (K≥odnica);kÍdzierzyÒsko-kozielski;OPOLSKIE;ul.;JÛzefa Ignacego Kraszewskiego;5b;;;;;;;;Gmina KÍdzierzyn-Koüle;;;;;Samorzπdowe
+282;Muzeum Ziemi KrajeÒskiej w Nakle nad Noteciπ;89-100;Nak≥o nad Noteciπ;Paterek;nakielski;KUJAWSKO-POMORSKIE;ul.;Pocztowa;14;;;;;;;;Gmina Nak≥o nad Noteciπ;;;;;Samorzπdowe
+283;Muzeum Ziemi Kujawskiej i†DobrzyÒskiej we W≥oc≥awku;87-800;W≥oc≥awek;W≥oc≥awek;m. W≥oc≥awek;KUJAWSKO-POMORSKIE;ul.;S≥owackiego;1a;;;;;;;;WojewÛdztwo Kujawsko-Pomorskie;;;;06.07.1998;Samorzπdowe
+284;Muzeum Ziemi Leøajskiej;37-300;Leøajsk;Leøajsk;leøajski;PODKARPACKIE;ul.;Mickiewicza;20A;;;;;;;;Powiat Leøajski;;;;;Samorzπdowe
+285;Muzeum Ziemi Lubartowskiej w†Lubartowie (w organizacji);21-100;LubartÛw;LubartÛw;lubartowski;LUBELSKIE;ul.;Koúciuszki;28;;;;;;;;Miasto LubartÛw ;;;;;Samorzπdowe
+286;Muzeum Ziemi Lubuskiej w Zielonej GÛrze;65-048;Zielona GÛra;Zielona GÛra;m. Zielona GÛra;LUBUSKIE;al.;Niepodleg≥oúci;15;;;;;;;;WojewÛdztwo Lubuskie;;;;18.05.1998;Samorzπdowe
+287;Muzeum Ziemi Miechowskiej w†Miechowie (w†organizacji) ;32-200;MiechÛw;Wysocice;miechowski;MA£OPOLSKIE;ul.;Warszawska;1;;;;;;;;Gmina MiechÛw; Powiat Miechowski; parafia Rzymsko-Katolicka przy Bazylice Grobu Boøego w Miechowie ;;;Samorzπdowe
+288;Muzeum Ziemi MiÍdzyrzeckiej  im. Alfa Kowalskiego ;66-300;MiÍdzyrzec;MiÍdzyrzecz;miÍdzyrzecki;LUBUSKIE;ul.;Podzamcze;2;;;;;;;;Powiat MiÍdzyrzecki ;;;;28.12.1998 ;Samorzπdowe
+289;Muzeum Ziemi MiÒskiej w MiÒsku Mazowieckim ;05-300;MiÒsk Mazowiecki;MiÒsk Mazowiecki;miÒski;MAZOWIECKIE;ul.;S. Okrzei;16;;;;;;;;Miasto MiÒsk Mazowiecki;;;;;Samorzπdowe
+290;Muzeum Ziemi MogileÒskiej w†Mogilnie z siedzibπ w Chabsku;88-342;Chabsko (poczta Wylatowo);£osoúniki;mogileÒski;KUJAWSKO-POMORSKIE;ul.;Chabsko;20;;;;;;;;Gmina Mogilno;;;;;Samorzπdowe
+291;Muzeum Ziemi Nadnoteckiej im. Wiktora Stachowiaka w Trzciance;64-980;Trzcianka;Trzcianka;czarnkowsko-trzcianecki;WIELKOPOLSKIE;ul.;Øeromskiego;36a;;;;;;;;Gmina Trzcianka;;;;;Samorzπdowe
+292;Muzeum Ziemi Pa≥uckiej w Øninie;88-400;Ønin;Biskupin;øniÒski;KUJAWSKO-POMORSKIE;Plac;Wolnoúci;1;;;;;;;;Gmina Ønin;;;;;Samorzπdowe
+293;Muzeum Ziemi Piskiej w Piszu;12-200;Pisz;Pisz;piski;WARMI—SKO-MAZURSKIE;Plac;Ignacego DaszyÒskiego;7;;;;;;;;Gmina Pisz;;;;;Samorzπdowe
+294;Muzeum Ziemi Prudnickiej w Prudniku;48-200;Prudnik;£πcznik;prudnicki;OPOLSKIE;ul.;Chrobrego;5†;;;;;;;;Gmina Prudnik;;;;;Samorzπdowe
+295;Muzeum Ziemi Puckiej im. Floriana Ceynowy w Pucku;84-100;Puck;Swarzewo;pucki;POMORSKIE;ul.;Wolnoúci;28;;;;;;;;Powiat Pucki;;;;07.07.2006;Samorzπdowe
+296;Muzeum Ziemi Rawickiej w Rawiczu;63 -900;Rawicz;Rawicz;rawicki;WIELKOPOLSKIE;ul.;Rynek;1;;;;;;;;Gmina Rawicz;;;;;Samorzπdowe
+297;Muzeum Ziemi Rawskiej w Rawie Mazowieckiej;96-200;Rawa Mazowiecka;Rawa Mazowiecka;rawski;£”DZKIE;ul.;£owicka;26;;;;;;;;Miasto Rawa Mazowiecka;;;;;Samorzπdowe
+298;Muzeum Ziemi SadowieÒskiej w Sadownem;07-140;Sadowne;Sadowne;wÍgrowski;MAZOWIECKIE;ul.;Koúciuszki;74;;;;;;;;Gmina Sadowne ;;;;;Samorzπdowe
+299;Muzeum Ziemi SzubiÒskiej im. Zenona Erdmanna w Szubinie;89-200;Szubin;Szubin;nakielski;KUJAWSKO-POMORSKIE;ul.;Szkolna;2;;;;;;;;Gmina Szubin;;;;;Samorzπdowe
+300;Muzeum Ziemi åredzkiej - ÑDwÛr w†Koszutachî;63-000;åroda Wielkopolska;Dominowo;úredzki;WIELKOPOLSKIE;ul.;Koszuty;27;;;;;;;;Gmina åroda Wielkopolska;;;;;Samorzπdowe
+301;Muzeum Ziemi Wa≥eckiej w Wa≥czu;78-600;Wa≥cz;Miros≥awiec;wa≥ecki;ZACHODNIO-POMORSKIE;ul.;Pocztowa;14;;;;;;;;Gmina Miejska Wa≥cz;;;;;Samorzπdowe
+302;Muzeum Ziemi WieluÒskiej w Wieluniu;98-300;WieluÒ;WieluÒ;wieluÒski;£”DZKIE;ul.;Narutowicza;13;;;;;;;;Gmina WieluÒ;;;;18.12.2003;Samorzπdowe
+303;Muzeum Ziemi Wiúnickiej w Nowym Wiúniczu;32-720;Nowy Wiúnicz;Nowy Wiúnicz;bocheÒski;MA£OPOLSKIE;ul.;Zamkowa;13;;;;;;;;Gmina Nowy Wiúnicz;;;;;Samorzπdowe
+304;Muzeum Ziemi Wschowskiej ;67-400;Wschowa;Wschowa;wschowski;LUBUSKIE;pl.;Zamkowy;2;;;;;;;;Gmina Wschowa;;;;;Samorzπdowe
+305;Muzeum Ziemi ZawkrzeÒskiej w†M≥awie;06-500;M≥awa;M≥awa;m≥awski;MAZOWIECKIE;ul.;3 Maja ;5;;;;;;;;Miasto M≥awa;;;;;Samorzπdowe
+306;Muzeum Ziemi Z≥otowskiej w Z≥otowie;77-400;Z≥otÛw;Stara Wiúniewka;z≥otowski;WIELKOPOLSKIE;ul.;Wojska Polskiego;2a;;;;;;;;Gmina Miasto Z≥otÛw ;;;;;Samorzπdowe
+307;Muzeum ZiemiaÒstwa w Dobrzycy - ZespÛ≥ Pa≥acowo-Parkowy;63-330;Dobrzyca;Dobrzyca;pleszewski;WIELKOPOLSKIE;ul.;Pleszewska;5a;;;;;;;;WojewÛdztwo Wielkopolskie;;;;;Samorzπdowe
+308;Oleskie Muzeum Regionalne w Oleúnie;46-300;Olesno;Sowczyce;oleski;OPOLSKIE;ul.;Jaronia;7;;;;;;;;Gmina Olesno;;;;;Samorzπdowe
+309;Pa≥ac Schoena Muzeum w Sosnowcu ;41-205;Sosnowiec;Sosnowiec;m. Sosnowiec;åL•SKIE;ul.;Chemiczna;12;;;;;;;;Gmina Sosnowiec;;;;;Samorzπdowe
+310;PaÒstwowe Muzeum Archeologiczne w Warszawie;00-241;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;D≥uga;52;;;;;;;;WojewÛdztwo Mazowieckie;;;;18.05.1998;Samorzπdowe
+311;PaÒstwowe Muzeum Etnograficzne  w Warszawie;00-056;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Kredytowa;1;;;;;;;;WojewÛdztwo Mazowieckie;;;;06.07.1998;Samorzπdowe
+312;Podlaskie Muzeum Kultury Ludowej (w organizacji);16-010;WasilkÛw ;Jurowce;bia≥ostocki;PODLASKIE;ul. ;Leúna ;7;;;;;;;;WojewÛdztwo Podlaskie;;;;;Samorzπdowe
+313;Powiatowe Muzeum Ziemi G≥ubczyckiej w G≥ubczycach;48-100;G≥ubczyce;Zubrzyce;g≥ubczycki;OPOLSKIE;ul.;Rynek;1;;;;;;;;Powiat G≥ubczycki;;;;;Samorzπdowe
+314;Skansen w Sidzinie-Muzeum Kultury Ludowej;34-236;Sidzina;Sidzina;suski;MA£OPOLSKIE;ul.;BinkÛwka;;;;;;;;;Gmina Bystra ñ Sidzina;;;;;Samorzπdowe
+315;Wielkopolskie Muzeum Niepodleg≥oúci;61-772;PoznaÒ;PoznaÒ (PoznaÒ-Stare Miasto);m. PoznaÒ;WIELKOPOLSKIE;ul.;Stary Rynek;3;;;;;;;;Miasto PoznaÒ ;;;;;Samorzπdowe
+316;Øywiecki Park Etnograficzny Muzeum (w organizacji);34-323;ålemieÒ;ålemieÒ;øywiecki;åL•SKIE;ul.;£πczna;2A;;;;;;;;Gmina ålemieÒ ;;;;;Samorzπdowe
+317;Muzeum Dom Rodzinny Ojca åwiÍtego Jana Paw≥a II w Wadowicach;34-100;Wadowice;Stronie;wadowicki;MA£OPOLSKIE;ul.;Koúcielna;7;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; Archidiecezja Krakowska; WojewÛdztwo Ma≥opolskie; Gmina Wadowice;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+318;Muzeum - Dom Rodziny Pileckich w Ostrowi Mazowieckiej (w organizacji) ;07-300;OstrÛw Mazowiecka;OstrÛw Mazowiecka;ostrowski;MAZOWIECKIE;ul.;Warszawska;4;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;Miasto OstrÛw Mazowiecka;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+319;Muzeum Historii ØydÛw Polskich;00-157;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Anielewicza;6;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; Miasto Sto≥eczne Warszawa; Stowarzyszenie Øydowski Instytut Historyczny w Polsce;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+320;Muzeum Jana Paw≥a II i Prymasa WyszyÒskiego;02-972;Warszawa;Warszawa (WilanÛw);m. st. Warszawa;MAZOWIECKIE;ul.;KsiÍdza Prymasa Augusta Hlonda;1;;;;;;;;Archidiecezja Warszawska; Minister Kultury i Dziedzictwa Narodowego ;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+321;Muzeum JÛzefa Pi≥sudskiego w SulejÛwku;05-070;SulejÛwek;SulejÛwek;miÒski;MAZOWIECKIE;ul.;OleandrÛw;5;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; Fundacja Rodziny JÛzefa Pi≥sudskiego;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+322;Muzeum Literatury im. Adama Mickiewicza  w Warszawie;00-272;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Rynek Starego Miasta ;20;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Mazowieckie;;;25.01.2001;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+323;Muzeum Lubelskie w Lublinie;20-117;Lublin;Lublin;m. Lublin;LUBELSKIE;ul.;Zamkowa ;9;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Lubelskie;;;28.12.1998;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+324;Muzeum Narodowe w GdaÒsku;80-822;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;ToruÒska;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Pomorskie;;;18.12.2003;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+325;Muzeum Narodowe w Kielcach;25-010;Kielce;Kielce;m. Kielce;åWI TOKRZYSKIE;Plac ;Zamkowy ;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo åwiÍtokrzyskie;;;22.05.2000;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+326;Muzeum Narodowe w Szczecinie;70-561;Szczecin;Szczecin;m. Szczecin;ZACHODNIO-POMORSKIE;ul.;Starom≥yÒska;27;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Zachodniopomorskie;;;31.01.2011;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+327;Muzeum Narodowe we Wroc≥awiu;50-153;Wroc≥aw;Wroc≥aw (Wroc≥aw-Stare Miasto);m. Wroc≥aw;DOLNOåL•SKIE;Pl. ;PowstaÒcÛw Warszawy;5;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Dolnoúlπskie;;;26.06.2012;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+328;Muzeum PiastÛw ålπskich w Brzegu;49-300;Brzeg;Brzeg;brzeski;OPOLSKIE;Plac ;Zamkowy ;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Opolskie; Powiat Brzeski;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+329;Muzeum PolakÛw Ratujπcych ØydÛw podczas II wojny úwiatowej im. Rodziny UlmÛw w Markowej ;37-120 ;Markowa ;Markowa ;≥aÒcucki;PODKARPACKIE;;;1487;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;WojewÛdztwo Podkarpackie ;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+330;Muzeum PRL ñ u  (w organizacji);31-934;KrakÛw;KrakÛw (KrakÛw-Nowa Huta);m. KrakÛw;MA£OPOLSKIE;os. ;Centrum ;E1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; Gmina Miejska KrakÛw;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+331;Muzeum Sztuki Nowoczesnej w Warszawie;00-124;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;PaÒska;3;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; Miasto Sto≥eczne Warszawa;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+332;Muzeum Sztuki w £odzi;90-734;£Ûdü;£Ûdü (£Ûdü-Polesie);m. £Ûdü;£”DZKIE;ul.;WiÍckowskiego;36;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo £Ûdzkie;;;28.12.1998;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+333;Muzeum ålπskie w Katowicach;40-205;Katowice;Katowice;m. Katowice;åL•SKIE;ul.;T. Dobrowolskiego ;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo ålπskie;;;07.07.2006;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+334;Muzeum-Zamek w £aÒcucie;37-100;£aÒcut;£aÒcut;≥aÒcucki;PODKARPACKIE;ul.;Zamkowa ;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; WojewÛdztwo Podkarpackie;;;28.12.1998;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez Ministra Kultury i Dziedzictwa Narodowego
+335;Muzeum Øo≥nierzy WyklÍtych w†Ostro≥Íce (w organizacji);07-410;Ostro≥Íka;Ostro≥Íka;m. Ostro≥Íka;MAZOWIECKIE;ul.;Traugutta;19;;;;;;;;Minister Kultury i Dziedzictwa Narodowego; Miasto Ostro≥Íka ;;;;WspÛ≥prowadzone wpisane do rejestru prowadzonego przez jednostkÍ samorzπdu terytorialnego
+336;Muzeum II Wojny åwiatowej w GdaÒsku ;80-862;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;Plac;W≥adys≥awa Bartoszewskiego;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;15.07.2011;PaÒstwowe
+337;Muzeum Historii Polski w Warszawie ;00-560;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Mokotowska (siedziba tymczasowa);33;35;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;;PaÒstwowe
+338;"Muzeum £azienki KrÛlewskie w Warszawie
+";00-460;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Agrykoli;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;06.07.1998;PaÒstwowe
+339;"Muzeum £owiectwa i Jeüdziectwa w Warszawie
+";00-464;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;SzwoleøerÛw;9;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;18.05.1998;PaÒstwowe
+340;Muzeum Marynarki Wojennej w Gdyni;81-374;Gdynia;Gdynia;m. Gdynia;POMORSKIE;ul.;Zawiszy Czarnego;1b;;;;;;;;Minister Obrony Narodowej;;;;;PaÒstwowe
+341;Muzeum Narodowe w Krakowie;30-062;"KrakÛw 
+";KrakÛw (KrakÛw-Krowodrza);m. KrakÛw;MA£OPOLSKIE;ul.;3 Maja ;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;18.05.1998;PaÒstwowe
+342;Muzeum Narodowe w Poznaniu;61-745;PoznaÒ ;PoznaÒ (PoznaÒ-Stare Miasto);m. PoznaÒ;WIELKOPOLSKIE;Aleja;Karola Marcinkowskiego;9;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;30.08.2004;PaÒstwowe
+343;Muzeum Narodowe w Warszawie;00-495;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;Aleje ;Jerozolimsie ;3;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;06.07.1998;PaÒstwowe
+344;"Muzeum Pa≥acu KrÛla Jana III w Wilanowie
+";02-958;Warszawa;Warszawa (WilanÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Stanis≥awa Kostki Potockiego;10;16;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;28.12.1998;PaÒstwowe
+345;Muzeum Si≥ Powietrznych w DÍblinie;08-521;"DÍblin 
+";DÍblin (Lotnisko);rycki;LUBELSKIE;ul.;Dywizjonu 303;12;;;;;;;;Minister Obrony Narodowej;;;;;PaÒstwowe
+346;Muzeum Stutthof w Sztutowie;82-110;Sztutowo;Kπty Rybackie;nowodworski;POMORSKIE;ul.;Muzealna ;6;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;28.12.1998;PaÒstwowe
+347;Muzeum Sztuki i Techniki JapoÒskiej MANGGHA ;30-302;"KrakÛw 
+";KrakÛw (KrakÛw-PodgÛrze);m. KrakÛw;MA£OPOLSKIE;ul.;Marii Konpnickiej;26;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;21.08.2013;PaÒstwowe
+348;Muzeum Wojsk Lπdowych w Bydgoszczy;85-641;Bydgoszcz;Bydgoszcz;m. Bydgoszcz;KUJAWSKO-POMORSKIE;ul.;Czerkaska;2;;;;;;;;Minister Obrony Narodowej;;;;;PaÒstwowe
+349;Muzeum Wojska Polskiego w Warszawie;00-495;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;Aleje ;Jerozolmskie;3;;;;;;;;Minister Obrony Narodowej;;;;28.12.1999;PaÒstwowe
+350;Muzeum Zamkowe w Malborku;82-200;"Malbork 
+";Malbork;malborski;POMORSKIE;ul.;StaroúciÒska;1;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;06.07.1998;PaÒstwowe
+351;Muzeum Øup Krakowskich Wieliczka w Wieliczce ;32-020;Wieliczka;Trπbki;wielicki;MA£OPOLSKIE;ul.;Zamkowa ;8;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;18.05.1998;PaÒstwowe
+352;Narodowe Muzeum Morskie w GdaÒsku;80-751;"GdaÒsk 
+";GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;O≥owianka;9-;13;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;28.12.1999;PaÒstwowe
+353;"PaÒstwowe Muzeum Auschwitz-Birkenau w OúwiÍcimiu
+";32-603;OúwiÍcim;OúwiÍcim;oúwiÍcimski;MA£OPOLSKIE;ul.;WiÍüniÛw OúwiÍcimia ;20;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;06.07.1998;PaÒstwowe
+354;PaÒstwowe Muzeum na Majdanku w Lublinie;20-325;"Lublin 
+";Lublin;m. Lublin;LUBELSKIE;ul.;Droga MÍczennikÛw Majdanka ;67;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;06.07.1998;PaÒstwowe
+355;"Zamek KrÛlewski na Wawelu ñ PaÒstwowe Zbiory Sztuki 
+";31-001;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;Wawel;5;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;06.07.1998;PaÒstwowe
+356;"Zamek KrÛlewski w Warszawie ñ Muzeum. Rezydencja KrÛlÛw i Rzeczypospolitej 
+";00-277;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;pl. ;Zamkowy ;4;;;;;;;;Minister Kultury i Dziedzictwa Narodowego;;;;18.05.1998;PaÒstwowe
+357;Muzeum Archidiecezjalne Kardyna≥a Karola Wojty≥y ;"31-002 
+
+";"KrakÛw 
+";KrakÛw;m. KrakÛw;MA£OPOLSKIE;ul.;Kanonicza;19-;21;;;;;;;Archidiecezja Krakowska;;;;;Koúcielne
+358;Muzeum b≥. Ojca Stanis≥awa PapczyÒskiego w GÛrze Kalwarii;"05-330
+
+";" GÛra Kalwaria ( Dom Zakonny Zgromadzenia KsiÍøy MarianÛw pod wezwaniem b≥. Ojca Stanis≥aw PapczyÒskiego w GÛrze Kalwarii)
+
+
+";GÛra Kalwaria;piaseczyÒski;MAZOWIECKIE;ul.;Stanis≥awa PapczyÒskiego ;5A;;;;;;;;Prowincja Polska Zgromadzenia KsiÍøy MarianÛw pod wezwaniem Niepokalanego PoczÍcia NajúwiÍtszej Marii Panny z siedzibπ w Warszawie ;;;;;Koúcielne
+359;"Muzeum Diecezjalne w Drohiczynie im. Jana Paw≥a II
+";17-312;"Drohiczyn
+
+";Drohiczyn;siemiatycki;PODLASKIE;ul. ;Kraszewskiego;4;;;;;;;;Diecezja  DrohiczyÒska ;;;;;Koúcielne
+360;"Muzeum Diecezjalne w Siedlcach
+";"08-110 
+";" Siedlce
+
+";Siedlce;m. Siedlce;MAZOWIECKIE;ul.;Biskupa I. åwirskiego ;56;;;;;;;;Diecezja Siedlecka;;;;;Koúcielne
+361;Muzeum Diecezji Elblπskiej;82-300;"Elblπg
+
+";Nowakowo;elblπski;WARMI—SKO-MAZURSKIE;ul.;Mostowa ;14-;16;;;;;;;Diecezja Elblπska;;;;;Koúcielne
+362;Muzeum im. KsiÍdza Walentego ålusarczyka przy Opactwie O.O. CysterÛw w Wπchocku (w organizacji);27-215;Wπchock ;Wπchock;starachowicki;åWI TOKRZYSKIE;ul. ;Koúcielna;14;;;;;;;;Opactwo OjcÛw CystersÛw w Wπchocku ;;;;;Koúcielne
+363;Muzeum im. úw. Jana Paw≥a II w organizacji ;75-016;Koszalin (Centrum Pielgrzymkowo - Turystyczne przy Domu Zakonnym - GÛra Che≥mska);Biesiekierz;koszaliÒski;ZACHODNIO-POMORSKIE;ul.;S≥upska;1;;;;;;;;Szensztacki Instytut SiÛstr Maryi (ISSM);;;;;Koúcielne
+364;Muzeum Markowieckiego Sanktuarium ;"88-320          
+";"Strzelno       
+";Strzelno;mogileÒski;KUJAWSKO-POMORSKIE;;Markowice;5;;;;;;;;Parafia Rzymskokatolicka pw. Nawiedzenia NajúwiÍtszej Maryi Panny w Markowicach;;;;;Koúcielne
+365;Muzeum Misyjne SiÛstr Klawerianek w Kroúnie;"38-400
+";"Krosno
+";Krosno;kroúnieÒski;PODKARPACKIE;ul.;£ukasiewicza;62;;;;;;;;Zgromadzenie SiÛstr Misjonarek åw. Piotra Klawera w Kroúnie;;;;;Koúcielne
+366;Muzeum Prawos≥awnej Diecezji Lubelsko-Che≥mskiej;21-526 ;"Jab≥eczna 
+";S≥awatycze;bialski;LUBELSKIE;ul.;Jab≥eczna;1;;;;;;;;Prawos≥awna Diecezja Lubelsko-Che≥mska ;;;;;Koúcielne
+367;Muzeum Reformacji Polskiej w Miko≥ajkach;11-730; Miko≥ajki;Miko≥ajki;mrπgowski;WARMI—SKO-MAZURSKIE;ul.;Plac Koúcielny ;5;;;;;;;;Zgromadzenie Parafialne Parafii Ewangelicko-Augsburskiej                           åw. TrÛjcy w Miko≥ajkach;;;;;Koúcielne
+368;Muzeum Warszawskiej Metropolii Prawos≥awnej w Warszawie ;03-403;Warszawa ;Warszawa (Praga-PÛ≥noc);m. st. Warszawa;MAZOWIECKIE;ul.;úw. Cyryla i Metodego ;4;;;;;;;;Warszawska Metropolia Prawos≥awna;;;;;Koúcielne
+369;Chojnickie Muzeum Motoryzacji i Techniki (w organizacji);89-600;Chojnice;Chojnice;chojnicki;POMORSKIE;ul.;Stary Rynek;18;19;;;;;;;Liliana Helta; Jordan Rolbiecki ;;;;Utworzone przez osoby fizyczne
+370;Chotomowskie Muzeum Techniki Wojskowej w Chotomowie;05-123;ChotomÛw;ChotomÛw;legionowski;MAZOWIECKIE;ul.;Baúniowa;1;;;;;;;;Marcin PtaszyÒski;;;;;Utworzone przez osoby fizyczne
+371;Ekomuzeum Olejarstwa w Zadnodze Olejarnia Staropolska na Roztoczu  (w organizacji);22-610;Krynice;Krynice;tomaszowski;LUBELSKIE;;Zadnoga;19;;;;;;;;Anna Ko≥odziej;;;;;Utworzone przez osoby fizyczne
+372;Falenickie Muzeum Historyczne (w organizacji);04-921;Warszawa - Falenica;Warszawa (Wawer);m. st. Warszawa;MAZOWIECKIE;ul.;Biernacka;12;;;;;;;;Pawe≥ Szewczak;;;;;Utworzone przez osoby fizyczne
+373;Kolbuszowskie Muzeum Techniki Militarnej i Uøytkowej  (w†organizacji);36-100;Kolbuszowa;Kolbuszowa;kolbuszowski;PODKARPACKIE;ul.;P. Por. Sawy;76;;;;;;;;Zdzis≥aw Smyrski ;;;;;Utworzone przez osoby fizyczne
+374;KwidzyÒskie Muzeum Rod≥a  (w organizacji);82-500;Kwidzyn;Kwidzyn;kwidzyÒski;POMORSKIE;ul.;Graniczna;36;;;;;;;;Jacek Synakiewicz;;;;;Utworzone przez osoby fizyczne
+375;Lokalne Muzeum Techniki Wojskowej i Cywilnej (w organizacji);05-270;Marki;Marki (Czarna Struga);wo≥omiÒski;MAZOWIECKIE;ul.;Zieleniecka;47;;;;;;;;Krzysztof Gendek;;;;;Utworzone przez osoby fizyczne
+376;Ma≥e Muzeum Ludowe u Kowalskich ;55-100;Trzebnica;Paw≥Ûw Trzebnicki;trzebnicki;DOLNOåL•SKIE;;Marcinowo;2;;;;;;;;Marian Kowalski ;;;;;Utworzone przez osoby fizyczne
+377;Muzeum Afryki w Sobanicach ;09-162;Nacpolsk;Nacpolsk;p≥oÒski;MAZOWIECKIE;;Sobanice;45A;;;;;;;;Marta Ko≥odziej ;;;;;Utworzone przez osoby fizyczne
+378;Muzeum Archeologii PÛl Bitewnych Twierdzy Przemyúl w Przemyúlu (w organizacji) ;37-700;Przemyúl ;Przemyúl ;przemyski;PODKARPACKIE;ul. ;ZieliÒskiego ;14;7A;;;;;;;Jacek Dzik ;;;;;Utworzone przez osoby fizyczne 
+379;Muzeum ñ Archeoskansen grodu warownego  z X w. (w†organizacji);43-246;StrumieÒ;Pruchna;cieszyÒski;åL•SKIE;ul.;Graniczna dz. ;1162;1;;;;;;;Sylwester Zalewski ;;;;;Utworzone przez osoby fizyczne
+380;Muzeum BohaterÛw Wrzeúnia 1939 im. Jerzego Waszkiewicza (w organizacji);00-132;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Grzybowska;16;22 m. 1525;;;;;;;Dominik Waszkiewicz;;;;;Utworzone przez osoby fizyczne
+381;Muzeum Broni i MilitariÛw w†Lubawie (w organizacji);14-260;Lubawa;Lubawa;i≥awski;WARMI—SKO-MAZURSKIE;ul.;Przemys≥owa;2;;;;;;;;Jaros≥aw Kijewski;;;;;Utworzone przez osoby fizyczne
+382;Muzeum Broni i MilitariÛw w Przasnyszu (w organizacji);06-300;"Przasnysz
+ul. Glinki 8";Przasnysz;przasnyski;MAZOWIECKIE;ul.;Glinki;8;;;;;;;;Daniel Duchnowski;;;;;Utworzone przez osoby fizyczne
+383;Muzeum Broni i Wyposaøenia Piechoty w Warszawie (w organizacji);02-755;Warszawa;Warszawa (MokotÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Alternatywy;4;120;;;;;;;Maciej Tylski ;;;;;Utworzone przez osoby fizyczne
+384;Muzeum Broni w Stanis≥awowie (w organizacji);59-424;Stanis≥awÛw ;MÍcinka ;jaworski ;DOLNOåL•SKIE;; ;41;2;;;;;;;Przemys≥aw Kusek ;;;;;Utworzone przez osoby fizyczne 
+385;Muzeum Bursztynu w Warszawie w organizacji ;00-272;Warszawa ;Warszawa ;m.st. Warszawa ;MAZOWIECKIE;;Rynek Starego Miasta ;4;6;;;;;;;Boøena Agata Ca≥ka ;Stanis≥aw Krzysztof Ca≥ka ;;;;Utworzone przez osoby fizyczne 
+386;Muzeum Czynu Zbrojnego w Lipcach Reymontowskich;96-127;Lipce Reymontowskie;Lipce Reymontowskie;skierniewicki;£”DZKIE;ul.;Reymonta;22;;;;;;;;Jerzy Murgrabia;;;;;Utworzone przez osoby fizyczne
+387;Muzeum Czynu Zbrojnego Øywiecczyzny  w Øywcu;34-300;Øywiec;Øywiec;øywiecki;åL•SKIE;ul.;Wolnoúci;4;;;;;;;;Artur Caputa; Mariusz Tomaszek; Miros≥aw AugustyÒski;;;Utworzone przez osoby fizyczne
+388;Muzeum DewocjonaliÛw i Rzeczy Osobistych w Ostrowi Mazowieckiej (w organizacji);07-300;OstrÛw Mazowiecka;OstrÛw Mazowiecka;ostrowski;MAZOWIECKIE;ul. ;Antoniego Ba≥dygi;12;;;;;;;;Aneta Øy≥owska ;Cezary  £ukasik ;;;;Utworzone przez osoby fizyczne 
+389;Muzeum 4 Pu≥ku StrzelcÛw PodhalaÒskich;43-400;Cieszyn;Cieszyn;cieszyÒski;åL•SKIE;ul.;Frysztacka;2;;;;;;;;Krzysztof Neúcior;;;;;Utworzone przez osoby fizyczne
+390;Muzeum II Korpusu Polskiego w JÛzefowie;05-420;JÛzefÛw;JÛzefÛw;otwocki;MAZOWIECKIE;ul.;Kasztanowa;6;;;;;;;;Mariusz Niewiedzielski;;;;;Utworzone przez osoby fizyczne
+391;Muzeum II Wojny åwiatowej w Lubiszynie  (w organizacji);66-433;Lubiszyn;Lubiszyn;gorzowski;LUBUSKIE;ul.;Polna;1;;;;;;;;Jan Lewek;;;;;Utworzone przez osoby fizyczne
+392;Muzeum Dawnej Wsi ,,Domek Tkaczkiî;26-120;Bliøyn;Bliøyn;skarøyski;åWI TOKRZYSKIE;ul.;Zafabryczna;35;;;;;;;;Urszula JÍdrzejczyk; Grzegorz JÍdrzejczyk ;;;;Utworzone przez osoby fizyczne
+393;Muzeum Dolina Psarki ;27-225;Paw≥Ûw;åwiÍtomarz;starachowicki;åWI TOKRZYSKIE;ul.;Tarczek;24;;;;;;;;Micha≥ Sokalski ;;;;;Utworzone przez osoby fizyczne
+394;Muzeum DwÛr FeillÛw ;32-420;GdÛw;GdÛw;wielicki;MA£OPOLSKIE;;ZrÍczyce;51;;;;;;;;Aneta Tyl; Krzysztof Tyl;;;;Utworzone przez osoby fizyczne
+395;Muzeum Dziedzictwa Kulturowego  (w organizacji);80-410;Szczecin;GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;úw. Wojciecha;1;;;;;;;;Wojciech Lizak; Karol Lizak;;;;Utworzone przez osoby fizyczne
+396;Muzeum 3 Dywizji Piechoty LegionÛw w Zamoúciu (w†organizacji);22-400;ZamoúÊ;ZamoúÊ;m. ZamoúÊ;LUBELSKIE;ul.;BohaterÛw Monte Cassino;5;22;;;;;;;Maciej PodgÛrski ;;;;;Utworzone przez osoby fizyczne
+397;Muzeum Eksploracji w Przeümierowie;62-081;Przeümierowo;Dπbrowa;poznaÒski;WIELKOPOLSKIE;ul.;Sk≥adowa;40A;;;;;;;;Zygmunt Adamski; Piotr Lewandowski;;;;Utworzone przez osoby fizyczne
+398;Muzeum Elwiro Micha≥a Andriollego;05-410;JÛzefÛw;JÛzefÛw;otwocki;MAZOWIECKIE;ul.;S≥oneczna;20;;;;;;;;Robert Lewandowski;;;;;Utworzone przez osoby fizyczne
+399;"Muzeum Etnograficzno - Archeologiczne ""KLEISTMETAL""(w organizacji)";83-331;Øukowo PrzyjaüÒ;£apino Kartuskie;kartuski;POMORSKIE;ul.;Sosnowa;21;;;;;;;;Krystian Adamczyk;;;;;Utworzone przez osoby fizyczne
+400;Muzeum Farmacji Apteki ÑPod £abÍdziemî w Bydgoszczy;85-005;Bydgoszcz;Bydgoszcz;m. Bydgoszcz;KUJAWSKO-POMORSKIE;ul.;GdaÒska;5;;;;;;;;Paulina Maria £otoszyÒska;" Bart≥omiej Jan WodyÒski wspÛlnicy Apteki Pod £abÍdziem"" P. £otoszyÒska spÛ≥ka jawna";;;;Utworzone przez osoby fizyczne
+401;Muzeum Fiata 126p;43-300;Bielsko - Bia≥a;Bielsko-Bia≥a;bielski;åL•SKIE;ul.;Karpacka;44;;;;;;;;Antoni PrzychodzieÒ;;;;;Utworzone przez osoby fizyczne
+402;Muzeum Fort XII Werner w Øurawicy (w†organizacji);37-710;Øurawica k. Przemyúla;Øurawica;przemyski;PODKARPACKIE;ul.;Forteczna;20;;;;;;;;S≥awomir Golonka;;;;;Utworzone przez osoby fizyczne
+403;Muzeum Fotografii w Janowie Lubelskim  (w organizacji);23-300;JanÛw Lubelski;JanÛw Lubelski;janowski;LUBELSKIE;ul.;Jana Zamoyskiego;20;;;;;;;;Antoni Florczak ;;;;;Utworzone przez osoby fizyczne
+404;Muzeum Frontu Wschodniego (w organizacji);03-301;Warszawa;Warszawa (Praga-PÛ≥noc);m. st. Warszawa;MAZOWIECKIE;ul.;JagielloÒska;49c;26;;;;;;;Artur Steckiewicz;;;;;Utworzone przez osoby fizyczne
+405;Muzeum GÛrnictwa i Historii Z≥otego Stoku (w organizacji);57-250;Z≥oty Stok ;Z≥oty Stok ;zπbkowicki ;DOLNOåL•SKIE;ul. ;Z≥ota ;9;;;;;;;;Eløbieta Szumska ;;;;;Utworzone przez osoby fizyczne 
+406;Muzeum GÛry Sowie Region Sudety w organizacji;58-250;Pieszyce;Pieszyce;dzierøoniowski;DOLNOåL•SKIE;ul.;Kamionki;12;;;;;;;;JÛzef Przeorek; Micha≥ Przeorek;;;;Utworzone przez osoby fizyczne
+407;Muzeum GrÛd åredniowieczny w Brzeüniku (w organizacji);59-700;Boles≥awiec;Boles≥awiec;boles≥awiecki;DOLNOåL•SKIE;;Brzeünik;99;;;;;;;;Julita Krzecka ñ K≥onicka; Zenon K≥onicki ;;;;Utworzone przez osoby fizyczne
+408;Muzeum Historii Bieszczad w Czarnej GÛrnej ;38-710;Czarna GÛrna;Czarna GÛrna;bieszczadzki;PODKARPACKIE;;Czarna GÛrna;6;;;;;;;;Rafa≥ Dudka; LeAnn Dudka ;;;;Utworzone przez osoby fizyczne
+409;Muzeum Historii i Dzia≥aÒ Zbrojnych (w organizacji);99-320;Øychlin;Øychlin;kutnowski;£”DZKIE;ul.;Krasickiego;8;;;;;;;;Bogdan Szalaty;;;;;Utworzone przez osoby fizyczne
+410;Muzeum Historii Gospodarki, FinansÛw i Rozwoju PrzedsiÍbiorczoúci Na Ziemiach Polskich (w organizacji);05-804;PruszkÛw;PruszkÛw;pruszkowski;MAZOWIECKIE;;skr. Poczt.;90;;;;;;;;Krzysztof KotyÒski ;;;;;Utworzone przez osoby fizyczne
+411;Muzeum Historii KomputerÛw i Informatyki  (w organizacji);40-061;Katowice†;Katowice;m. Katowice;åL•SKIE;Plac;Oddzia≥Ûw M≥odzieøy PowstaÒczej;1;;;;;;;;Krzysztof Chwa≥owski;  Zbigniew Rudnicki;  Dariusz WalerjaÒski ;;;Utworzone przez osoby fizyczne
+412;Muzeum Historii Modlina i Nowego Dworu Mazowieckiego (w organizacji);05-102;Nowy DwÛr Mazowiecki;Nowy DwÛr Mazowiecki ;nowodworski;MAZOWIECKIE;uL. ;Genera≥a Thommee;10;;;;;;;;Dariusz Banaszek ;;;;;Utworzone przez osoby fizyczne 
+413;Muzeum Historii Ziemi Ciechanowskiej (w organizacji);06-400;CiechanÛw;CiechanÛw;ciechanowski;MAZOWIECKIE;ul.;Ks. Konrada II;9;3;;;;;;;Pawe≥ PodlasiÒski ;;;;;Utworzone przez osoby fizyczne
+414;Muzeum Historyczne Broni Pancernej  (w organizacji);05-140;Serock;Serock;legionowski;MAZOWIECKIE;;Zab≥ocie åwiÍcienica;3;;;;;;;;Bogdan Powa≥a ;;;;;Utworzone przez osoby fizyczne
+415;Muzeum Historyczne ,,Frontu Wschodniegoî  (w organizacji);05-120;Legionowo;Legionowo;legionowski;MAZOWIECKIE;ul.;Krucza;27;;;;;;;;Tomasz Dziczek;;;;;Utworzone przez osoby fizyczne
+416;Muzeum Historyczne PÛ≥nocne Mazowsze i Garnizon RÛøan 1914- 1945  (w organizacji);06-230;RÛøan;RÛøan;makowski;MAZOWIECKIE;;Kaszewiec;52;;;;;;;;Wojciech Wielgosz;;;;;Utworzone przez osoby fizyczne
+417;Muzeum Historyczne w SulejÛwku (w organizacji);05-071;SulejÛwek;SulejÛwek (Mi≥osna);miÒski;MAZOWIECKIE;ul.;Szosowa;26;;;;;;;;Robert Buczek ;;;;;Utworzone przez osoby fizyczne
+418;Muzeum Historyczne Warszawa Kampinos 1939 (w organizacji);05-152;CzosnÛw KazuÒ Polski ;CzosnÛw;nowodworski;MAZOWIECKIE;ul.;Jeziorna;110;;;;;;;;Wojciech Hejnrych;;;;;Utworzone przez osoby fizyczne
+419;Muzeum Historyczne - ZespÛ≥ Pa≥acowy  w Patrykozach  (w organizacji);08-311;Bielany;Bielany-Øylaki;soko≥owski;MAZOWIECKIE;;Patrykozy;29;;;;;;;;Maurycy Zajπc; Graøyna Spinkowska;;;;Utworzone przez osoby fizyczne
+420;Muzeum Historyczno-Etnograficzne w Andrychowie;34-120;AndrychÛw;AndrychÛw;wadowicki;MA£OPOLSKIE;ul.;PodgÛrska;3;;;;;;;;Edward Wincenty Szlagor;;;;;Utworzone przez osoby fizyczne
+421;Muzeum Historyczno Etnograficzne w Osieku (w organizacji);99-414;Kocierzew;Kocierzew Po≥udniowy;≥owicki;£”DZKIE;;Osiek DwÛr;;;;;;;;;Filip Bacciarelli;;;;;Utworzone przez osoby fizyczne
+422;Muzeum Historyczno ñ Przyrodnicze ,,Pamiπtkaî;05-080;Izabelin;Izabelin C;warszawski zachodni;MAZOWIECKIE;ul.;3 Maja ;49;;;;;;;;Piotr BakoÒ ;;;;;Utworzone przez osoby fizyczne
+423;Muzeum - Historyczny Dolny ålπsk (w organizacji);58-560;Jelenia GÛra;Jelenia GÛra;jeleniogÛrski;DOLNOåL•SKIE;ul. ;Sobieszowska ;38;6;;;;;;;Ma≥gorzata Piπtek ;;;;;Utworzone przez osoby fizyczne 
+424;Muzeum Historycznych PojazdÛw Militarnych  i Techniki Motoryzacyjnej w Boczkach;98-240;Szadek;Szadek;zduÒskowolski;£”DZKIE;;Boczki;38;;;;;;;;Jacek KopczyÒski ;;;;;Utworzone przez osoby fizyczne
+425;Muzeum Humoru i Absurdu w†Poznaniu (w organizacji);61-309;PoznaÒ;PoznaÒ (PoznaÒ-Nowe Miasto);m. PoznaÒ;WIELKOPOLSKIE;ul.;Bodawska;11;;;;;;;;Malwina £ukowska;;;;;Utworzone przez osoby fizyczne
+426;Muzeum Ikon i Kultury StaroobrzÍdowcÛw  (w organizacji);12-220;Ruciane Nida;Ruciane-Nida;piski;WARMI—SKO-MAZURSKIE;;Wojnowo;76;;;;;;;;Tomasz Ludwikowski;;;;;Utworzone przez osoby fizyczne
+427;Muzeum im. Micha≥a Drzyma≥y w Miasteczku KrajeÒskim (w†organizacji);89-350;Miasteczko KrajeÒskie;Miasteczko KrajeÒskie;pilski;WIELKOPOLSKIE;Plac;Wolnoúci;13;;;;;;;;Kazimierz Pospieszny ;;;;;Utworzone przez osoby fizyczne
+428;Muzeum im. mjr. W≥adys≥awa Nowakowskiego ,,Øubraî;01-437;Warszawa;Warszawa (Wola);m. st. Warszawa;MAZOWIECKIE;ul.;Bolecha;90;;;;;;;;Waldemar Nowakowski ;;;;;Utworzone przez osoby fizyczne
+429;Muzeum Jednostek Specjalnych i Wojsk Powietrzno - Desantowych (w organizacji) ;04-696;Warszawa;Warszawa (Wawer);m. st. Warszawa;MAZOWIECKIE;ul.;PiechurÛw;20;;;;;;;;Pawe≥ Kleszczewski ;;;;;Utworzone przez osoby fizyczne
+430;"Muzeum Kaszubska Zagroda ""Bielickowo""  (w organizacji)";83-304;Przodkowo;Przodkowo;kartuski;POMORSKIE;;Kawle Dolne;7;;;;;;;;Czes≥aw Bielicki;;;;;Utworzone przez osoby fizyczne
+431;Muzeum Kart do Gry (w organizacji);05-091;Zπbki;Zπbki;wo≥omiÒski;MAZOWIECKIE;ul.;Jod≥owa;22;;;;;;;;Andrzej Rzepkowski;;;;;Utworzone przez osoby fizyczne
+432;Muzeum Kolekcji DwÛr Mu≥awki   (w organizacji);11-400;KÍtrzyn;KÍtrzyn;kÍtrzyÒski;WARMI—SKO-MAZURSKIE;ul.;Mu≥awki;12;2;;;;;;;Pawe≥ Lipko;;;;;Utworzone przez osoby fizyczne
+433;Muzeum Kolekcji Macieja G≥owackiego;62-004;Czerwonak;OwiÒska;poznaÒski;WIELKOPOLSKIE;ul.;GdyÒska;27;1;;;;;;;Maciej G≥owacki;;;;;Utworzone przez osoby fizyczne
+434;Muzeum Komunikacji w Paterku (w organizacji);89-100;Nak≥o Paterek;Paterek;nakielski;KUJAWSKO-POMORSKIE;ul.;£πkowa;34A;;;;;;;;Artur Robert LemaÒski;;;;;Utworzone przez osoby fizyczne
+435;Muzeum KonfliktÛw Zbrojnych w Warszawie (w organizacji);02-715;Warszawa;Warszawa (MokotÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Pu≥awska;233;4;;;;;;;Piotr Szalaty;;;;;Utworzone przez osoby fizyczne
+436;Muzeum Kowalstwa i ålusarstwa MierzwiÒskich w HajnÛwce;17-200;HajnÛwka;Klejniki;hajnowski;PODLASKIE;ul.;Lipowa;1;;;;;;;;Stanis≥aw MierzwiÒski;;;;;Utworzone przez osoby fizyczne
+437;Muzeum KresÛw i Ziemi Ostrowskiej im. Marzeny i Zbigniewa BanaszkÛw w Ostrowi Mazowieckiej (w organizacji);07-300;OstrÛw Mazowiecka;OstrÛw Mazowiecka;ostrowski;MAZOWIECKIE;ul.;Lubiejewska;158;;;;;;;;Zbigniew Banaszek;;;;;Utworzone przez osoby fizyczne
+438;Muzeum Kultury RomÛw w Warszawie   (w organizacji);03-936;Warszawa;Warszawa (Praga-Po≥udnie);m. st. Warszawa;MAZOWIECKIE;ul.;ZwyciÍzcÛw;3-;5 m. 1 ;;;;;;;Andrzej Grzyma≥a ñ Kaz≥owski ;;;;;Utworzone przez osoby fizyczne
+439;Muzeum Lalek w Pilünie;39-220;Pilzno;Pilzno;dÍbicki;PODKARPACKIE;ul.;Grodzka;24;;;;;;;;Zofia Gπga≥a-Bohaczyk;;;;;Utworzone przez osoby fizyczne
+440;Muzeum Lisewski Zakπtek w Lisewie (w organizacji);87-400;Lisewo ;Golub - DobrzyÒ ;golubsko-dobrzyÒski;KUJAWSKO-POMORSKIE;;;56;;;;;;;;Tomasz StefaÒski ;;;;;Utworzone przez osoby fizyczne 
+441;Muzeum LwÛweckie w LwÛwku ålπskim (w organizacji);59-600;LwÛwek ålπski;LwÛwek ålπski;lwÛwecki ;DOLNOåL•SKIE;Plac ;Wolnoúci ;22;;;;;;;;Dorota Zawadzka;Robert Zawadzki ;;;;Utworzone przez osoby fizyczne 
+442;Muzeum £πcznoúci w Redzie  (w organizacji);84-240;Reda;Reda;wejherowski;POMORSKIE;ul.;Gniewowska;74;;;;;;;;Marcin Talaúka ;;;;;Utworzone przez osoby fizyczne
+443;Muzeum Miasta S≥upska ;76-200;S≥upsk;S≥upsk;m. S≥upsk;POMORSKIE;ul.;Bauera;14;;;;;;;;Grzegorz Rataj ;;;;;Utworzone przez osoby fizyczne
+444;Muzeum MilitariÛw ÑAtenaî w†Skwierzynie   (w organizacji);66-440;Skwierzyna;Skwierzyna;miÍdzyrzecki;LUBUSKIE;ul.;Rzeünicka;1;;;;;;;;Agnieszka Kuú ñ Ratownictwo Drogowe Anholî;;;;;Utworzone przez osoby fizyczne
+445;Muzeum MilitariÛw i ArtefaktÛw w Brodnicy (w organizacji);87-300;Brodnica Karbowo;Brodnica;brodnicki;KUJAWSKO-POMORSKIE;ul.;Wczasowa;40a;;;;;;;;Grzegorz Kalisz ;;;;;Utworzone przez osoby fizyczne
+446;Muzeum Militarnej Historii w Bornem Sulinowie;78-449;Borne Sulinowo;Borne Sulinowo;szczecinecki;ZACHODNIO-POMORSKIE;ul.;Wojska Polskiego;1;;;;;;;;Wies≥aw Bartoszek; Agnieszka Bartoszek; Kamil Bartoszek ;;;Utworzone przez osoby fizyczne
+447;Muzeum Mineralogiczne ze zbiorÛw Renaty Soko≥owskiej w Szklarskiej PorÍbie;58-580;Szklarska PorÍba;Szklarska PorÍba;jeleniogÛrski;DOLNOåL•SKIE;ul.;KiliÒskiego;20;;;;;;;;Renata Soko≥owska;;;;;Utworzone przez osoby fizyczne
+448;Muzeum Miniaturowej Sztuki Profesjonalnej Henryk Jan Dominiak w Tychach ;43-100;Tychy;Tychy;m. Tychy;åL•SKIE;ul.;Øwakowska;8;66;;;;;;;Henryk Jan Dominiak ;;;;;Utworzone przez osoby fizyczne
+449;Muzeum M≥ynarstwa i Rolnictwa w Osiecznej;64-100;Leszno;Leszno;m. Leszno;WIELKOPOLSKIE;ul.;Dekana;8;;;;;;;;Jaros≥aw Jankowski;;;;;Utworzone przez osoby fizyczne
+450;Muzeum M≥ynarstwa, Techniki i Rzemios≥a Wiejskiego im. JÛzefa Winiarskiego (w organizacji);33-316;RoønÛw;RoønÛw;nowosπdecki;MA£OPOLSKIE;;Roztoka Brzeziny;105;;;;;;;;Micha≥ Winiarski;;;;;Utworzone przez osoby fizyczne
+451;Muzeum Motocykli Zabytkowych w StÍøycy ;83-322;StÍøyca;Go≥ubie;kartuski;POMORSKIE;ul.;Marii Konpnickiej;4;;;;;;;;Jaros≥aw Czapiewski ;;;;;Utworzone przez osoby fizyczne
+452;Muzeum Motoryzacji   (w organizacji);34-143;Lanckorona;Lanckorona;wadowicki;MA£OPOLSKIE;;Lanckorona;290;;;;;;;;JÛzef ZarÍba ;;;;;Utworzone przez osoby fizyczne
+453;"Muzeum Motoryzacji i Techniki ,,SKARB NARODU"" w Warszawie (w organizacji)";02-384;Warszawa;Warszawa (Ochota);m. st. Warszawa;MAZOWIECKIE;ul.;W≥odarzewska;51d;3;;;;;;;Robert Bryka≥a ;;;;;Utworzone przez osoby fizyczne
+454;Muzeum Motoryzacji i Techniki w Opaczy Kolonii  (w organizacji);05-816;Opacz Kolonia;Micha≥owice-Osiedle;pruszkowski;MAZOWIECKIE;ul.;Mokra;6;;;;;;;;Tomasz Graczyk;;;;;Utworzone przez osoby fizyczne
+455;Muzeum Motoryzacji i Techniki w Radomiu (w organizacji);26-600;Radom ;Radom ;radomski;MAZOWIECKIE;ul. ;Lubelska ;8;1;;;;Lubelska ;8;9;Artur KwiecieÒ ;;;;;Utworzone przez osoby fizyczne 
+456;Muzeum Motoryzacji i Wojskowoúci w Tanowie (w organizacji);72-004;Tanowo;Szczecin;m. Szczecin;ZACHODNIO-POMORSKIE;ul.;SzczeciÒska;16A;;;;;;;;Leszek Budy≥owski ;;;;;Utworzone przez osoby fizyczne
+457;Muzeum Motoryzacji w Bystrej (w†organizacji);34-235;Bystra;Bystra;suski;MA£OPOLSKIE;ul.;Bystra;502;;;;;;;;Micha≥ Krauze;;;;;Utworzone przez osoby fizyczne
+458;Muzeum Narwi w Tykocinie (w organizacji);16-080;Tykocin ;Tykocin ;bia≥ostocki;PODLASKIE;ul. ;Browarna ;17;;;;;;;;Adam Rudawski ;;;;;Utworzone przez osoby fizyczne 
+459;Muzeum Obrony Wybrzeøa w åwinoujúciu;72-602;åwinoujúcie;åwinoujúcie;m. åwinoujúcie;ZACHODNIO-POMORSKIE;ul.;Bunkrowa;2;;;;;;;;Piotr Piwowarczyk;;;;;Utworzone przez osoby fizyczne
+460;Muzeum Operacji i Dzia≥aÒ Specjalnych (w organizacji);67-400;Wschowa;Wschowa;wschowski;LUBUSKIE;ul.;S≥owackiego;3;;;;;;;;Piotr Maka≥a ;;;;;Utworzone przez osoby fizyczne
+461;Muzeum OrÍøa i Techniki Uøytkowej im. ks. gen. Stanis≥awa BrzÛski w £ukowie  (w organizacji);21-400;£ukÛw;£ukÛw;≥ukowski;LUBELSKIE;ul.;Farfak;42;;;;;;;;Jan Janusz JastrzÍbski;;;;;Utworzone przez osoby fizyczne
+462;Muzeum OrÍøa i Techniki Ziemi Zamojskiej  (w organizacji);22-420;SkierbieszÛw;SkierbieszÛw;zamojski;LUBELSKIE;ul.;1 Maja;31;;;;;;;;Marcin Potocki;;;;;Utworzone przez osoby fizyczne
+463;Muzeum OrÍøa im. Oddzia≥Ûw Partyzanckich Ziemi Opatowskiej w MÍczennicach  (w organizacji);27-540;Lipnik;Malice Koúcielne;opatowski;åWI TOKRZYSKIE;ul.;MÍczennice;8;;;;;;;;Janusz Or≥owski;;;;;Utworzone przez osoby fizyczne
+464;Muzeum Pacowa Chata w Krypnie Wielkim (w organizacji);19-111;Krypno Koúcielne;Bia≥obrzeskie;moniecki;PODLASKIE;ul.;Krypno Wielkie ;119;;;;;;;;Tomasz Pac;;;;;Utworzone przez osoby fizyczne
+465;Muzeum Pa≥acowe Garnizonu Biedrusko (w organizacji);62-003;Biedrusko;Biedrusko;poznaÒski;WIELKOPOLSKIE;ul.;1 Maja;82;;;;;;;;Jan Kucharski ;;;;;Utworzone przez osoby fizyczne
+466;Muzeum ,,Patria Colbergiensisî w Ko≥obrzegu ;78-100;Ko≥obrzeg;Ko≥obrzeg;ko≥obrzeski;ZACHODNIO-POMORSKIE;ul.;Armii Krajowej;12;;;;;;;;Robert Aleksander Maziarz;;;;;Utworzone przez osoby fizyczne
+467;Muzeum Piúmiennictwa i Drukarstwa w GrÍbocinie;87-122;GrÍbocin;GrÍbocin;toruÒski;KUJAWSKO-POMORSKIE;ul.;Szkolna;31;;;;;;;;Dariusz Subocz;;;;;Utworzone przez osoby fizyczne
+468;Muzeum PojazdÛw Historycznych ÑPolskie Drogiî w Busku ñ Zdroju (w organizacji);28-100;Busko ñ ZdrÛj;Busko-ZdrÛj;buski;åWI TOKRZYSKIE;ul.;Øeromskiego;12A;;;;;;;;Edyta £ukasik; Marcin £ukasik;;;;Utworzone przez osoby fizyczne
+469;Muzeum PojazdÛw Militarnych i Uzbrojenia (w organizacji);62-081;Przeümierowo;Dπbrowa;poznaÒski;WIELKOPOLSKIE;ul.;Piaskowa;17;;;;;;;;Anna Paczkowska-Jarecka;;;;;Utworzone przez osoby fizyczne
+470;Muzeum PojazdÛw Militarnych w CzÍstochowie (w organizacji);42-200;CzÍstochowa;Nowa Wieú;czÍstochowski;åL•SKIE;ul.;Bukowa;25;;;;;;;;Karol Woldan;;;;;Utworzone przez osoby fizyczne
+471;Muzeum Polskiej Motoryzacji XX wieku ,,Polska na Ko≥achî w†Busku ñ Zdroju (w organizacji);28-100;Busko ñ ZdrÛj;Busko-ZdrÛj;buski;åWI TOKRZYSKIE;ul.;Podgaje;9;;;;;;;;Wojciech £ukasik; Arkadiusz £ukasik; Zofia £ukasik;;;Utworzone przez osoby fizyczne
+472;Muzeum PÛl Bitewnych Pomorza (w organizacji);84-217;Szemud;Szemud;wejherowski;POMORSKIE;ul. ;Wejherowska ;27;;;;;;;;Piotr Sroka ;;;;;Utworzone przez osoby fizyczne
+473;Muzeum 1 Pu≥ku StrzelcÛw Konnych   w Garwolinie                                                                                    (w organizacji);08-400;Garwolin;Garwolin;garwoliÒski;MAZOWIECKIE;ul.;Jana Paw≥a II;44a;;;;;;;;Przemys≥aw Makulec;;;;;Utworzone przez osoby fizyczne
+474;Muzeum PrzedmiotÛw Historycznych i Zapomnianych;84-250;Gniewino Bychowo;Gniewino;wejherowski;POMORSKIE;;;38;;;;;;;;Jacek Bagnecki;;;;;Utworzone przez osoby fizyczne
+475;Muzeum Przemys≥u i Kolejnictwa na ålπsku;58-140;Jaworzyna ålπska;Jaworzyna ålπska;úwidnicki;DOLNOåL•SKIE;ul.;Towarowa;2;;;;;;;;Piotr Gerber;;;;;Utworzone przez osoby fizyczne
+476;Muzeum Przemys≥u Wojennego w PogÛrzu   (w organizacji);43-430;SkoczÛw PogÛrze;DÍbowiec;cieszyÒski;åL•SKIE;ul.;Zamek;54;;;;;;;;Przemys≥aw Michalski ;;;;;Utworzone przez osoby fizyczne
+477;Muzeum Przyrodnicze w Turzynie (w organizacji);89-240;Kcynia;Kcynia;nakielski;KUJAWSKO-POMORSKIE;;Turzyn;2;;;;;;;;Andrzej Morawski;;;;;Utworzone przez osoby fizyczne
+478;Muzeum Radiotechniki (w organizacji);85-112;Bydgoszcz;Bydgoszcz;m. Bydgoszcz;KUJAWSKO-POMORSKIE;ul.;Mennica;2A;;;;;;;;Maria Kujawska; Jerzy Kujawski; Piotr Kujawski;;;Utworzone przez osoby fizyczne
+479;Muzeum Regionalne ,,Jama MichalikÛwî w Serocku (w†organizacji);21-136;Firlej;Firlej;lubartowski;LUBELSKIE;;Serock;207;;;;;;;;Zygmunt Jan Michalik ;;;;;Utworzone przez osoby fizyczne
+480;Muzeum Regionalne w Kierzkowie;74-300;MyúlibÛrz;MyúlibÛrz;myúliborski;ZACHODNIO-POMORSKIE;;KierzkÛw;6;;;;;;;;Miros≥aw WÛjcik;;;;;Utworzone przez osoby fizyczne
+481;Muzeum Regionalne w Ruks M≥ynie  (w organizacji);64-600;Oborniki;Oborniki;obornicki;WIELKOPOLSKIE;;Ruks M≥yn;1;;;;;;;;Jan Czartoszewski  i Joanna Czartoszewska ;;;;;Utworzone przez osoby fizyczne
+482;Muzeum Regionalnego Pogranicza i MiÍdzyrzeckiego Rejonu Umocnionego  w Ka≥awie (w organizacji);66-300;MiÍdzyrzecz;MiÍdzyrzecz;miÍdzyrzecki;LUBUSKIE;;Ka≥awa;68A;;;;;;;;Piotr Szlachtycz;;;;;Utworzone przez osoby fizyczne
+483;Muzeum Saperskie ÑExplosiveî (w organizacji);80-001;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;;Trakt úw. Wojciecha;336;;;;;;;;Piotr Bik;;;;;Utworzone przez osoby fizyczne
+484;Muzeum - Skansen M≥ynarstwa w Øukowie (w organizacji) ;83-330;Øukowo;Øukowo;kartuski;POMORSKIE;ul.;Parkowa;1;;;;;;;;Maria Kujawska; Jerzy Kujawski; Piotr Kujawski ;;;Utworzone przez osoby fizyczne
+485;Muzeum ñ Skansen w Ochabach ñ Tradycyjna Zagroda Rolna ;43-430;SkoczÛw;DÍbowiec;cieszyÒski;åL•SKIE;ul.;G≥Ûwna;177;;;;;;;;Urszula i Maciej Bieniek ;;;;;Utworzone przez osoby fizyczne
+486;Muzeum S≥uøb Mundurowych w GdaÒsku (w organizacji);80-863 ;"GdaÒsk 
+";GdaÒsk;m. GdaÒsk;POMORSKIE;ul. ;Doki ;1;budynek 131 A; ;;;;;;Krzysztof Wojtaú;Jakub Kwiatkowski ;;;;Utworzone przez osoby fizyczne 
+487;Muzeum Spadochroniarstwa i Wojsk Specjalnych w organizacji ;43-460;Wis≥a;Wis≥a;cieszyÒski;åL•SKIE;ul.;Przylesie;1a;;;;;;;;Piotr Wybraniec ;;;;;Utworzone przez osoby fizyczne
+488;Muzeum SprzÍtu Wojskowego w Mrπgowie;11-700;Mrπgowo;Mrπgowo;mrπgowski;WARMI—SKO-MAZURSKIE;ul.;Przemys≥owa;11C;;;;;;;;S≥awomir Trzeciakiewicz;;;;;Utworzone przez osoby fizyczne
+489;Muzeum SprzÍtu Wojskowego we Wroc≥awiu (w organizacji);52-218;Wroc≥aw;Wroc≥aw (Wroc≥aw-Krzyki);m. Wroc≥aw;DOLNOåL•SKIE;ul.;Gen. Grota-Roweckiego;71B;;;;;;;;Zbigniew £ukaszczuk;;;;;Utworzone przez osoby fizyczne
+490;"Muzeum Strategii i Taktyki Dzia≥aÒ Zbrojnych ""CLAUSEWITZ"" (w organizacji)";02-972;Warszawa;Warszawa (WilanÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Sarmacka;9;104;;;;;;;Maciej Szalaty;;;;;Utworzone przez osoby fizyczne
+491;"Muzeum Sztuki Inøynierskiej  ,,KOPRAS"" w Fia≥kowie (w organizacji)";62-070;Fia≥kowo ;Dopiewo ;poznaÒski;WIELKOPOLSKIE;; ;1;;;;;;;;Zbigniew Kopras ;;;;;Utworzone przez osoby fizyczne 
+492;Muzeum Sztuki Polskiej w Sopocie;81-707;Sopot;Sopot;m. Sopot;POMORSKIE;ul.;Jana Jerzego Haffnera;54;5;;;;;;;Juliusz Windorbski;;;;;Utworzone przez osoby fizyczne
+493;Muzeum ålπskiego Wrzeúnia 1939 roku   (w organizacji);43-100;Tychy;Tychy;m. Tychy;åL•SKIE;ul.;Brzozowa;24;;;;;;;;Arkadiusz Dominiec ;;;;;Utworzone przez osoby fizyczne
+494;Muzeum åwiatowego OrÍøa i Wojskowoúci w organizacji;02-814;Warszawa;Warszawa (UrsynÛw);m. st. Warszawa;MAZOWIECKIE;ul.;S≥onki;5H;;;;;;;;Pawe≥ Øerdzicki ;;;;;Utworzone przez osoby fizyczne
+495;Muzeum Techniki Bojowej w Olszynie  (w organizacji);59-830;Olszyna;Olszyna;lubaÒski;DOLNOåL•SKIE;ul.;Wolnoúci;60c;;;;;;;;Aneta S≥awiÒska; Krzysztof S≥awiÒski;;;;Utworzone przez osoby fizyczne
+496;Muzeum Techniki i Machin Wojennych w Gnieünie;62-200;Gniezno;Gniezno;gnieünieÒski;WIELKOPOLSKIE;ul.;åw. Micha≥a;10;;;;;;;;Mateusz Hen;;;;;Utworzone przez osoby fizyczne
+497;Muzeum Techniki i Rzemios≥a (w organizacji);94-294;£Ûdü;£Ûdü;m. £Ûdü;£”DZKIE;ul.;PodhalaÒska;113;2;;;;;;;Janusz Prπtnicki;;;;;Utworzone przez osoby fizyczne
+498;Muzeum Techniki i Rzemios≥a Wiejskiego  w Zapuúcie (w†organizacji);59-830;Olszyna LubaÒska;Olszyna;lubaÒski;DOLNOåL•SKIE;;Zapusta;28;;;;;;;;Aneta Tyl; Krzysztof Tyl;;;;Utworzone przez osoby fizyczne
+499;Muzeum Techniki i Techniki Wojskowej ,,TYTANî (w†organizacji);76- 142;Malechowo;Malechowo;s≥awieÒski;ZACHODNIO-POMORSKIE;;Malechowo;27b;;;;;;;;Marian Laskowski ;;;;;Utworzone przez osoby fizyczne
+500;Muzeum Techniki Militarnej (w organizacji);05-311;DÍbe Wielkie;DÍbe Wielkie;miÒski;MAZOWIECKIE;ul.;Polna;15c;;;;;;;;Bogdan Korziuk;;;;;Utworzone przez osoby fizyczne
+501;"Muzeum Techniki Militarnej i Cywilnej ,,MARS"" (w organizacji)";78-611;Szwecja;Szwecja;wa≥ecki;ZACHODNIO-POMORSKIE;ul.;GÛrna;1;;;;;;;;Piotr Letki; Rafa≥ Letki ;;;;Utworzone przez osoby fizyczne
+502;Muzeum Techniki Rzemios≥a ålusarstwo ñ Kowalstwo w†organizacji ;44-153;Soúnicowice;Soúnicowice;gliwicki;åL•SKIE;ul.;Raciborska;47;;;;;;;;Andrzej åledziÒski ;;;;;Utworzone przez osoby fizyczne
+503;Muzeum Techniki Militarnej i Uøytkowej w Bytomiu (w organizacji);41-902;Bytom;Bytom;m. Bytom;åL•SKIE;ul.;Katowicka;54;;;;;;;;Roman Ploch;;;;;Utworzone przez osoby fizyczne
+504;Muzeum Techniki Militarnej i†Uøytkowej  w Zabrzu (w†organizacji);41-800;Zabrze;Zabrze;m. Zabrze;åL•SKIE;ul.;Botaniczna;6;;;;;;;;Rafa≥ Siech;;;;;Utworzone przez osoby fizyczne
+505;Muzeum Techniki Motoryzacyjnej ;62-100;Wπgrowiec;Wπgrowiec;wπgrowiecki;WIELKOPOLSKIE;;£aziska;10b;;;;;;;;Aleksander B≥aszkowski ;;;;;Utworzone przez osoby fizyczne
+506;Muzeum Techniki Uzbrojenia w Bydgoszczy  (w organizacji);85-011;Bydgoszcz;Bydgoszcz;m. Bydgoszcz;KUJAWSKO-POMORSKIE;ul.;åniadeckich;32;;;;;;;;W≥odzimierz Rapkiewicz;;;;;Utworzone przez osoby fizyczne
+507;Muzeum Techniki Uzbrojenia w Kamiennej GÛrze (w†organizacji);58-400;Kamienna GÛra;Kamienna GÛra;kamiennogÛrski;DOLNOåL•SKIE;ul.;Lubawska;1a;;;;;;;;Maciej Wyszkowski ;;;;;Utworzone przez osoby fizyczne
+508;"Muzeum Techniki Wojskowej ,,ARMA"" w Warszawie";02-871;Warszawa;Warszawa (UrsynÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Karczunkowska;26;;;;;;;;Jaros≥aw Jakubowski; Patrycja Grπdziel - Jakubowska ;;;;Utworzone przez osoby fizyczne
+509;Muzeum Techniki Wojskowej i Motoryzacji w GÛralach w organizacji ;87-330;GÛrale;Jab≥onowo Pomorskie ;brodnicki ;KUJAWSKO-POMORSKIE;;;110;;;;;;;;Dorian Koprowski ;;;;;Utworzone przez osoby fizyczne 
+510;Muzeum Techniki Wojskowej i Obrony Przeciwlotniczej w Busku - Zdroju  (w organizacji);28-100;Busko-ZdrÛj;Busko-ZdrÛj;buski;åWI TOKRZYSKIE;ul.;Øeromskiego;24;;;;;;;;Zbigniew Wach;;;;;Utworzone przez osoby fizyczne
+511;Muzeum Techniki Wojskowej i Uøytkowej ;95-030;RzgÛw;RzgÛw;≥Ûdzki wschodni;£”DZKIE;ul.;Polna;3;;;;;;;;Kordian Skalski;;;;;Utworzone przez osoby fizyczne
+512;Muzeum Techniki Wojskowej im. Bogdana Wojciecha Koz≥owskiego w Olsztynie ;11-041;Olsztyn;Olsztyn;m. Olsztyn;WARMI—SKO-MAZURSKIE;ul.;Wilimowo;10a;;;;;;;;Bogdan Wojciech Koz≥owski;;;;;Utworzone przez osoby fizyczne
+513;Muzeum Techniki Wojskowej im. Jerzego Tadeusza Widuchowskiego w Zabrzu   (w organizacji);41-803;Zabrze;Zabrze;m. Zabrze;åL•SKIE;ul.;Wojciecha Kossaka;31a;2;;;;;;;Wac≥aw Widuchowski;;;;;Utworzone przez osoby fizyczne
+514;Muzeum Techniki Wojskowej w Feliksowie (w organizacji) ;05-083;ZaborÛw;ZaborÛw;warszawski zachodni;MAZOWIECKIE;ul.;åwierkowa;5;;;;;;;;Jacek Roszkowski ;;;;;Utworzone przez osoby fizyczne
+515;Muzeum Techniki Wojskowej w Jaworznie (w organizacji);43-602;Jaworzno;Jaworzno;m. Jaworzno;åL•SKIE;ul.;Zarzeczna;2;;;;;;;;Marian Lewek ;;;;;Utworzone przez osoby fizyczne
+516;Muzeum Techniki Wojskowej w K≥odawie (w organizacji);62-650;K≥odawa;K≥odawa;kolski;WIELKOPOLSKIE;ul.;Cegielniana;26;;;;;;;;Pawe≥ Bart≥omiejczak;;;;;Utworzone przez osoby fizyczne
+517;Muzeum Tradycji Ruchu Narodowego w Jelczu - Laskowicach (w organizacji);55-220;Jelcz - Laskowice;Jelcz- Laskowice;o≥awski ;DOLNOåL•SKIE;ul. ;Hirszfelda;70;1;;;;;;;Mateusz Kotas;;;;;Utworzone przez osoby fizyczne 
+518;Muzeum Twierdza BTR ñ 40  we Wroc≥awiu;51-180;Wroc≥aw;Wroc≥aw (Wroc≥aw-Psie Pole);m. Wroc≥aw;DOLNOåL•SKIE;ul.;Kominiarska;32;;;;;;;;Wies≥aw Majewski ;;;;;Utworzone przez osoby fizyczne
+519;Muzeum Uzbrojenia (w organizacji);05-220;Zielonka;Zielonka;wo≥omiÒski;MAZOWIECKIE;ul.;Sprinterska;5;;;;;;;;Wojciech Goryca;;;;;Utworzone przez osoby fizyczne
+520;Muzeum Uzbrojenia i Wojskowoúci (w organizacji);05-077;Warszawa -  Weso≥a;Warszawa (Weso≥a);m. st. Warszawa;MAZOWIECKIE;ul.;Jana Paw≥a II;46;;;;;;;;JÍdrzej Kozak ;;;;;Utworzone przez osoby fizyczne
+521;Muzeum Uzbrojenia Øo≥nierza Wojska Polskiego 1914-1945 (w organizacji);01-518;Warszawa;Warszawa (Øoliborz);m. st. Warszawa;MAZOWIECKIE;ul.;JÛzefa Zajπczka;1-;5 m. 17;;;;;;;Jacek Mazuro;;;;;Utworzone przez osoby fizyczne
+522;Muzeum Volkswagena;83-330;Øukowo, PÍpowo gm. Øukowo;Øukowo;kartuski;POMORSKIE;ul.;Armii Krajowej;50;;;;;;;;Ewa Suchecka ;;;;;Utworzone przez osoby fizyczne
+523;"Muzeum VOLVO i innych Automobili w Poznaniu ,,Volvostrada"" (w organizacji) ";60-012;PoznaÒ;PoznaÒ ;poznaÒski;WIELKOPOLSKIE;ul. ;Ustronna ;13b;;;;;;;;Dariusz Weso≥owski ;Miros≥aw Walczak ;;;;Utworzone przez osoby fizyczne
+524;Muzeum w Ponurzycy (w organizacji);05-430;CelestynÛw;CelestynÛw;otwocki;MAZOWIECKIE;;Ponurzyca;60;;;;;;;;Rados≥aw Szymczak;;;;;Utworzone przez osoby fizyczne
+525;Muzeum Willa LodusieÒka w Warszawie ;04-824;Warszawa;Warszawa (Wawer);m. st. Warszawa;MAZOWIECKIE;ul.;Herbaciana;6;;;;;;;;Marek Salamonowicz;;;;;Utworzone przez osoby fizyczne
+526;Muzeum Wojen i Øycia (w organizacji);68-200;Øary;Nowe Czaple;øarski;LUBUSKIE;Plac ;Przyjaüni;14;2;;;;;;;Franciszek £uckiewicz;Tomasz £uckiewicz;Krzysztof Jersak;;;Utworzone przez osoby fizyczne 
+527;Muzeum Wojny i Pokoju (w organizacji);05-071;SulejÛwek;SulejÛwek (Mi≥osna);miÒski;MAZOWIECKIE;ul.;Grzybowa;3;;;;;;;;Robert Wyrostkiewicz;;;;;Utworzone przez osoby fizyczne
+528;Muzeum Wojny Obronnej Rybnikí39  (w organizacji);44-251;Rybnik;Rybnik;m. Rybnik;åL•SKIE;ul.;Rycerska;16a;;;;;;;;Marcin Ruú;;;;;Utworzone przez osoby fizyczne
+529;Muzeum Wojskowe i Regionalne w Klenicy (w organizacji);66-133;Klenica;Kliniczki;zielonogÛrski;LUBUSKIE;ul.;Boles≥awa Chrobrego;14;;;;;;;;Tomasz £ysiak;;;;;Utworzone przez osoby fizyczne
+530;Muzeum Wojskowo- Cywilne w £osicach ;08-200;£osice;£osice;≥osicki;MAZOWIECKIE;ul.;Narutowicza;53;11;;;;;;;Mateusz CeliÒski ;;;;;Utworzone przez osoby fizyczne
+531;Muzeum Wojskowoúci i Uzbrojenia (w organizacji);02-972;Warszawa;Warszawa (WilanÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Hlonda;2c;127;;;;;;;Micha≥ Kuczmierowski;;;;;Utworzone przez osoby fizyczne
+532;Muzeum Wojskowoúci w åwierklaÒcu (w organizacji);42-622;åwierklaniec;Nak≥o;tarnogÛrski;åL•SKIE;ul.;TarnogÛrska;75;;;;;;;;Antoni Øurek;;;;;Utworzone przez osoby fizyczne
+533;Muzeum Wolnego Czasu (w organizacji);82-120;Krynica Morska;Krynica Morska;nowodworski;POMORSKIE;ul.;Teleexpresu;3c;;;;;;;;Filip GawliÒski ;;;;;Utworzone przez osoby fizyczne
+534;Muzeum Wsi Sudeckiej i Techniki Militarnej;58-340;£omnica;G≥uszyca;wa≥brzyski;DOLNOåL•SKIE;ul.;Sudecka;dz. nr 104;;;;;;;;Jerzy Rudnicki;;;;;Utworzone przez osoby fizyczne
+535;Muzeum Wsi w Maruszowie (w†organizacji);27-630;Zawichost;Zawichost;sandomierski;åWI TOKRZYSKIE;;MaruszÛw;16;;;;;;;;Edward Ziarko;;;;;Utworzone przez osoby fizyczne
+536;Muzeum WspÛ≥czesnej Broni Palnej w Jeøowie Sudeckim (w†organizacji);58-521;JeøÛw Sudecki;JeøÛw Sudecki;jeleniogÛrski;DOLNOåL•SKIE;ul.;Zachodnia;2;;;;;;;;Wojciech Aleksiewicz;;;;;Utworzone przez osoby fizyczne
+537;Muzeum Zabawek w Kudowie Zdroju   (w organizacji);57-350;Kudowa ZdrÛj;Kudowa-ZdrÛj;k≥odzki;DOLNOåL•SKIE;ul.;Zdrojowa;34;4;;;;;;;Maria OzieraÒska;;;;;Utworzone przez osoby fizyczne
+538;Muzeum ZabytkÛw Techniki Wojskowej w Warszawie;30-107;Warszawa;KrakÛw (KrakÛw-Krowodrza);m. KrakÛw;MA£OPOLSKIE;ul.;Ciechanowska;3;;;;;;;;Maciej KÍszycki; Stanis≥aw KÍszycki;;;;Utworzone przez osoby fizyczne
+539;Muzeum Zamkowe Kamieniec;38-420;Korczyna;Korczyna;kroúnieÒski;PODKARPACKIE;ul.;Podzamcze;b;n;;;;;;;Andrzej Ko≥der ;;;;;Utworzone przez osoby fizyczne
+540;Muzeum Zamkowe w Grodücu;43- 386;åwiÍtoszÛwka Grodziec;Jasienica;bielski;åL•SKIE;ul.;Dworska;1;;;;;;;;Micha≥ Boøek ;;;;;Utworzone przez osoby fizyczne
+541;Muzeum ,,Ziemi Kaszubskiej i SprzÍtÛw Militarnychî (w†organizacji);83-311;GorÍczyno gm. Samonino;Brodnica Dolna (SarnÛwko);kartuski;POMORSKIE;ul.;KasztelaÒska;26e;;;;;;;;S≥awomir KamiÒski ;;;;;Utworzone przez osoby fizyczne
+542;Muzeum Ziemi Makowskiej i Garnizonu RÛøan;06-230;RÛøan;RÛøan;makowski;MAZOWIECKIE;ul.;Szkolna;2;;;;;;;;Wies≥aw £askarzewski;;;;;Utworzone przez osoby fizyczne
+543;Muzeum Ziemi Przemkowskiej (w organizacji);59-170;PrzemkÛw;PrzemkÛw;polkowicki ;DOLNOåL•SKIE;ul. ;Akacjowa ;5c;26;;;;;;;Marcin JednorÛg;;;;;Utworzone przez osoby fizyczne
+544;Muzeum Ziemi W≥odawskiej;22-244;Stary Brus;Wo≥oskowola;w≥odawski;LUBELSKIE;ul.;Ko≥acze;115;;;;;;;;Pawe≥ Wojtal;;;;;Utworzone przez osoby fizyczne
+545;Muzeum Ziemi WolsztyÒskiej  (w organizacji);64-200;Wolsztyn;Wolsztyn;wolsztyÒski;WIELKOPOLSKIE;ul.;Nia≥ecka;24;;;;;;;;Andrzej Toú;;;;;Utworzone przez osoby fizyczne
+546;NadwiúlaÒskie Muzeum Broni Dawnej i Nowej w Piasecznie (w†organizacji);05-500;Piaseczno;Piaseczno;piaseczyÒski;MAZOWIECKIE;ul.;M≥ynarska;13;;;;;;;;Maciej Szadkowski ;;;;;Utworzone przez osoby fizyczne
+547;Podlaskie Muzeum Techniki Wojskowej  i Uøytkowej w†Bielanach Wπsach ;08-311;Bielany;Bielany-Øylaki;soko≥owski;MAZOWIECKIE;;Bielany Wπsy;14;;;;;;;;Mariusz Murawski;;;;;Utworzone przez osoby fizyczne
+548;Pomorskie Muzeum Motoryzacji  (w organizacji);84-208;Kielno;Czeczewo;kartuski;POMORSKIE;ul.;Tuchomska;2;;;;;;;;Tomasz NasiÒski ;;;;;Utworzone przez osoby fizyczne
+549;Pomorskie Muzeum Motoryzacji i Techniki  w Gdyni (w†organizacji);81-383;Gdynia;Gdynia;m. Gdynia;POMORSKIE;ul.;I Armii Wojska Polskiego;28;;;;;;;;Tomasz Karchut; Tomasz Groszewski;;;;Utworzone przez osoby fizyczne
+550;Pomorskie OkrÍgowe Muzeum PRL w SÍpÛlnie KrajeÒskim (w organizacji);89-400;SÍpÛlno KrajeÒskie ;SÍpÛlno KrajeÒskie;sÍpoleÒski;KUJAWSKO-POMORSKIE;ul. ;Koronowska ;20;4;;;;;;;Marcin Gulka ;;;;;Utworzone przez osoby fizyczne 
+551;Prywatne Multimedialne Muzeum Gry i Zabawy w Warszawie (w organizacji);00-586;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Flory;5;24;;;;;;;Pawe≥ Abramczuk ;;;;;Utworzone przez osoby fizyczne
+552;Prywatne Muzeum Broni i MilitariÛw w åwidnicy;58-100;åwidnica;åwidnica;úwidnicki;DOLNOåL•SKIE;ul.;WitoszÛw Dolny;7;;;;;;;;Stanis≥aw Gabryú;;;;;Utworzone przez osoby fizyczne
+553;Prywatne Muzeum Broni Pancernej i†MilitariÛw im. Franciszka Bier w Bielsku-Bia≥ej;43-310;Bielsko-Bia≥a;Bielsko-Bia≥a;m. Bielsko-Bia≥a;åL•SKIE;ul.;Pasterska;18;;;;;;;;Rafa≥ Bier;;;;;Utworzone przez osoby fizyczne
+554;"Prywatne Muzeum Historyczne ,,Gaja"" w Janowie (w organizacji)";05-082;Stare Babice ;Stare Babice;warszawski zachodni;MAZOWIECKIE;ul. ;StudziÒskiego ;3;;;;;;;;Adrian K≥os ;;;;;Utworzone przez osoby fizyczne 
+555;Prywatne Muzeum Kowalstwa w Warszawie;02-749;Warszawa;Warszawa (MokotÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Przy Grobli;84;;;;;;;;Kamil Ga≥ecki;;;;;Utworzone przez osoby fizyczne
+556;Prywatne Muzeum Militarne w Woli Ma≥ej (w organizacji);37-100;Wola Ma≥a;Czarna ;≥aÒcucki;PODKARPACKIE;;;8a;;;;;;;;Adam StrzÍpka ;;;;;Utworzone przez osoby fizyczne 
+557;Prywatne Muzeum Motoryzacji i Techniki   w OtrÍbusach;05-805;OtrÍbusy k/Warszawy;OtrÍbusy;pruszkowski;MAZOWIECKIE;ul.;Warszawska;21;;;;;;;;Joanna Mikiciuk; Izabella Mikiciuk; Patryk Mikiciuk;;14.12.2001;Utworzone przez osoby fizyczne
+558;Prywatne Muzeum Podkarpackich PÛl Bitewnych;38-400;Krosno;Krosno;m. Krosno;PODKARPACKIE;ul.;Czajkowskiego;92;;;;;;;;Piotr Kie≥tyka; Dorota Kie≥tyka; Les≥aw Wilk;;;Utworzone przez osoby fizyczne
+559;Prywatne Muzeum PojazdÛw Militarnych  i Zabytkowych w Rakszawie;37-111;Rakszawa;Rakszawa;≥aÒcucki;PODKARPACKIE;;Rakszawa;118;3;;;;;;;Bogdan Maczuga;;;;;Utworzone przez osoby fizyczne
+560;Prywatne Muzeum Polsko-AmerykaÒskie ÑHellís Angelî w†Wadowicach;34-100;Wadowice;Stronie;wadowicki;MA£OPOLSKIE;ul.;Konstytucji 3 Maja ;23A;;;;;;;;Zygmunt Kraus;;;;;Utworzone przez osoby fizyczne
+561;Prywatne Muzeum Sztuki Ludowej  w OtrÍbusach;05-805;OtrÍbusy k/ Warszawy;OtrÍbusy;pruszkowski;MAZOWIECKIE;ul.;NataliÒska;15;;;;;;;;Marian Pokropek; Stanis≥awa Pokropek; Wojciech Pokropek; Agnieszka Pokropek;;Utworzone przez osoby fizyczne
+562;Prywatne Muzeum Techniki i MilitariÛw w Rzeszowie;35-083;RzeszÛw;RzeszÛw;m. RzeszÛw;PODKARPACKIE;ul.;Rymanowska;8;10;;;;;;;Tomasz Bπk; Karolina Gawlicka-Bπk;;;;Utworzone przez osoby fizyczne
+563;Prywatne Muzeum ÑTomalaî w Kadzidle;07-420;Kadzid≥o;Kadzid≥o;ostro≥Ícki;MAZOWIECKIE;ul.;KompozytorÛw;9;;;;;;;;Antoni Tomala;;;;;Utworzone przez osoby fizyczne
+564;Prywatne Muzeum w Petrykozach;96-321;Petrykozy;Øabia Wola;grodziski;MAZOWIECKIE;;;;;;;;;;;Jadwiga Siemion; Wojciech Siemion;;;;Utworzone przez osoby fizyczne
+565;Prywatne Muzeum w TuklÍczy (w organizacji);28-236;Rytwiany;Rytwiany;staszowski;åWI TOKRZYSKIE;;TuklÍcz;27;;;;;;;;Jerzy Krauze ;;;;;Utworzone przez osoby fizyczne
+566;Regionalne Muzeum Drogownictwa ÑNurzec Stacjaî;17-330;Nurzec Stacja;Milejczyce;siemiatycki;PODLASKIE;;;;;;;;;;;Izabella Kortyka; Jerzy Kortyka;;;;Utworzone przez osoby fizyczne
+567;ålπskie Muzeum MilitariÛw i Techniki Uøytkowej w Gorzycach  (w organizacji);44-350;Gorzyce;Turza ålπska;wodzis≥awski;åL•SKIE;ul.;Raciborska;138;;;;;;;;Maciej Gruszka ;;;;;Utworzone przez osoby fizyczne
+568;åwiÍtokrzyskie Muzeum MilitariÛw  w Ma≥ogoszczu (w†organizacji);28-366;Ma≥ogoszcz;Ma≥ogoszcz;jÍdrzejowski;åWI TOKRZYSKIE;ul.;Konarskiego;47;;;;;;;;Pawe≥ Grosicki ;;;;;Utworzone przez osoby fizyczne
+569;ToruÒskie Muzeum OrÍøa   (w organizacji);87-100;ToruÒ;ToruÒ;m. ToruÒ;KUJAWSKO-POMORSKIE;ul.;Grudziπdzka;57a;16;;;;;;;Krzysztof Melerski;;;;;Utworzone przez osoby fizyczne
+570;TWIERDZA TORU—-Muzeum Historii i†Wojskowoúci w†Toruniu;87-100;ToruÒ;ToruÒ;m. ToruÒ;KUJAWSKO-POMORSKIE;ul.;Winna;19;;;;;;;;Tomasz Krajewski; Dariusz Kalinowski;;;;Utworzone przez osoby fizyczne
+571;Unis≥awskie Muzeum Barwy i Broni   (w organizacji);86-260;Unis≥aw;Unis≥aw;che≥miÒski;KUJAWSKO-POMORSKIE;ul.;Rynkowa;14;1;;;;;;;Tomasz Micha≥ek ;;;;;Utworzone przez osoby fizyczne
+572;Zag≥Íbiowskie Muzeum MilitariÛw Dragon w Sosnowcu (w organizacji);41-215;Sosnowiec;Sosnowiec;m. Sosnowiec;åL•SKIE;ul.;Gen. Waltera Janke;32;;;;;;;;Krzysztof Borda ;;;;;Utworzone przez osoby fizyczne
+573;Dolnoúlπskie Spo≥eczne Muzeum Kolejnictwa Przy Klubie SympatykÛw Kolei we Wroc≥awiu;50-503;Wroc≥aw;Wroc≥aw (Wroc≥aw-Krzyki);m. Wroc≥aw;DOLNOåL•SKIE;ul.;Paczkowska;26;;;;;;;;Klub SympatykÛw Kolei z siedzibπ we†Wroc≥awiu;;;;;Utworzone przez osoby prawne
+574;Europejskie Centrum - Muzeum Haftu na Ziemi Garkowskiej;63-430;OdolanÛw;OdolanÛw;ostrowski;WIELKOPOLSKIE;;Garki;16B;;;;;;;;Fundacja im. úw. Rity na rzecz Europejskiego Muzeum Etnograficznego Ziemi Garkowskiej;;;;;Utworzone przez osoby prawne
+575;Interaktywne Muzeum Technik BezpieczeÒstwa, Transportu, Ochrony i Higieny Pracy w Miko≥owie;43-190;Miko≥Ûw;Miko≥Ûw (BujakÛw);miko≥owski;åL•SKIE;ul.;Rybnicka;43;;;;;;;;PPHU MORITZ Marek RÛøycki;;;;;Utworzone przez osoby prawne
+576;Kujawskie Muzeum OrÍøa, Nauki i†Techniki (w organizacji);87-880;BrzeúÊ Kujawski;BrzeúÊ Kujawski;w≥oc≥awski;KUJAWSKO-POMORSKIE;ul.;Redecz Krukowy;8A;;;;;;;;Fundacja im. Janusza Borkowskiego                                                                                  ÑGodne Øycie na Kujawachî;;;;;Utworzone przez osoby prawne
+577;Ma≥opolskie Muzeum Poøarnictwa  im. Z. GÍsikowskiego w Alwerni;32-566;Alwernia;Alwernia;chrzanowski;MA£OPOLSKIE;ul.;KoryciÒskiego;10;;;;;;;;Ochotnicza Straø Poøarna w  Alwerni;;;;;Utworzone przez osoby prawne
+578;Mazurskie Muzeum MilitariÛw ;11-400;KÍtrzyn;KÍtrzyn;kÍtrzyÒski;WARMI—SKO-MAZURSKIE;ul.;Parcz;7;1;;;;;;;"Fundacja Edukacji Historycznej ,,Park MilitariÛw"" ";;;;;Utworzone przez osoby prawne
+579;Mobilne Muzeum Lotnictwa i Techniki w Warszawie (w organizacji);02-063;Warszawa;Warszawa (Ochota);m. st. Warszawa;MAZOWIECKIE;ul.;GÛrnickiego;3;8;;;;;;;Fundacja Lot Classic J. Makula &Partnerzy;;;;;Utworzone przez osoby prawne
+580;Mobilne Muzeum Militarne we Wroc≥awiu (w organizacji);51-180;Wroc≥aw;Wroc≥aw (Wroc≥aw-Psie Pole);m. Wroc≥aw;DOLNOåL•SKIE;ul.;Pe≥czyÒska;33;;;;;;;;Fundacja Inicjatyw Spo≥ecznych i Kulturalnych JEDYNKA;;;;;Utworzone przez osoby prawne
+581;Muzeum Akademii Sztuk PiÍknych                                                                        w Warszawie;00-068;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Krakowskie Przedmieúcie;5;;;;;;;;Akademia Sztuk PiÍknych;;;;;Utworzone przez osoby prawne
+582;Muzeum BambrÛw PoznaÒskich;60-723;PoznaÒ;PoznaÒ (PoznaÒ-Grunwald);m. PoznaÒ;WIELKOPOLSKIE;ul.;Mostowa;7;9;;;;;;;Towarzystwo BambrÛw PoznaÒskich w†Poznaniu;;;;;Utworzone przez osoby prawne
+583;Muzeum Brodnickiej Grupy Eksploracyjno -Poszukiwawczej (w organizacji) ;87-313;Brzozie ;Brzozie ;brodnicki KUJAWSKO- POMORSKIE ;;;;48;;;;;;;;Stowarzyszenie Brodnicka Grupa Eksploracyjno - Poszukiwawcza ;;;;;Utworzone przez osoby prawne 
+584;Muzeum Broni Dawnej i Nowej Towarzystwa Strzeleckiego;75-038;Koszalin;Koszalin;m. Koszalin;ZACHODNIO-POMORSKIE;ul.;ZwyciÍstwa;46;4D;;;;;;;Towarzystwo Strzeleckie  z siedzibπ w†Koszalinie ;;;;;Utworzone przez osoby prawne
+585;Muzeum Broni i SprzÍtu Wojskowego KwidzyÒskiego Stowarzyszenia Sportowo-Kolekcjonerskiego GWARD;82-500;Kwidzyn;Kwidzyn;kwidzyÒski;POMORSKIE;ul.;Mi≥osna;18;;;;;;;;KwidzyÒskie  Stowarzyszenie Sportowo-Kolekcjonerskie GWARD;;;;;Utworzone przez osoby prawne
+586;Muzeum Broni i SprzÍtu Wojskowego SIRGUNE (w organizacji);82-440;DzierzgoÒ;DzierzgoÒ;sztumski;POMORSKIE;ul.;Odrodzenia;4;;;;;;;;SALU Sp. z o.o.;;;;;Utworzone przez osoby prawne
+587;Muzeum Chirurgii i Sali Operacyjnej w†Ustroniu ;43-450;UstroÒ;UstroÒ;cieszyÒski;åL•SKIE;ul.;Szpitalna;11;;;;;;;;ålπski Szpital Reumatologiczno- Rehabilitacyjny w Ustroniu ;;;;;Utworzone przez osoby prawne
+588;Muzeum Czynu Bojowego KleeberczykÛw w Woli Gu≥owskiej (w organizacji);21-481;Wola Gu≥owska ;Wola Gu≥owska;≥ukowski;LUBELSKIE;ul.;;68;;;;;;;;Samorzπdowa instytucja kultury - Dom Kultury - Pomnik Czynu Bojowego KleeberczykÛw w Woli Gu≥owskiej, dla ktÛrej organizatorem jest Gmina AdamÛw;;;;;Utworzone przez osoby prawne
+589;Muzeum Czynu Niepodleg≥oúciowego ;30-063;KrakÛw;KrakÛw (KrakÛw-Krowodrza);m. KrakÛw;MA£OPOLSKIE;ul.;3 Maja;7;;;;;;;;Zwiπzek LegionistÛw Polskich ;;;;;Utworzone przez osoby prawne
+590;Muzeum Czynu Zbrojnego w Krakowie Nowej Hucie;31-961;KrakÛw;KrakÛw (KrakÛw-Nowa Huta);m. KrakÛw;MA£OPOLSKIE;os. ;GÛrali;23;;;;;;;;Ma≥opolska Fundacja Dom Kombatanta RP - Muzeum Czynu Zbrojnego;;;;;Utworzone przez osoby prawne
+591;"Muzeum Edukacji ,,PszczÛ≥ki"" w Niezwojowicach ";32-109;Pa≥ecznica  Niezwojowice;Pa≥ecznica;proszowicki;MA£OPOLSKIE;;;23;;;;;;;;"Fundacja na rzecz Kultury Sztuki i Przyrody ,,PszczÛ≥ki""";;;;;Utworzone przez osoby prawne
+592;Muzeum Eksploracji Polskiej (w organizacji);80-518;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;GdaÒska;21;E;;;;;;;"Fundacja Na Rzecz Odzyskania Zaginionych Dzie≥ Sztuki ""LATEBRA""";;;;;Utworzone przez osoby prawne
+593;Muzeum Fortyfikacji Pancernej Twierdzy ToruÒ;87-100;ToruÒ;ToruÒ;m. ToruÒ;KUJAWSKO-POMORSKIE;ul.;PoznaÒska;191;199;;;;;;;ToruÒskie Towarzystwo Fortyfikacyjne;;;;;Utworzone przez osoby prawne
+594;Muzeum Fryderyka Chopina w†Warszawie;00-368;Warszawa (Zamek Ostrogskich);Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;OkÛlnik;1;;;;;;;;Narodowy Instytut Fryderyka Chopina ;;;;;Utworzone przez osoby prawne
+595;Muzeum Gazownictwa w Paczkowie;48-370;PaczkÛw;PaczkÛw;nyski;OPOLSKIE;ul.;Pocztowa;6;;;;;;;;GÛrnoúlπska SpÛ≥ka Gazownictwa Sp. z o.o.;;;;;Utworzone przez osoby prawne
+596;Muzeum Gazownictwa w Warszawie;01-224;Warszawa;Warszawa (Wola);m. st. Warszawa;MAZOWIECKIE;ul.;Marcina Kasprzaka;25;;;;;;;;Polskie GÛrnictwo Naftowe i Gazownictwo SpÛ≥ka Akcyjna ;;;;;Utworzone przez osoby prawne
+597;Muzeum Grodziska Kolej Drezynowa (w organizacji);62-065;Ptaszkowo;Grodzisk Wielkopolski ;grodziski ;WIELKOPOLSKIE;;;82;;;;;;;;Stowarzyszenie Grodziska Kolej Drezynowa;;;;;Utworzone przez osoby prawne 
+598;Muzeum Gryfa Pomorskiego;84-251;Lisewo;Chynowie;wejherowski;POMORSKIE;;;28;;;;;;;;Militarni Team Sp. z o.o.  z siedzibπ w Gdyni;;;;;Utworzone przez osoby prawne
+599;Muzeum Harcerstwa w Warszawie;00-491;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Konopnickiej;6;;;;;;;;Zwiπzek Harcerstwa Polskiego;;;;;Utworzone przez osoby prawne
+600;Muzeum Historii i Uzbrojenia w Opolu przy Stowarzyszeniu 10 Sudeckiej Dywizji Zmechanizowanej (w†organizacji);45-063;Opole;Opole;m. Opole;OPOLSKIE;ul.;Koúciuszki;45;;;;;;;;Stowarzyszenie 10 Sudeckiej Dywizji Zmechanizowanej ;;;;;Utworzone przez osoby prawne
+601;Muzeum Historii Medycyny Warszawskiego Uniwersytetu Medycznego (w organizacji);02-091;Warszawa;Warszawa (Ochota);m. st. Warszawa;MAZOWIECKIE;ul.;Øwirki i Wigury;63;;;;;;;;Warszawski Uniwersytet Medyczny;;;;;Utworzone przez osoby prawne
+602;Muzeum Historii Obronnoúci i OrÍøa Polskiego w Drzewcach  (w organizacji);86-065;Drzewce;£ochowo;bydgoski;KUJAWSKO-POMORSKIE;ul.;Drzewiecka;15;;;;;;;;"Stowarzyszenie Kulturalno-Naukowe ""AWANGARDA""                                         w Drzewcach";;;;;Utworzone przez osoby prawne
+603;Muzeum Historii Ruchu Harcerskiego (w organizacji);91-849;£Ûdü;£Ûdü (£Ûdü-Ba≥uty);m. £Ûdü;£”DZKIE;ul.;Jonschera;1;4;;;;;;;"Fundacja ""Montownia WraøeÒ Kulturalnych""";;;;;Utworzone przez osoby prawne
+604;Muzeum Historii Szczypiorna ;62-800;Kalisz;Kalisz;m. Kalisz;WIELKOPOLSKIE;ul.;Wroc≥awska;189;;;;;;;;Stowarzyszenie Szczypiorniak z siedzibπ w Kaliszu ;;;;;Utworzone przez osoby prawne
+605;Muzeum Historii Twierdzy åwinoujúcie;72-600;åwinoujúcie;åwinoujúcie;m. åwinoujúcie;ZACHODNIO-POMORSKIE;ul.;Jachtowa;1;;;;;;;;Stowarzyszenie Mi≥oúnikÛw FortÛw w åwinoujúciu ÑRedutaî;;;;;Utworzone przez osoby prawne
+606;Muzeum Historyczne im. 7 Pu≥ku LansjerÛw NadwiúlaÒskich (w†organizacji);05-074;HalinÛw;HalinÛw;miÒski;MAZOWIECKIE;ul.;Okuniewska;114;;;;;;;;Stowarzyszenie Historyczno ñ Edukacyjne im. 7 Pu≥ku LansjerÛw NadwiúlaÒskich ;;;;;Utworzone przez osoby prawne
+607;Muzeum Historyczne ÑSkarbî w†Policach;72-010;Police;Police;policki;ZACHODNIO-POMORSKIE;ul.;SpÛ≥dzielcza;31;;;;;;;;Stowarzyszenie PrzyjaciÛ≥ Ziemi Polickiej ÑSkarbî z siedzibπ w Policach ;;;;;Utworzone przez osoby prawne
+608;Muzeum Historyczne przy PBG SpÛ≥ka Akcyjna;62-081;Wysogotowo (poczta Przeümierowo);Dπbrowa;poznaÒski;WIELKOPOLSKIE;ul.;SkÛrzewska;35;;;;;;;;PBG S. A z siedzibπ w Wysogotowie ;;;;;Utworzone przez osoby prawne
+609;Muzeum Historyczne w Bytomiu (w†organizacji);41-902;Bytom;Bytom;m. Bytom;åL•SKIE;ul.;Prusa;14;5;;;;;;;Fundacja im. Mieczys≥awa Dumnickiego;;;;;Utworzone przez osoby prawne
+610;Muzeum Hutnictwa Cynku - Walcownia;40-387;Katowice;Katowice;m. Katowice;åL•SKIE;ul.;11 Listopada;50;;;;;;;;Fundacja Ochrony Dziedzictwa Przemys≥owego ålπska ;;;;;Utworzone przez osoby prawne
+611;Muzeum Hutnictwa Doliny Ma≥ej Panwi;46-040;Ozimek;Szczedrzyk;opolski;OPOLSKIE;ul.;Hutnicza;1;;;;;;;;Stowarzyszenie Dolina Ma≥ej Panwi;;;;;Utworzone przez osoby prawne
+612;Muzeum im. G. i. J. Osiakowskich (w†organizacji);62-800;Kalisz;Kalisz;m. Kalisz;WIELKOPOLSKIE;ul.;Garbarska;2;;;;;;;;Fundacja ,,KrÛla Salomonaî;;;;;Utworzone przez osoby prawne
+613;Muzeum Instytutu TarnogÛrskiego ;42-600;Tarnowskie GÛry;Tarnowskie GÛry (Repty);tarnogÛrski;åL•SKIE;ul.;Ligonia;7;;;;;;;;Instytut TarnogÛrski i Muzeum ;;;;;Utworzone przez osoby prawne
+614;Muzeum Kampanii Wrzeúniowej i†Twierdzy Modlin;05-100;Nowy DwÛr Mazowiecki (Twierdza Modlin);KazuÒ Nowy;nowodworski;MAZOWIECKIE;ul.;Baúki MurmaÒskiej;164;;;;;;;;Stowarzyszenie PrzyjaciÛ≥ Muzeum Kampanii Wrzeúniowej i Twierdzy Modlin;;;;;Utworzone przez osoby prawne
+615;Muzeum Katolickiego Uniwersytetu Lubelskiego Jana Paw≥a II (w organizacji);20-950;"Lublin 
+";Lublin ;lubelski;LUBELSKIE;Al.;Rac≥awickie;14;;;;;;;;Katolicki Uniwersytet Lubelski Jana Paw≥a II ;;;;;Utworzone przez osoby prawne 
+616;Muzeum Kierownictwa Dywersji Armii Krajowej w Stalowej Woli - Rozwadowie (w organizacji);37-464;Stalowa Wola;Stalowa Wola;stalowowolski;PODKARPACKIE;ul. ;Stanis≥awa Be≥øyÒskiego ;18;;;;;;;;Fundacja KEDYW;;;;;Utworzone przez osoby prawne 
+617;Muzeum Kolekcji im. Jana Paw≥a II Fundacji Carroll-PorczyÒskich w†Warszawie;00-139;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;Plac;Bankowy;1;;;;;;;;Fundacja Arteks i Konferencja Episkopatu Polski ;;;;;Utworzone przez osoby prawne
+618;Muzeum Kolekcja Sztuki WspÛ≥czesnej;26-600;Radom;Radom;m. Radom;MAZOWIECKIE;ul.;Kopernika;1;;;;;;;;Samorzπdowa instytucja kultury - Mazowieckie Centrum Sztuki WspÛ≥czesnej ÑElektrowniaî w Radomiu, dla ktÛrej organizatorem jest WojewÛdztwo Mazowieckie;;;;;Utworzone przez osoby prawne
+619;Muzeum Komunikacji w Warszawie (w†organizacji) ;03-309;Warszawa;Warszawa (TargÛwek);m. st. Warszawa;MAZOWIECKIE;ul.;Poøarowa;2;;;;;;;;Fundacja Heredis ;;;;;Utworzone przez osoby prawne
+620;Muzeum Ksiπøki Artystycznej w £odzi;90-349;£Ûdü;£Ûdü (£Ûdü-Widzew);m. £Ûdü;£”DZKIE;ul.;Tymienieckiego;24;;;;;;;;Fundacja Correspondance des Arts;;;;;Utworzone przez osoby prawne
+621;Muzeum Lokalne Kolejki Szprotawskiej w Zielonej GÛrze (w organizacji);65-462;Zielona GÛra;Zielona GÛra;m. Zielona GÛra;LUBUSKIE;ul.;Ogrodowa;3c;;;;;;;;Polskie Towarzystwo Krajoznawcze;;;;;Utworzone przez osoby prawne
+622;Muzeum Lotnictwa i Techniki Militarnej w Rogowie;72-330;Rogowo,;Mrzeøyno;gryficki;ZACHODNIO-POMORSKIE;;Rogowo;376;41;;;;;;;Fundacja na rzecz Ochrony ZabytkÛw militarnych i propagowania sportÛw lotniczych ,,Fort-Rogowoî z siedzibπ w†Rogowie;;;;;Utworzone przez osoby prawne
+623;Muzeum Lotnictwa Ziemi åwidwiÒskiej (w organizacji);78-300;åwidwin;åwidwin;úwidwiÒski;ZACHODNIO-POMORSKIE;ul.;Niedzia≥kowskiego;17;;;;;;;;Stowarzyszenie PrzyjaciÛ≥ Lotniska Wojskowego åwidwin z siedzibπ w åwidwinie;;;;;Utworzone przez osoby prawne
+624;Muzeum Lotnicze w GÛraszce;05-462;GÛraszka Gm. Wiπzowna ;Wiπzowna;otwocki;MAZOWIECKIE;;Lotnisko GÛraszka;;;;;;;;;Fundacja ÑPolskie Or≥yî;;;;;Utworzone przez osoby prawne
+625;Muzeum Lwowa i KresÛw Po≥udniowo-Wschodnich (w organizacji);96-325;Radziejowice;Radziejowice;øyrardowski;MAZOWIECKIE;;KuklÛwka Radziejowicka;23A;;;;;;;;Fundacja LwÛw i Kresy Po≥udniowo-Wschodnie;;;;;Utworzone przez osoby prawne
+626;Muzeum Marii Sk≥odowskiej - Curie Polskiego Towarzystwa Chemicznego;00-227;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;ul.;Freta;16;;;;;;;;Polskie Towarzystwo Chemiczne;;;;;Utworzone przez osoby prawne
+627;Muzeum Miasta i Rzeki Warty przy Oddziale PTTK im. dr E. Kaleniewicz w Warcie;98-290;Warta;Warta;sieradzki;£”DZKIE;ul.;20 stycznia ;26;;;;;;;;Oddzia≥ Polskiego Towarzystwa Turystyczno ñ Krajoznawczego im. dr Eugenii Kaleniewicz w Warcie;;;;;Utworzone przez osoby prawne
+628;Muzeum Miejskie w GÛrowie I≥aweckim ;11-220;GÛrowo I≥aweckie;GÛrowo I≥aweckie;bartoszycki;WARMI—SKO-MAZURSKIE;ul.;Sikorskiego;19;3;;;;;;;Stowarzyszenie Historyczno ñ Kolekcjonerskie Ziemi GÛrowskiej ,,DREYSEî;;;;;Utworzone przez osoby prawne
+629;Muzeum Militarnych DziejÛw ålπska w†Pszczynie (w organizacji);43-200;Pszczyna;GÛra;pszczyÒski;åL•SKIE;ul.;Katowicka;1;;;;;;;;,,PRO MEMORIAî Stowarzyszenie Bitwy pod Pszczynπ 1939;;;;;Utworzone przez osoby prawne
+630;Muzeum Morskiego Dywizjonu Lotniczego w Pucku;84-100;Puck;Swarzewo;pucki;POMORSKIE;ul.;10 Lutego;36;;;;;;;;Stowarzyszenie Historyczne Morskiego Dywizjonu Lotniczego w Pucku;;;;;Utworzone przez osoby prawne
+631;Muzeum Nauk Rolniczych im. Ksiπøπt Czartoryskich w Pu≥awach (w organizacji);24-100;Pu≥awy;GÛra Pu≥awska;pu≥awski;LUBELSKIE;ul.;Czartoryskich;8;;;;;;;;Instytut Uprawy Nawoøenia i Gleboznawstwa ñ PaÒstwowy Instytut Badawczy w Pu≥awach;;;;;Utworzone przez osoby prawne
+632;Muzeum Obrony Wybrzeøa;84-150;Hel;Hel;pucki;POMORSKIE;ul.;Helska;16;;;;;;;;Stowarzyszenie ,,Przyjaciele Heluî, Sekcja ZabytkÛw Militarnych;;;;;Utworzone przez osoby prawne
+633;Muzeum OrÍøa i Techniki Uøytkowej;05-230;Koby≥ka;Koby≥ka;wo≥omiÒski;MAZOWIECKIE;ul.;Leszka;23;;;;;;;;Fundacja EKSPONAT;;;;;Utworzone przez osoby prawne
+634;Muzeum OrÍøa Polskiego im. 1.†Brygady Pancernej im. BohaterÛw Westerplatte;26-903;G≥owaczÛw;BrzÛza;kozienicki;MAZOWIECKIE;;Studzianki Pancerne;14;;;;;;;;Fundacja ObroÒcÛw Ojczyzny ,,Pancerze i†Skrzyd≥aî;;;;;Utworzone przez osoby prawne
+635;Muzeum ÑOtwarta Twierdzaî-Otwarte Rozproszone Ekomuzeum Cywilizacji i Wojny XIX i XX wieku;31-153;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;Szlak;26;;;;;;;;Fundacja Aktywnej Ochrony ZabytkÛw, Techniki i Dziedzictwa Kulturowego ÑJanusî;;;;;Utworzone przez osoby prawne
+636;Muzeum Pamiπtek Turystycznych PTTK w Radomiu;26-600;Radom;Radom;m. Radom;MAZOWIECKIE;ul.;Mi≥a;10;;;;;;;;Zarzπd Oddzia≥u Miejskiego PTTK w†Radomiu;;;;;Utworzone przez osoby prawne
+637;Muzeum PamiÍci Narodowej Kobiet Polskich  w Szczecinie   (w organizacji);71-612;Szczecin;Szczecin;m. Szczecin;ZACHODNIO-POMORSKIE;ul.;Malczewskiego;35;LU1;;;;;;;Fundacja Oleander;;;;;Utworzone przez osoby prawne
+638;Muzeum Papiernictwa w Dawnej KrÛlewskiej Fabryce Papieru w Konstancinie-Jeziornie;05-520;Konstancin -Jeziorna;Konstancin-Jeziorna;piaseczyÒski;MAZOWIECKIE;ul.;Mirkowska;45;;;;;;;;Konstans Sp. z o.o.;;;;;Utworzone przez osoby prawne
+639;Muzeum Parowozownia Jarocin w†Jarocinie  (w organizacji);63-200;Jarocin;Jarocin;jarociÒski;WIELKOPOLSKIE;ul.;Parowozownia;1;;;;;;;;Towarzystwo Kolei Wielkopolskiej  z†siedzibπ w Jarocinie;;;;;Utworzone przez osoby prawne
+640;Muzeum ÑPod Kuüniczym M≥otemî  ;34-500;Zakopane;Zakopane;tatrzaÒski;MA£OPOLSKIE;Plac;Niepodleg≥oúci;6;;;;;;;;ZakopiaÒska Fundacja Narodowa ÑSkansenî;;;;;Utworzone przez osoby prawne
+641;Muzeum Polskiego Czynu Zbrojnego w Armiach Sprzymierzonych (w organizacji);83-330 ;Borkowo;Øukowo;kartuski ;POMORSKIE;ul. ;Kartuska ;65;;;;;;;;"Fundacja Muzeum Polskiego Czynu Zbrojnego Armii Sprzymierzonych ,,ALLIANT""";;;;;Utworzone przez osoby prawne 
+642;Muzeum PowozÛw Galowice;55-020;ØÛrawina, Galowice;Brzeúcie;wroc≥awski;DOLNOåL•SKIE;ul.;Leúna;5;;;;;;;;Fundacja ,,Gallenî;;;;;Utworzone przez osoby prawne
+643;Muzeum Poøarnictwa  w Przodkowie;83-304;Przodkowo;Przodkowo;kartuski;POMORSKIE;ul.;Kartuska;23;;;;;;;;Stowarzyszenie Ochotnicza Straø Poøarna w†Przodkowie;;;;;Utworzone przez osoby prawne
+644;Muzeum PRL-u i Historii Miasta Nowy DwÛr Mazowiecki (w organizacji);05-100;Nowy DwÛr Mazowiecki;KazuÒ Nowy;nowodworski;MAZOWIECKIE;ul.;Nowo≥Íczna;2;;;;;;;;Fundacja dla Muzeum PRL-u i Historii Miasta Nowy DwÛr Mazowiecki;;;;;Utworzone przez osoby prawne
+645;Muzeum Przemys≥u i Techniki w†Wa≥brzychu ;58-304;Wa≥brzych;Wa≥brzych;wa≥brzyski;DOLNOåL•SKIE;ul.;Piotra Wysockiego;29;;;;;;;;Samorzπdowa instytucja kultury pn. Park Wielokulturowy ñ Stara Kopalnia w†Wa≥brzychu, dla ktÛrej organizatorem jest Gmina Wa≥brzych;;;;;Utworzone przez osoby prawne
+646;Muzeum Przemys≥u Zapa≥czanego w CzÍstochowie;42-200;CzÍstochowa;Nowa Wieú;czÍstochowski;åL•SKIE;ul.;Ogrodowa;68;;;;;;;;SpÛ≥ka Akcyjna CzÍstochowskie Zak≥ady Przemys≥u Zapa≥czanego ;;;;;Utworzone przez osoby prawne
+647;Muzeum Ratownictwa w Krakowie ;30-363;KrakÛw;KrakÛw (KrakÛw-PodgÛrze);m. KrakÛw;MA£OPOLSKIE;ul.;Rzemieúlnicza;10;;;;;;;;Stowarzyszenie Ochotnicza Straø Poøarna ,,Muzeum Ratownictwaî w Krakowie ;;;;;Utworzone przez osoby prawne
+648;Muzeum Regionalne im. Seweryna Udzieli w Starym Sπczu;33-340;Stary Sπcz;Stary Sπcz;nowosπdecki;MA£OPOLSKIE;ul.;Rynek;6;;;;;;;;Towarzystwo Mi≥oúnikÛw Starego Sπcza ;;;;;Utworzone przez osoby prawne
+649;Muzeum Regionalne PTTK im. Antoniego Minkiewicza w Olkuszu;32-300;Olkusz;Olkusz;olkuski;MA£OPOLSKIE;ul.;Rynek;20;;;;;;;;Polskie Towarzystwo Turystyczno-Krajoznawcze im. Aleksandra Janowskiego Oddzia≥ w Olkuszu ;;;;;Utworzone przez osoby prawne
+650;Muzeum Regionalne PTTK im. Ignacego £ukasiewicza w Gorlicach;38-300;Gorlice;Gorlice;gorlicki;MA£OPOLSKIE;ul.;;;;;;;;;;Gorlicki Oddzia≥ Polskiego Towarzystwa Turystyczno-Krajoznawczego;;;;;Utworzone przez osoby prawne
+651;Muzeum Regionalne PTTK im. Izabeli Ks. Czartoryskiej w Pu≥awach ;24-100;Pu≥awy;GÛra Pu≥awska;pu≥awski;LUBELSKIE;ul.;Czartoryskich;6a;;;;;;;;Oddzia≥ Polskiego Towarzystwa Turystyczno ñ Krajoznawczego w Pu≥awach ;;;;;Utworzone przez osoby prawne
+652;Muzeum Regionalne PTTK im. W≥adys≥awa Kowalskiego w Dobczycach;32-410;Dobczyce;Dobczyce;myúlenicki;MA£OPOLSKIE;ul.;PodgÛrska;1;;;;;;;;Oddzia≥ Polskiego Towarzystwa Turystyczno ñ Krajoznawczego w†Dobczycach ;;;;;Utworzone przez osoby prawne
+653;Muzeum Regionalne PTTK w KoÒskich;26-200;KoÒskie;NieúwiÒ;konecki;åWI TOKRZYSKIE;ul.;PartyzantÛw;1;;;;;;;;Zarzπd Oddzia≥u Polskiego Towarzystwa Turystyczno - Krajoznawczego w KoÒskich;;;;;Utworzone przez osoby prawne
+654;Muzeum Regionalne w Brzesku (w organizacji);32-800;Brzesko;Brzesko;brzeski;MA£OPOLSKIE;ul.;Koúciuszki;2;;;;;;;;wewnÍtrzna jednostka organizacyjna Miejskiego Oúrodka Kultury w Brzesku ;;;;;Utworzone przez osoby prawne
+655;Muzeum Regionalne w Dobrodzieniu (w organizacji);46-380;DobrodzieÒ;Pludry;oleski;OPOLSKIE;Plac;Wolnoúci;24;;;;;;;;wewnÍtrzna jednostka organizacyjna DobrodzieÒskiego Oúrodka Kultury i Sportu z siedzibπ w Dobrodzieniu, dla ktÛrego Organizatorem jest Gmina DobrodzieÒ;;;;;Utworzone przez osoby prawne
+656;Muzeum Regionalne w Gocza≥kowicach-Zdroju (w organizacji);43-230;Gocza≥kowice-ZdrÛj;Gocza≥kowice-ZdrÛj;pszczyÒski;åL•SKIE;ul.;G≥Ûwna;46A;;;;;;;;Stowarzyszenie PrzyjaciÛ≥ Gocza≥kowic-Zdroju;;;;;Utworzone przez osoby prawne
+657;Muzeum Regionalne w HandzlÛwce;37-123;HandzlÛwka;HandzlÛwka;≥aÒcucki;PODKARPACKIE;ul.;HandzlÛwka;107;;;;;;;;Stowarzyszenie Promocji i Rozwoju Wsi HandzlÛwka ;;;;;Utworzone przez osoby prawne
+658;Muzeum Regionalne w Krokowej;84-100;Krokowa;Swarzewo;pucki;POMORSKIE;ul.;Zamkowa;1;;;;;;;;Fundacja Europejskie Spotkania Kaszubskie Centrum Kultury Krokowa;;;;;Utworzone przez osoby prawne
+659;Muzeum Regionalne w Pilünie;39-220;Pilzno;Pilzno;dÍbicki;PODKARPACKIE;ul.;Petrycego;8;;;;;;;;Dom Kultury w Pilünie ;;;;;Utworzone przez osoby prawne
+660;Muzeum Romanowscy w organizacji z†siedzibπ w Poznaniu ;61-407;PoznaÒ;PoznaÒ (PoznaÒ-Wilda);m. PoznaÒ;WIELKOPOLSKIE;ul.;Franciszka Witaszka;4;;;;;;;;Fundacja Romanowscy ;;;;;Utworzone przez osoby prawne
+661;Muzeum Sali BHP Stoczni GdaÒskiej (w organizacji);80-864;GdaÒsk;GdaÒsk;m. GdaÒsk;POMORSKIE;ul.;Ks. Jerzego Popie≥uszki;6;;;;;;;;Fundacja Promocji Solidarnoúci z siedzibπ w GdaÒsku;;;;;Utworzone przez osoby prawne
+662;Muzeum Spraw Wojskowych w†Krakowie ;30-698;KrakÛw;KrakÛw (KrakÛw-PodgÛrze);m. KrakÛw;MA£OPOLSKIE;ul.;Sawiczewskich;46;;;;;;;;Fundacja ,,Gloria Fortibusî;;;;;Utworzone przez osoby prawne
+663;Muzeum Sue Ryder ;00-588;Warszawa (Rogatka Mokotowska);Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;Plac;Uni Lubelskiej;3;;;;;;;;Fundacja Sue Ryder ;;;;;Utworzone przez osoby prawne
+664;Muzeum Sztuki Drukarskiej i Papiernictwa  im. Fiola i Fiodorowa w Supraúlu  (w organizacji);16-030;Supraúl;Supraúl;bia≥ostocki;PODLASKIE;ul.;Klasztorna;1;;;;;;;;Muzeum Sztuki Drukarskiej i Papiernictwa im. Fiola i Fiodorowa sp. z o.o.;;;;;Utworzone przez osoby prawne
+665;Muzeum Sztuki Ksiπøki;75-120;Koszalin;Koszalin;m. Koszalin;ZACHODNIO-POMORSKIE;ul.;SzczeciÒska;1;;;;;;;;Wydawnictwo Artystyczne Kurtiak i Ley;;;;;Utworzone przez osoby prawne
+666;Muzeum Sztuki Reduktywnej;59-850;åwieradÛw ZdrÛj;åwieradÛw-ZdrÛj;lubaÒski;DOLNOåL•SKIE;ul.;Pi≥sudskiego;29;;;;;;;;Fundacja Gerarda na Rzecz Sztuki WspÛ≥czesnej;;;;;Utworzone przez osoby prawne
+667;Muzeum Techniki i Przemys≥u NOT w Warszawie;00-901;Warszawa;Warszawa (årÛdmieúcie);m. st. Warszawa;MAZOWIECKIE;Plac;Defilad;1;;;;;;;;Naczelna Organizacja Techniczna Federacja StowarzyszeÒ Naukowo ñ Technicznych ;;;;;Utworzone przez osoby prawne
+668;Muzeum Techniki i Sztuki Wojennej  (w organizacji);87-400;Golub-DobrzyÒ Ostrowite;Golub-DobrzyÒ;golubsko-dobrzyÒski;KUJAWSKO-POMORSKIE;;;;;;;;;;;Stowarzyszenie na Rzecz Rekonstrukcji Chorπgwi Kujawskiej;;;;;Utworzone przez osoby prawne
+669;Muzeum Techniki i Uzbrojenia Stowarzyszenia Strzelecko Kolekcjonerskiego Olimp w Olimpinie (w organizacji);86-061;Olimpin;Brzoza;bydgoski;KUJAWSKO-POMORSKIE;ul.;£πkowa;11;;;;;;;;Stowarzyszenie Strzelecko - Kolekcjonerskie Olimp  ;;;;;Utworzone przez osoby prawne
+670;Muzeum Techniki i Uzbrojenia Wojskowego w Kaliszu przy Stowarzyszeniu Strzeleckim ,,Bellonaî (w organizacji);62-800;Kalisz;Kalisz;m. Kalisz;WIELKOPOLSKIE;ul.;Konopnickiej;2-;4;;;;;;;Stowarzyszenie Strzeleckie ,,Bellonaî;;;;;Utworzone przez osoby prawne
+671;Muzeum Techniki Militarnej i Historii Pomorza w K≥aninie (w organizacji);84-107;K≥anino;K≥anino;pucki;POMORSKIE;;K≥anino;2;;;;;;;;"Fundacja ""EXERCITUS""";;;;;Utworzone przez osoby prawne
+672;Muzeum Techniki Militarnej Riese;57-450;Ludwikowice;Ludwikowice K≥odzkie;k≥odzki;DOLNOåL•SKIE;ul.;Fabryczna;37d;;;;;;;;Stowarzyszenie Riese;;;;;Utworzone przez osoby prawne
+673;Muzeum Techniki Militarnej w†Warszawie (w organizacji);02-484;Warszawa;Warszawa (W≥ochy);m. st. Warszawa;MAZOWIECKIE;ul.;Na KraÒcu;107;;;;;;;;Fundacja Ochrony ZabytkÛw Techniki Wojskowej ;;;;;Utworzone przez osoby prawne
+674;Muzeum Techniki Rolniczej w Bierkowie (w organizacji);76-206;Bierkowo;S≥upsk;m. S≥upsk;POMORSKIE;ul.;Grodzka;168;;;;;;;;Fundacja Techniki Rolniczej;;;;;Utworzone przez osoby prawne
+675;Muzeum Techniki Wojskowej ,,GRYFî;84-242;DπbrÛwka;Luzino;wejherowski;POMORSKIE;ul.;pp≥k. Ryszarda Lubowiedzkiego;2;;;;;;;;Fundacja Historyczna ,,Gryfî;;;;;Utworzone przez osoby prawne
+676;Muzeum Techniki Wojskowej i Tradycji Jednostki Strzeleckiej 4008 £Ûdü;91-735;£Ûdü;£Ûdü (£Ûdü-Ba≥uty);m. £Ûdü;£”DZKIE;ul.;èrÛd≥owa;52;;;;;;;;Stowarzyszenie Jednostka Strzelecka 4008 £Ûdü;;;;;Utworzone przez osoby prawne
+677;Muzeum Techniki Wojskowej przy Stowarzyszeniu Mi≥oúnikÛw SprzÍtu Pancernego ÑSKOTî w årodzie Wielkopolskiej ;63-000;åroda Wielkopolska;Dominowo;úredzki;WIELKOPOLSKIE;ul.;Marcinkowskiego;17;;;;;;;;Stowarzyszenie Mi≥oúnikÛw SprzÍtu Pancernego ÑSKOTî w årodzie Wielkopolskiej ;;;;;Utworzone przez osoby prawne
+678;Muzeum Tercetu Egzotycznego w Lubiniu (w organizacji);64-010;KrzywiÒ;Jerka;koúciaÒski;WIELKOPOLSKIE;ul.;Mickiewicza;3;;;;;;;;Stowarzyszenie Oliwskie S≥oneczko z siedzibπ w Lubiniu;;;;;Utworzone przez osoby prawne
+679;Muzeum Tradycji i Techniki w organizacji ;86-260;Unis≥aw ;Unis≥aw ;che≥miÒski;KUJAWSKO-POMORSKIE;ul. ;Ogrodowa ;6;;;;;;;;"Stowarzyszenie ,,Towarzystwo Sportowo- Kolekcjonerskie"" z siedzibπ w miejscowoúci Unis≥aw ";;;;;Utworzone przez osoby prawne 
+680;Muzeum Tradycji Kolejowej w†WÍgorzewie ;11-600;WÍgorzewo;WÍgorzewo;wÍgorzewski;WARMI—SKO-MAZURSKIE;ul.;Jaracza;4;;;;;;;;Fundacja ,,Dziedzictwo Naszeî;;;;;Utworzone przez osoby prawne
+681;Muzeum Tradycji Rybactwa StawÛw Milickich i Doliny Baryczy (w†organizacji);56-300;Milicz;CieszkÛw;milicki;DOLNOåL•SKIE;;Ruda Su≥owska;20;;;;;;;;SpÛ≥ka Akcyjna Stawy Milickie z siedzibπ w†Rudzie Su≥owskiej ;;;;;Utworzone przez osoby prawne
+682;Muzeum Twierdzy Modlin w organizacji ;05-160;Nowy DwÛr Mazowiecki;Nowy DwÛr Mazowiecki (Modlin-Twierdza);nowodworski;MAZOWIECKIE;ul.;Bema;200C;;;;;;;;Fundacja Nasza Historia ;;;;;Utworzone przez osoby prawne
+683;Muzeum Twierdzy Przemyúl (w†organizacji);37-700;Przemyúl;Przemyúl;m. Przemyúl;PODKARPACKIE;ul.;Katedralna;6;;;;;;;;Stowarzyszenie 3 Historycznego Galicyjskiego Pu≥ku Artylerii Fortecznej im. KsiÍcia Kinskyíego z siedzibπ w Przemyúlu;;;;;Utworzone przez osoby prawne
+684;Muzeum Uniwersytetu JagielloÒskiego;31-010;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;ul.;JagielloÒska;15;;;;;;;;Uniwersytet JagielloÒski;;;;15.07.2011;Utworzone przez osoby prawne
+685;Muzeum Uzbrojenia w Stanis≥awowie (w organizacji);59-424;Stanis≥awÛw nr 41;Jawor;jaworski;DOLNOåL•SKIE;;"Baza Lotnicza ,,Baryt""";;;;;;;;;Jednostka Poszukiwawczo-Ratownicza w†Z≥otoryi;;;;;Utworzone przez osoby prawne
+686;Muzeum Wa≥u Pomorskiego i Militarnej Historii Pomorza w Szczecinku                             ;78-400;Szczecinek;ØÛ≥tnica;szczecinecki;ZACHODNIO-POMORSKIE;ul.;Koúciuszki;93;;;;;;;;OgÛlnopolskie Stowarzyszenie Turystyczno  Historyczne Jazda 4x4;;;;;Utworzone przez osoby prawne
+687;Muzeum Wa≥u Pomorskiego w Wa≥czu  (w organizacji) ;78-600;Wa≥cz;Miros≥awiec;wa≥ecki;ZACHODNIO-POMORSKIE;ul.;Wojska Polskiego;99;19;;;;;;;Stowarzyszenie Grup Warownych Pojezierza Wa≥eckiego ;;;;;Utworzone przez osoby prawne
+688;Muzeum Wis≥y årodkowej i Ziemi Wyszogrodzkiej;09-450;WyszogrÛd;WyszogrÛd;p≥ocki;MAZOWIECKIE;ul.;Rynek;1;;;;;;;;"Samorzπdowa instytucja kultury - Centrum Kultury ""Wis≥a"", dla ktÛrej organizatorem jest Gmina i Miasto WyszogrÛd";;;;;Utworzone przez osoby prawne
+689;Muzeum Witraøu;31-111;KrakÛw;KrakÛw (KrakÛw-årÛdmieúcie);m. KrakÛw;MA£OPOLSKIE;Aleja;KrasiÒskiego;23;;;;;;;;Krakowski zak≥ad WitraøÛw S.G. ØeleÒski Sp. z o.o.;;;;;Utworzone przez osoby prawne
+690;Muzeum Wydzia≥u Nauk o Ziemi Uniwersytetu ålπskiego w Katowicach;41-200;Sosnowiec;Sosnowiec;m. Sosnowiec;åL•SKIE;ul.;BÍdziÒska;60;;;;;;;;Uniwersytet ålπski w Katowicach ;;;;;Utworzone przez osoby prawne
+691;Muzeum Zamek w Rydzynie (w†organizacji);64-130;Rydzyna;Rydzyna;leszczyÒski;WIELKOPOLSKIE;pl.;Zamkowy;1;;;;;;;;Stowarzyszenie InøynierÛw i TechnikÛw MechanikÛw Polskich z siedzibπ w†Warszawie ;;;;;Utworzone przez osoby prawne
+692;Muzeum-Zamek w Baranowie Sandomierskim;39-450;BaranÛw Sandomierski;BaranÛw Sandomierski;tarnobrzeski;PODKARPACKIE;ul.;Zamkowa;20;;;;;;;;Agencja Rozwoju Przemys≥u S.A. w†Warszawie;;;;;Utworzone przez osoby prawne
+693;Muzeum Zamku w Chudowie;44-177;PaniÛwki;Giera≥towice;gliwicki;åL•SKIE;ul.;Podzamcze;6 (ChudÛw);;;;;;;;Fundacja ,,Zamek ChudÛwî;;;;;Utworzone przez osoby prawne
+694;Muzeum-ZespÛ≥ Zamkowy w Niedzicy;34-441;Niedzica;Niedzica;nowotarski;MA£OPOLSKIE;ul.;Niedzica-Zamek;1;;;;;;;;Stowarzyszenie HistorykÛw Sztuki;;;;;Utworzone przez osoby prawne
+695;Muzeum Ziem NadbuøaÒskich ñ ZespÛ≥ Pa≥acowy OssoliÒskich SterdyÒ  (w organizacji);08-320;SterdyÒ;SterdyÒ;soko≥owski;MAZOWIECKIE;ul.;Koúcielna;43;;;;;;;;Fundacja Patriotyzm i Niepodleg≥oúÊ Naszych Ziem ;;;;;Utworzone przez osoby prawne
+696;Muzeum Øo≥nierzy WyklÍtych i WiÍüniÛw Politycznych PRL;02-521;Warszawa;Warszawa (MokotÛw);m. st. Warszawa;MAZOWIECKIE;ul.;Rakowiecka;37a;;;;;;;;Muzeum dzia≥a w strukturze organizacyjnej Centralnego Zarzπdu S≥uøby WiÍziennej ;;;;;Utworzone przez osoby prawne
+697;Muzeum Øywej Historii (w organizacji);72-010;Police;Police;policki;ZACHODNIO-POMORSKIE;ul.;Us≥ugowa;1a;;;;;;;;"Stowarzyszenie Historyczne ""549""";;;;;Utworzone przez osoby prawne
+698;Oúrodek Dokumentacji i Historii Ziemi Ømigrodzkiej - Muzeum im. Leona KarciÒskiego w Nowym Ømigrodzie                                                                                                   (w organizacji);38-230;Nowy ØmigrÛd;Nowy ØmigrÛd;jasielski;PODKARPACKIE;ul.;Dukielska;1;;;;;;;;Towarzystwo Mi≥oúnikÛw Nowego Ømigrodu;;;;;Utworzone przez osoby prawne
+699;Pa≥uckie Muzeum Techniki Wojskowej i†Uzbrojenia w Kowalewku;89-240;Kcynia Kowalewko;Kcynia;nakielski;KUJAWSKO-POMORSKIE;;;28;;;;;;;;Jednostka Ratownictwa Medycznego w†Kowalewku ;;;;;Utworzone przez osoby prawne
+700;Pilskie Muzeum Wojskowe (w†organizacji);64-920;Pi≥a;Pi≥a;pilski;WIELKOPOLSKIE;ul.;Ludowa;60;7;;;;;;;Stowarzyszenie Przedmoúcie Pi≥a ;;;;;Utworzone przez osoby prawne
+701;Podkarpackie Muzeum Konia imieniem BASK (w organizacji);37-122;Albigowa ;£aÒcut ;≥aÒcucki;PODKARPACKIE;;;300;;;;;;;;Fundacja BASK;;;;;Utworzone przez osoby prawne 
+702;Podlaskie Muzeum MilitariÛw w Bia≥ymstoku (w organizacji);15-740;Bia≥ystok;Bia≥ystok;m. Bia≥ystok;PODLASKIE;ul.;Antoniukowska;11;;;;;;;;"Stowarzyszenie PasjonatÛw Historii Ziemi Podlaskiej oraz KolekcjonerÛw MilitariÛw ""Grupa WschÛd""";;;;;Utworzone przez osoby prawne
