@@ -12,9 +12,11 @@ def get_object_by_name(name):
         name = unidecode.unidecode(name)
         if city_name == name:
             return dict
-        # if dict['city']
-            # print(dict)
-            # return dict
 
-result = get_object_by_name('Wrocław')
+def get_id_by_name(name):
+    element = get_object_by_name(name)
+    return element['id']
+
+
+result = get_id_by_name('Wrocław')
 print(result)
