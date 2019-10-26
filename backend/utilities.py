@@ -68,6 +68,9 @@ def is_shopping_sunday(date):
 # POSTAL FUNCTIONS
 BASE_POSTAL_URL = 'http://kodpocztowy.intami.pl/api/'
 
+def get_city_from_longname(name):
+    string = name.split('(', 1)[0]
+    return string.strip()
 
 def get_location_from_postal_code(postal_code):
     response = requests.get(BASE_POSTAL_URL + str(postal_code))
@@ -96,3 +99,4 @@ if __name__ == '__main__':
     print(get_id_by_name('Wrocław')) #ID for API call
     print(get_number_of_zabytki('wrocławski', 'Żórawina', 'Żórawina'))
     print(get_coords_by_name('Wrocław'))
+    print(get_city_from_longname('Warszawa (Białołęka)'))
