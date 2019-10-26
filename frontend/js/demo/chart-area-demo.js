@@ -32,22 +32,53 @@ var ctx = document.getElementById("myAreaChart");
 var myLineChart = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    labels: ['0:00 - 0:59', '1:00 - 1:59', '2:00 - 2:59', '3:00 - 3:59', '4:00 - 4:59', '5:00 - 5:59', '6:00 - 6:59', '7:00 - 7:59', '8:00 - 8:59', '9:00 - 9:59', '10:00 - 10:59', '11:00 - 11:59', '12:00 - 12:59', '13:00 - 13:59', '14:00 - 14:59', '15:00 - 15:59', '16:00 - 16:59', '17:00 - 17:59', '18:00 - 18:59', '19:00 - 19:59', '20:00 - 20:59', '21:00 - 21:59', '22:00 - 22:59', '23:00 - 23:59'],
     datasets: [{
-      label: "Earnings",
+      label: "Średnia z godziny",
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
-      borderColor: "rgba(78, 115, 223, 1)",
+      borderColor: "#8B0000",
       pointRadius: 3,
-      pointBackgroundColor: "rgba(78, 115, 223, 1)",
-      pointBorderColor: "rgba(78, 115, 223, 1)",
+      pointBackgroundColor: "#8B0000",
+      pointBorderColor: "#8B0000",
       pointHoverRadius: 3,
-      pointHoverBackgroundColor: "rgba(78, 115, 223, 1)",
-      pointHoverBorderColor: "rgba(78, 115, 223, 1)",
+      pointHoverBackgroundColor: "#8B0000",
+      pointHoverBorderColor: "#8B0000",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [0, 10000, 5000, 15000, 10000, 20000, 15000, 25000, 20000, 30000, 25000, 40000],
+      data: [39.427, 36.825, 37.614, 42.80, 52.634, 51.9813, 26.8412, 30.6320, 19.447, 19.872, 23.8942, 23.755, 23.9617, 29.647, 36.841, 40.827, 41.888, 41.990, 42.25, 44.6886, 46.6218, 53.4827, 58.886, 52.010],
+    },
+    {
+      label: "Zbliżeniowe",
+      lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.05)",
+      borderColor: "#8B0000",
+      pointRadius: 3,
+      pointBackgroundColor: "#8B0000",
+      pointBorderColor: "#8B0000",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "#8B0000",
+      pointHoverBorderColor: "#8B0000",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      //data: [32.55, 30.02, 30.14, 31.01, 39.63, 33.59, 21.79, 23.77, 15.66, 16.8, 20.78, 21.59, 22.43, 27.25, 33.44, 37.16, 38.52, 38.6, 38.63, 39.4, 39.65, 42.02, 42.46, 39.32],
+    },
+    {
+      label: "Kartowe",
+      lineTension: 0.3,
+      backgroundColor: "rgba(78, 115, 223, 0.05)",
+      borderColor: "#8B0000",
+      pointRadius: 3,
+      pointBackgroundColor: "#8B0000",
+      pointBorderColor: "#8B0000",
+      pointHoverRadius: 3,
+      pointHoverBackgroundColor: "#8B0000",
+      pointHoverBorderColor: "#8B0000",
+      pointHitRadius: 10,
+      pointBorderWidth: 2,
+      //data: [100.88, 100.57, 103.6, 126.4, 128.59, 165.09, 61.08, 93.45, 68.04, 55.45, 55.56, 45.78, 39.47, 50.45, 62.73, 67.62, 66.44, 66.71, 68.09, 80.63, 91.74, 120.58, 153.5, 138.7],
     }],
+
   },
   options: {
     maintainAspectRatio: false,
@@ -78,7 +109,7 @@ var myLineChart = new Chart(ctx, {
           padding: 10,
           // Include a dollar sign in the ticks
           callback: function(value, index, values) {
-            return '$' + number_format(value);
+            return number_format(value) + " zł";
           }
         },
         gridLines: {
@@ -110,7 +141,7 @@ var myLineChart = new Chart(ctx, {
       callbacks: {
         label: function(tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + ': $' + number_format(tooltipItem.yLabel);
+          return datasetLabel + ": " + number_format(tooltipItem.yLabel) + " zł";
         }
       }
     }
