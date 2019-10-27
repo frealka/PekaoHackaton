@@ -1,4 +1,4 @@
-var ctx = document.getElementById("myAreaChart");
+var ctx = document.getElementById("myAreaChart1");
 
 var myPredictionChart_1 = new Chart(ctx, {
   type: 'line',
