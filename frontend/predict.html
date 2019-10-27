@@ -25,74 +25,76 @@
   <!-- Page Wrapper -->
   <div id="wrapper">
 
+
     <!-- Sidebar -->
     <ul class="navbar-nav sidebar sidebar-dark accordion bg-primary" id="accordionSidebar">
 
-      <!-- Sidebar - Brand -->
-      <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
-        <div class="sidebar-brand-icon rotate-n-15">
-          <i class="fas fa-cloud-sun"></i>
+        <!-- Sidebar - Brand -->
+        <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.html">
+          <div class="sidebar-brand-icon rotate-n-15">
+            <i class="fas fa-cloud-sun"></i>
+          </div>
+          <div class="sidebar-brand-text mx-3">Pogoda<br>na zysk</div>
+        </a>
+  
+        <!-- Divider -->
+        <hr class="sidebar-divider my-0">
+  
+        <!-- Nav Item - Dashboard -->
+        <li class="nav-item">
+          <a class="nav-link" href="index.html">
+            <i class="fas fa-fw fa-chart-area"></i>
+            <span>Start</span></a>
+        </li>
+  
+        <!-- Divider -->
+        <hr class="sidebar-divider">
+  
+        <!-- Heading -->
+        <div class="sidebar-heading">
+          Przeglądanie
         </div>
-        <div class="sidebar-brand-text mx-3">Pogoda<br>na zysk</div>
-      </a>
-
-      <!-- Divider -->
-      <hr class="sidebar-divider my-0">
-
-      <!-- Nav Item - Dashboard -->
-      <li class="nav-item">
-        <a class="nav-link" href="charts.html">
-          <i class="fas fa-fw fa-chart-area"></i>
-          <span>Start</span></a>
-      </li>
-
-      <!-- Divider -->
-      <hr class="sidebar-divider">
-
-      <!-- Heading -->
-      <div class="sidebar-heading">
-        Przeglądanie
-      </div>
-
-      <!-- Nav Item - Pages Collapse Menu -->
-      <li class="nav-item active">
-        <a class="nav-link" href="charts.html">
-          <i class="fas fa-fw fa-clock"></i>
-          <span>Dzień</span></a>
-      </li>
-
-      <!-- Nav Item - Utilities Collapse Menu -->
-      <li class="nav-item">
-        <a class="nav-link" href="charts.html">
-          <i class="fas fa-fw fa-calendar"></i>
-          <span>Miesiąc</span></a>
-      </li>
-
-      <!-- Divider -->
-      <hr class="sidebar-divider">
-
-      <!-- Heading -->
-      <div class="sidebar-heading">
-        Analiza
-      </div>
-
-      <!-- Nav Item - Pages Collapse Menu -->
-      <li class="nav-item">
-        <a class="nav-link" href="charts.html">
-          <i class="fas fa-fw fa-calendar"></i>
-          <span>Predykcja ruchu</span></a>
-      </li>
-
-      <!-- Divider -->
-      <hr class="sidebar-divider d-none d-md-block">
-
-      <!-- Sidebar Toggler (Sidebar) -->
-      <div class="text-center d-none d-md-inline">
-        <button class="rounded-circle border-0" id="sidebarToggle"></button>
-      </div>
-
-    </ul>
-    <!-- End of Sidebar -->
+  
+        <!-- Nav Item - Pages Collapse Menu -->
+        <li class="nav-item">
+          <a class="nav-link" href="day.html">
+            <i class="fas fa-fw fa-clock"></i>
+            <span>Dzień</span></a>
+        </li>
+  
+        <!-- Nav Item - Utilities Collapse Menu -->
+        <li class="nav-item">
+          <a class="nav-link" href="month.html">
+            <i class="fas fa-fw fa-calendar"></i>
+            <span>Miesiąc</span></a>
+        </li>
+  
+        <!-- Divider -->
+        <hr class="sidebar-divider">
+  
+        <!-- Heading -->
+        <div class="sidebar-heading">
+          Analiza
+        </div>
+  
+        <!-- Nav Item - Pages Collapse Menu -->
+        <li class="nav-item active">
+          <a class="nav-link" href="#">
+            <i class="fas fa-fw fa-calendar"></i>
+            <span>Predykcja ruchu</span></a>
+        </li>
+  
+        <!-- Divider -->
+        <hr class="sidebar-divider d-none d-md-block">
+  
+        <!-- Sidebar Toggler (Sidebar) -->
+        <div class="text-center d-none d-md-inline">
+          <button class="rounded-circle border-0" id="sidebarToggle"></button>
+        </div>
+  
+      </ul>
+      <!-- End of Sidebar -->
+  
 
     <!-- Content Wrapper -->
     <div id="content-wrapper" class="d-flex flex-column">
@@ -443,7 +445,8 @@
   <script src="vendor/chart.js/Chart.min.js"></script>
 
   <!-- Page level custom scripts -->
-  <script src="js/demo/chart-area-demo.js"></script>
+  <script src="js/demo/chart-functions.js"></script>
+  <script src="js/demo/chart-prediction1.js"></script>
   <script src="js/demo/chart-pie-demo.js"></script>
 
 </body>
