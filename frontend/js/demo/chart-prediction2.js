@@ -3,7 +3,7 @@ var ctx = document.getElementById("myAreaChart2");
 var myPredictionChart_2 = new Chart(ctx, {
   type: 'line',
   data: {
-    labels: ["20181002", "20180727", "20180822", "20180824", "20180921", "20181030", "20180731", "20181101", "20181102", "20181103"],
+    labels: ['7:00 - 7:59', '8:00 - 8:59', '9:00 - 9:59', '10:00 - 10:59', '11:00 - 11:59', '12:00 - 12:59', '13:00 - 13:59', '14:00 - 14:59', '15:00 - 15:59', '16:00 - 16:59', '17:00 - 17:59', '18:00 - 18:59', '19:00 - 19:59', '20:00 - 20:59'],
     datasets: [{
       label: "Dane archiwalne",
       lineTension: 0.3,
@@ -17,7 +17,7 @@ var myPredictionChart_2 = new Chart(ctx, {
       pointHoverBorderColor: "#8B0000",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [36693, 23774, 27939, 23519, 1, 4, 33567, , ,],
+      data: [30, 60, 70, 55, 90, 105, 110, 90],
     },
     {
       label: "Predykcja",
@@ -33,7 +33,7 @@ var myPredictionChart_2 = new Chart(ctx, {
       pointHitRadius: 10,
       pointBorderWidth: 2,
       borderDash: [10,5],
-      data: [, , , , , , 33567, 38443, 40881, 43319],
+      data: [ , , , , , , , 90, 50, 30, 20,10,5,0],
     }],
 
   },

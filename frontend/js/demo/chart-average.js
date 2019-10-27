@@ -4,7 +4,7 @@ var myLineChart = new Chart(ctx, {
   data: {
     labels: ['0:00 - 0:59', '1:00 - 1:59', '2:00 - 2:59', '3:00 - 3:59', '4:00 - 4:59', '5:00 - 5:59', '6:00 - 6:59', '7:00 - 7:59', '8:00 - 8:59', '9:00 - 9:59', '10:00 - 10:59', '11:00 - 11:59', '12:00 - 12:59', '13:00 - 13:59', '14:00 - 14:59', '15:00 - 15:59', '16:00 - 16:59', '17:00 - 17:59', '18:00 - 18:59', '19:00 - 19:59', '20:00 - 20:59', '21:00 - 21:59', '22:00 - 22:59', '23:00 - 23:59'],
     datasets: [{
-      label: "Średnia z godziny",
+      label: "Liczba transakcji",
       lineTension: 0.3,
       backgroundColor: "rgba(78, 115, 223, 0.05)",
       borderColor: "#8B0000",
@@ -16,7 +16,7 @@ var myLineChart = new Chart(ctx, {
       pointHoverBorderColor: "#8B0000",
       pointHitRadius: 10,
       pointBorderWidth: 2,
-      data: [39.427, 36.825, 37.614, 42.80, 52.634, 51.9813, 26.8412, 30.6320, 19.447, 19.872, 23.8942, 23.755, 23.9617, 29.647, 36.841, 40.827, 41.888, 41.990, 42.25, 44.6886, 46.6218, 53.4827, 58.886, 52.010],
+      data: [39.427, 36.825, 37.614, 42.80, 52.634, 51.9813, 26.8412, 10, 19.447, 19.872, 23.8942, 23.755, 23.9617, 29.647, 36.841, 40.827, 41.888, 41.990, 42.25, 44.6886, 46.6218, 53.4827, 58.886, 52.010],
     },
     {
       label: "Zbliżeniowe",
@@ -79,7 +79,7 @@ var myLineChart = new Chart(ctx, {
           padding: 10,
           // Include a dollar sign in the ticks
           callback: function(value, index, values) {
-            return number_format(value) + " zł";
+            return number_format(value) + "";
           }
         },
         gridLines: {
@@ -111,7 +111,7 @@ var myLineChart = new Chart(ctx, {
       callbacks: {
         label: function(tooltipItem, chart) {
           var datasetLabel = chart.datasets[tooltipItem.datasetIndex].label || '';
-          return datasetLabel + ": " + number_format(tooltipItem.yLabel) + " zł";
+          return datasetLabel + ": " + number_format(tooltipItem.yLabel) + "";
         }
       }
     }
