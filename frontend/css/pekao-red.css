@@ -8,5 +8,18 @@
 
 .btn-primary{
   background-color: #8B0000!important;
+  border-color: #8B0000!important;
   color:white!important;
+}
+
+.sidebar .nav-item .nav-link span {
+  font-size: 1rem!important;
+}
+
+.sidebar .sidebar-heading {
+  font-size: .8rem!important;
+}
+
+.border-left-primary {
+  border-left: .25rem solid #8B0000!important;
 }
